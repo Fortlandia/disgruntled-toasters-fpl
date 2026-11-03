@@ -4,7 +4,7 @@
       "date": "2026-11-03",
       "competition": "UEFA Champions League",
       "description": "FC Barcelona vs Aston Villa FC — 2026-11-03T20:00:00Z (UTC)",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "source": "football-data.org v4 (API)",
       "fixture_id": 575380,
       "premier_league_clubs": [
@@ -15,7 +15,7 @@
       "date": "2026-11-03",
       "competition": "UEFA Champions League",
       "description": "Manchester United FC vs AS Roma — 2026-11-03T20:00:00Z (UTC)",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "source": "football-data.org v4 (API)",
       "fixture_id": 575383,
       "premier_league_clubs": [

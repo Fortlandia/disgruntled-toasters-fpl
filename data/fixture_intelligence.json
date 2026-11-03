@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-03T21:56:30.902280+00:00",
+  "generated_utc": "2026-11-03T22:08:45.634711+00:00",
   "source": "Official FPL API via fetch_fpl.py; optional manually maintained football_calendar.json",
   "current_gameweek": 10,
   "squad_source_gameweek": 9,
@@ -2143,7 +2143,7 @@
       "date": "2026-11-03",
       "competition": "UEFA Champions League",
       "description": "FC Barcelona vs Aston Villa FC — 2026-11-03T20:00:00Z (UTC)",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "source": "football-data.org v4 (API)",
       "fixture_id": 575380,
       "premier_league_clubs": [
@@ -2154,7 +2154,7 @@
       "date": "2026-11-03",
       "competition": "UEFA Champions League",
       "description": "Manchester United FC vs AS Roma — 2026-11-03T20:00:00Z (UTC)",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "source": "football-data.org v4 (API)",
       "fixture_id": 575383,
       "premier_league_clubs": [
