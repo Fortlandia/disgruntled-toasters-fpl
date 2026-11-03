@@ -91,9 +91,9 @@
     "expected_goals": "0.00",
     "expected_assists": "0.00",
     "minutes": 0,
-    "status": "i",
-    "news": "Back injury - Unknown return date",
-    "chance_next_round": 0
+    "status": "d",
+    "news": "Back injury - 75% chance of playing",
+    "chance_next_round": 75
   },
   {
     "id": 7,
