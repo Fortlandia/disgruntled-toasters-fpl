@@ -1,6 +1,6 @@
 # 🍞 Disgruntled Toasters — Fixture Command Center
 
-Updated (UTC): 2026-11-03T21:39:51.080913+00:00
+Updated (UTC): 2026-11-03T21:56:30.902280+00:00
 **Next unfinished GW:** 10 · **Squad snapshot:** GW9
 
 ## Six-gameweek fixture watch
@@ -24,7 +24,21 @@ None currently listed in the FPL feed.
 
 ## International breaks and other competitions
 
-**Not yet populated.** International, UEFA and domestic cup schedules require a verified calendar feed or curated entries; no events have been assumed.
+- **2026-11-03 · UEFA Champions League** — FC Barcelona vs Aston Villa FC — 2026-11-03T20:00:00Z (UTC) (**IN_PLAY**; source: football-data.org v4 (API))
+- **2026-11-03 · UEFA Champions League** — Manchester United FC vs AS Roma — 2026-11-03T20:00:00Z (UTC) (**IN_PLAY**; source: football-data.org v4 (API))
+- **2026-11-04 · UEFA Champions League** — Fenerbahçe SK vs Liverpool FC — 2026-11-04T17:45:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
+- **2026-11-04 · UEFA Champions League** — RB Leipzig vs Manchester City FC — 2026-11-04T20:00:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
+- **2026-11-04 · UEFA Champions League** — SK Slavia Praha vs Arsenal FC — 2026-11-04T20:00:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
+- **2026-11-24 · UEFA Champions League** — Galatasaray SK vs Aston Villa FC — 2026-11-24T17:45:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
+- **2026-11-24 · UEFA Champions League** — Manchester City FC vs SSC Napoli — 2026-11-24T20:00:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
+- **2026-11-24 · UEFA Champions League** — Arsenal FC vs Borussia Dortmund — 2026-11-24T20:00:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
+- **2026-11-25 · UEFA Champions League** — Club Brugge KV vs Liverpool FC — 2026-11-25T20:00:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
+- **2026-11-25 · UEFA Champions League** — Sporting Clube de Portugal vs Manchester United FC — 2026-11-25T20:00:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
+- **2026-12-08 · UEFA Champions League** — FC Barcelona vs Manchester City FC — 2026-12-08T20:00:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
+- **2026-12-08 · UEFA Champions League** — Aston Villa FC vs Paris Saint-Germain FC — 2026-12-08T20:00:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
+- **2026-12-08 · UEFA Champions League** — Manchester United FC vs RB Leipzig — 2026-12-08T20:00:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
+- **2026-12-09 · UEFA Champions League** — Arsenal FC vs Real Madrid CF — 2026-12-09T20:00:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
+- **2026-12-09 · UEFA Champions League** — Liverpool FC vs FC Porto — 2026-12-09T20:00:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
 
 ## Chip planning
 

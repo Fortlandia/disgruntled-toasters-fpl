@@ -1,3 +1,169 @@
 {
-  "events": []
+  "events": [
+    {
+      "date": "2026-11-03",
+      "competition": "UEFA Champions League",
+      "description": "FC Barcelona vs Aston Villa FC — 2026-11-03T20:00:00Z (UTC)",
+      "status": "IN_PLAY",
+      "source": "football-data.org v4 (API)",
+      "fixture_id": 575380,
+      "premier_league_clubs": [
+        "Aston Villa"
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "competition": "UEFA Champions League",
+      "description": "Manchester United FC vs AS Roma — 2026-11-03T20:00:00Z (UTC)",
+      "status": "IN_PLAY",
+      "source": "football-data.org v4 (API)",
+      "fixture_id": 575383,
+      "premier_league_clubs": [
+        "Man Utd"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "competition": "UEFA Champions League",
+      "description": "Fenerbahçe SK vs Liverpool FC — 2026-11-04T17:45:00Z (UTC)",
+      "status": "TIMED",
+      "source": "football-data.org v4 (API)",
+      "fixture_id": 575387,
+      "premier_league_clubs": [
+        "Liverpool"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "competition": "UEFA Champions League",
+      "description": "RB Leipzig vs Manchester City FC — 2026-11-04T20:00:00Z (UTC)",
+      "status": "TIMED",
+      "source": "football-data.org v4 (API)",
+      "fixture_id": 575388,
+      "premier_league_clubs": [
+        "Man City"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "competition": "UEFA Champions League",
+      "description": "SK Slavia Praha vs Arsenal FC — 2026-11-04T20:00:00Z (UTC)",
+      "status": "TIMED",
+      "source": "football-data.org v4 (API)",
+      "fixture_id": 575389,
+      "premier_league_clubs": [
+        "Arsenal"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "competition": "UEFA Champions League",
+      "description": "Galatasaray SK vs Aston Villa FC — 2026-11-24T17:45:00Z (UTC)",
+      "status": "TIMED",
+      "source": "football-data.org v4 (API)",
+      "fixture_id": 575395,
+      "premier_league_clubs": [
+        "Aston Villa"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "competition": "UEFA Champions League",
+      "description": "Manchester City FC vs SSC Napoli — 2026-11-24T20:00:00Z (UTC)",
+      "status": "TIMED",
+      "source": "football-data.org v4 (API)",
+      "fixture_id": 575398,
+      "premier_league_clubs": [
+        "Man City"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "competition": "UEFA Champions League",
+      "description": "Arsenal FC vs Borussia Dortmund — 2026-11-24T20:00:00Z (UTC)",
+      "status": "TIMED",
+      "source": "football-data.org v4 (API)",
+      "fixture_id": 575399,
+      "premier_league_clubs": [
+        "Arsenal"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "competition": "UEFA Champions League",
+      "description": "Club Brugge KV vs Liverpool FC — 2026-11-25T20:00:00Z (UTC)",
+      "status": "TIMED",
+      "source": "football-data.org v4 (API)",
+      "fixture_id": 575409,
+      "premier_league_clubs": [
+        "Liverpool"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "competition": "UEFA Champions League",
+      "description": "Sporting Clube de Portugal vs Manchester United FC — 2026-11-25T20:00:00Z (UTC)",
+      "status": "TIMED",
+      "source": "football-data.org v4 (API)",
+      "fixture_id": 575411,
+      "premier_league_clubs": [
+        "Man Utd"
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "competition": "UEFA Champions League",
+      "description": "FC Barcelona vs Manchester City FC — 2026-12-08T20:00:00Z (UTC)",
+      "status": "TIMED",
+      "source": "football-data.org v4 (API)",
+      "fixture_id": 575415,
+      "premier_league_clubs": [
+        "Man City"
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "competition": "UEFA Champions League",
+      "description": "Aston Villa FC vs Paris Saint-Germain FC — 2026-12-08T20:00:00Z (UTC)",
+      "status": "TIMED",
+      "source": "football-data.org v4 (API)",
+      "fixture_id": 575416,
+      "premier_league_clubs": [
+        "Aston Villa"
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "competition": "UEFA Champions League",
+      "description": "Manchester United FC vs RB Leipzig — 2026-12-08T20:00:00Z (UTC)",
+      "status": "TIMED",
+      "source": "football-data.org v4 (API)",
+      "fixture_id": 575420,
+      "premier_league_clubs": [
+        "Man Utd"
+      ]
+    },
+    {
+      "date": "2026-12-09",
+      "competition": "UEFA Champions League",
+      "description": "Arsenal FC vs Real Madrid CF — 2026-12-09T20:00:00Z (UTC)",
+      "status": "TIMED",
+      "source": "football-data.org v4 (API)",
+      "fixture_id": 575280,
+      "premier_league_clubs": [
+        "Arsenal"
+      ]
+    },
+    {
+      "date": "2026-12-09",
+      "competition": "UEFA Champions League",
+      "description": "Liverpool FC vs FC Porto — 2026-12-09T20:00:00Z (UTC)",
+      "status": "TIMED",
+      "source": "football-data.org v4 (API)",
+      "fixture_id": 575295,
+      "premier_league_clubs": [
+        "Liverpool"
+      ]
+    }
+  ]
 }
