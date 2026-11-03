@@ -219,6 +219,104 @@ def main():
     }
 
     save_data("scouting_report.json", report)
+    # TOASTERS ANALYTICS ENGINE
+
+    fixture_lookup = {}
+
+    for fixture in fixtures:
+        if fixture["event"] == next_gw:
+            fixture_lookup[fixture["team_h"]] = {
+                "opponent": team_lookup.get(fixture["team_a"]),
+                "difficulty": fixture["team_h_difficulty"],
+                "home": True
+            }
+
+            fixture_lookup[fixture["team_a"]] = {
+                "opponent": team_lookup.get(fixture["team_h"]),
+                "difficulty": fixture["team_a_difficulty"],
+                "home": False
+            }
+
+    analytics = []
+
+    for player in players["elements"]:
+        fixture = fixture_lookup.get(player["team"])
+
+        if not fixture:
+            continue
+
+        if player["status"] == "u":
+            continue
+
+        form = float(player["form"] or 0)
+        xg = float(player.get("expected_goals") or 0)
+        xa = float(player.get("expected_assists") or 0)
+
+        minutes = player["minutes"]
+
+        # Simple scouting score, not a predicted FPL points total.
+        # Season-long xG and xA are normalized per 90 minutes.
+        xgi_per90 = (
+            (xg + xa) * 90 / minutes
+            if minutes > 0 else 0
+        )
+
+        score = (
+            form * 2
+            + xgi_per90 * 5
+            + (6 - fixture["difficulty"]) * 2
+        )
+
+        analytics.append({
+            "id": player["id"],
+            "name": player["web_name"],
+            "club": team_lookup.get(player["team"]),
+            "position": player["element_type"],
+            "price": player["now_cost"] / 10,
+            "form": form,
+            "xgi_per90": round(xgi_per90, 2),
+            "fixture": fixture["opponent"],
+            "home": fixture["home"],
+            "difficulty": fixture["difficulty"],
+            "status": player["status"],
+            "news": player["news"],
+            "score": round(score, 2)
+        })
+
+    analytics.sort(
+        key=lambda player: player["score"],
+        reverse=True
+    )
+
+    squad_ids = {
+        pick["element"]
+        for pick in squad["picks"]
+    } if squad else set()
+
+    captain_candidates = [
+        player for player in analytics
+        if player["id"] in squad_ids
+        and player["position"] in (3, 4)
+        and player["status"] == "a"
+    ]
+
+    transfer_targets = [
+        player for player in analytics
+        if player["id"] not in squad_ids
+        and player["status"] == "a"
+    ]
+
+    save_data("analytics.json", {
+        "gameweek": next_gw,
+        "methodology": (
+            "Heuristic scouting scores based on form, "
+            "season xGI per 90, and next fixture difficulty. "
+            "Not projected FPL points."
+        ),
+        "captain_candidates": captain_candidates[:10],
+        "transfer_targets": transfer_targets[:30],
+        "all_players": analytics
+    })
 
     save_data("last_updated.json", {
         "updated_utc": report["updated_utc"],
