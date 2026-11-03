@@ -64,20 +64,38 @@ def match_club(competitor, clubs):
 
 
 def fetch(code, start, end):
-    params = urllib.parse.urlencode({'dates': f'{start:%Y%m%d}-{end:%Y%m%d}', 'limit': 500})
-    url = f'https://site.api.espn.com/apis/site/v2/sports/soccer/{code}/scoreboard?{params}'
-    request = urllib.request.Request(url, headers={'User-Agent': 'Toasters-FPL-Calendar/1.0', 'Accept': 'application/json'})
-    try:
-        with urllib.request.urlopen(request, timeout=25) as response:
-            data = json.load(response)
-    except urllib.error.HTTPError as exc:
-        # Log the actual HTTP status and sanitized URL for diagnosis.
-        # No credentials are used for this endpoint.
-        body = exc.read(350).decode('utf-8', errors='replace').replace('\\n', ' ')
-        raise ValueError(f'HTTP {exc.code} {exc.reason}; URL={url}; body={body[:250]}') from exc
-    if not isinstance(data, dict) or not isinstance(data.get('events'), list):
-        raise ValueError('Unexpected ESPN response: no events list')
-    return data['events']
+    """Probe a few ESPN scoreboard date formats; never mask HTTP failures."""
+    base = f'https://site.api.espn.com/apis/site/v2/sports/soccer/{code}/scoreboard'
+    probes = [
+        ('single-day', {'dates': f'{start:%Y%m%d}', 'limit': 100}),
+        ('month', {'dates': f'{start:%Y%m}', 'limit': 100}),
+        ('no-dates', {'limit': 100}),
+    ]
+    failures = []
+    for label, params in probes:
+        url = base + '?' + urllib.parse.urlencode(params)
+        req = urllib.request.Request(url, headers={
+            'User-Agent': 'Mozilla/5.0 (compatible; ToastersFixtureBot/1.0)',
+            'Accept': 'application/json',
+        })
+        try:
+            with urllib.request.urlopen(req, timeout=20) as response:
+                payload = json.load(response)
+            if not isinstance(payload, dict) or not isinstance(payload.get('events'), list):
+                raise ValueError('JSON response missing events list')
+            events = payload['events']
+            print(f'ESPN {code}: {label} probe OK ({len(events)} events)')
+            # A single-day response does not cover our 45-day horizon.
+            # Return probe data for diagnosis only; do not replace existing
+            # calendar entries unless a full-range query is proven to work.
+            return events, label
+        except urllib.error.HTTPError as exc:
+            excerpt = exc.read(120).decode('utf-8', errors='replace')
+            excerpt = ''.join(ch if ch.isprintable() else ' ' for ch in excerpt)
+            failures.append(f'{label}=HTTP {exc.code} ({excerpt[:70]})')
+        except (urllib.error.URLError, TimeoutError, ValueError) as exc:
+            failures.append(f'{label}={type(exc).__name__}: {str(exc)[:90]}')
+    raise ValueError('; '.join(failures))
 
 
 def parse_events(raw, code, competition, clubs, today):
@@ -123,7 +141,7 @@ def main():
     updated = list(old)
     for code, name in COMPETITIONS.items():
         try:
-            raw = fetch(code, now, end)
+            raw, probe = fetch(code, now, end)
             new = parse_events(raw, code, name, clubs, now.date().isoformat())
         except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError, ValueError, KeyError, TypeError) as exc:
             print(f'WARNING: {name}: fetch failed ({type(exc).__name__}: {str(exc)[:450]}); preserving previous data')
@@ -133,9 +151,7 @@ def main():
         if not raw:
             print(f'NOTE: {name}: ESPN returned zero events; preserving previous data')
             continue
-        updated = [e for e in updated if not (e.get('source') == SOURCE and e.get('espn_league') == code)]
-        updated.extend(new)
-        print(f'{name}: {len(raw)} ESPN events received, {len(new)} upcoming PL-club fixtures kept')
+        print(f'{name}: probe={probe}; {len(raw)} ESPN events, {len(new)} PL-club matches; diagnostic only, preserving existing calendar until full-range retrieval is validated')
     updated.sort(key=lambda e: (e.get('date', ''), e.get('competition', ''), str(e.get('fixture_id', ''))))
     CALENDAR.write_text(json.dumps({'events': updated}, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print(f'Calendar saved: {len(updated)} total entries (including existing CL fixtures)')
