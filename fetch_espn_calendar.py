@@ -67,8 +67,14 @@ def fetch(code, start, end):
     params = urllib.parse.urlencode({'dates': f'{start:%Y%m%d}-{end:%Y%m%d}', 'limit': 500})
     url = f'https://site.api.espn.com/apis/site/v2/sports/soccer/{code}/scoreboard?{params}'
     request = urllib.request.Request(url, headers={'User-Agent': 'Toasters-FPL-Calendar/1.0', 'Accept': 'application/json'})
-    with urllib.request.urlopen(request, timeout=25) as response:
-        data = json.load(response)
+    try:
+        with urllib.request.urlopen(request, timeout=25) as response:
+            data = json.load(response)
+    except urllib.error.HTTPError as exc:
+        # Log the actual HTTP status and sanitized URL for diagnosis.
+        # No credentials are used for this endpoint.
+        body = exc.read(350).decode('utf-8', errors='replace').replace('\\n', ' ')
+        raise ValueError(f'HTTP {exc.code} {exc.reason}; URL={url}; body={body[:250]}') from exc
     if not isinstance(data, dict) or not isinstance(data.get('events'), list):
         raise ValueError('Unexpected ESPN response: no events list')
     return data['events']
@@ -120,7 +126,7 @@ def main():
             raw = fetch(code, now, end)
             new = parse_events(raw, code, name, clubs, now.date().isoformat())
         except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError, ValueError, KeyError, TypeError) as exc:
-            print(f'WARNING: {name}: fetch failed ({type(exc).__name__}); preserving previous data')
+            print(f'WARNING: {name}: fetch failed ({type(exc).__name__}: {str(exc)[:450]}); preserving previous data')
             continue
         # An empty response could mean ESPN has no fixtures published, or its API
         # changed. Preserve old records rather than silently deleting them.
