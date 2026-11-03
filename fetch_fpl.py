@@ -317,7 +317,140 @@ def main():
         "transfer_targets": transfer_targets[:30],
         "all_players": analytics
     })
+# TOASTERS TRANSFER INTELLIGENCE — VERSION 2
 
+    from collections import Counter
+
+    owned_players = [
+        player_lookup[pick["element"]]
+        for pick in squad["picks"]
+    ] if squad else []
+
+    club_counts = Counter(
+        player["team"] for player in owned_players
+    )
+
+    # Evaluate the next five gameweeks
+    future_fixtures = {}
+
+    for fixture in fixtures:
+        gw = fixture.get("event")
+
+        if gw is None or not (next_gw <= gw < next_gw + 5):
+            continue
+
+        for club_id, difficulty in [
+            (fixture["team_h"], fixture["team_h_difficulty"]),
+            (fixture["team_a"], fixture["team_a_difficulty"])
+        ]:
+            future_fixtures.setdefault(club_id, []).append(
+                difficulty
+            )
+
+    # Build improved player rankings
+    improved_rankings = []
+
+    for player in players["elements"]:
+
+        minutes = player["minutes"]
+
+        # Exclude extremely small samples
+        if minutes < 270:
+            continue
+
+        if player["status"] != "a":
+            continue
+
+        difficulties = future_fixtures.get(player["team"], [])
+
+        if not difficulties:
+            continue
+
+        form = float(player["form"] or 0)
+
+        xg = float(player.get("expected_goals") or 0)
+        xa = float(player.get("expected_assists") or 0)
+
+        xgi_per90 = (xg + xa) * 90 / minutes
+
+        average_difficulty = (
+            sum(difficulties) / len(difficulties)
+        )
+
+        fixture_score = (6 - average_difficulty) * 2
+
+        # Heuristic scouting score, not predicted FPL points
+        score = (
+            form * 2
+            + xgi_per90 * 5
+            + fixture_score
+        )
+
+        already_owned = any(
+            owned["id"] == player["id"]
+            for owned in owned_players
+        )
+
+        club_full = (
+            club_counts[player["team"]] >= 3
+        )
+
+        improved_rankings.append({
+            "id": player["id"],
+            "name": player["web_name"],
+            "club": team_lookup.get(player["team"]),
+            "club_id": player["team"],
+            "position": player["element_type"],
+            "price": player["now_cost"] / 10,
+            "minutes": minutes,
+            "form": form,
+            "xgi_per90": round(xgi_per90, 2),
+            "average_fixture_difficulty": round(
+                average_difficulty, 2
+            ),
+            "fixtures_evaluated": len(difficulties),
+            "score": round(score, 2),
+            "already_owned": already_owned,
+            "club_full": club_full
+        })
+
+    improved_rankings.sort(
+        key=lambda player: player["score"],
+        reverse=True
+    )
+
+    # Include defenders in captaincy scouting
+    improved_captains = [
+        player for player in improved_rankings
+        if player["already_owned"]
+        and player["position"] in (2, 3, 4)
+    ]
+
+    # Exclude owned players and clubs already at capacity
+    legal_club_targets = [
+        player for player in improved_rankings
+        if not player["already_owned"]
+        and not player["club_full"]
+    ]
+
+    save_data("transfer_intelligence.json", {
+        "gameweek": next_gw,
+        "squad_source_gameweek": squad_gw,
+        "bank_millions_at_last_deadline":
+            team["last_deadline_bank"] / 10,
+        "methodology": (
+            "Five-gameweek heuristic scouting scores. "
+            "Minimum 270 season minutes. "
+            "Excludes unavailable players and transfers "
+            "into clubs already at the three-player limit. "
+            "Does not yet validate individual transfer "
+            "affordability or exact selling prices. "
+            "Not projected FPL points."
+        ),
+        "captain_candidates": improved_captains[:15],
+        "transfer_targets": legal_club_targets[:40],
+        "club_counts": dict(club_counts)
+    })
     save_data("last_updated.json", {
         "updated_utc": report["updated_utc"],
         "team_id": TEAM_ID,
