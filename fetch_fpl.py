@@ -25,6 +25,17 @@ def save_data(filename, data):
         json.dump(data, file, indent=2, ensure_ascii=False)
 
 
+def get_latest_picks(entry_id, gameweek):
+    for gw in range(gameweek, 0, -1):
+        try:
+            picks = get_data(f"entry/{entry_id}/event/{gw}/picks/")
+            return gw, picks
+        except Exception as error:
+            print(f"Picks unavailable for GW{gw}: {error}")
+
+    return None, None
+
+
 def main():
     print("Fetching Disgruntled Toasters FPL data...")
 
@@ -36,28 +47,191 @@ def main():
     save_data("team.json", team)
     save_data("fixtures.json", fixtures)
 
-    current_gw = team["current_event"]
+    player_lookup = {
+        player["id"]: player
+        for player in players["elements"]
+    }
 
-    if current_gw:
-        picks = get_data(
-            f"entry/{TEAM_ID}/event/{current_gw}/picks/"
-        )
-        save_data("squad.json", picks)
+    team_lookup = {
+        club["id"]: club["name"]
+        for club in players["teams"]
+    }
 
-    standings = get_data(
+    current_gw = team["current_event"] or 1
+
+    # Find the next unfinished gameweek
+    upcoming_events = [
+        event for event in players["events"]
+        if not event["finished"]
+    ]
+
+    next_gw = (
+        upcoming_events[0]["id"]
+        if upcoming_events
+        else current_gw
+    )
+
+    # Retrieve latest publicly available squad
+    squad_gw, squad = get_latest_picks(TEAM_ID, current_gw)
+
+    if squad:
+        save_data("squad.json", squad)
+
+    # Retrieve league matchups
+    matchups = get_data(
         f"leagues-h2h-matches/league/{LEAGUE_ID}/"
         f"?entry={TEAM_ID}&page=1"
     )
-    save_data("matchups.json", standings)
+
+    save_data("matchups.json", matchups)
+
+    # Identify next opponent
+    next_match = next(
+        (
+            match for match in matchups["results"]
+            if match["event"] == next_gw
+        ),
+        None
+    )
+
+    opponent_id = None
+    opponent_name = None
+
+    if next_match:
+        if next_match["entry_1_entry"] == TEAM_ID:
+            opponent_id = next_match["entry_2_entry"]
+            opponent_name = next_match["entry_2_name"]
+        else:
+            opponent_id = next_match["entry_1_entry"]
+            opponent_name = next_match["entry_1_name"]
+
+    opponent_squad = None
+    opponent_squad_gw = None
+
+    if opponent_id:
+        opponent_squad_gw, opponent_squad = get_latest_picks(
+            opponent_id,
+            current_gw
+        )
+
+        if opponent_squad:
+            save_data("opponent_squad.json", opponent_squad)
+
+    # Create readable player statistics
+    player_stats = []
+
+    for player in players["elements"]:
+        player_stats.append({
+            "id": player["id"],
+            "name": player["web_name"],
+            "club": team_lookup.get(player["team"]),
+            "position": player["element_type"],
+            "price": player["now_cost"] / 10,
+            "total_points": player["total_points"],
+            "form": player["form"],
+            "points_per_game": player["points_per_game"],
+            "expected_goals": player.get("expected_goals"),
+            "expected_assists": player.get("expected_assists"),
+            "minutes": player["minutes"],
+            "status": player["status"],
+            "news": player["news"],
+            "chance_next_round": player.get(
+                "chance_of_playing_next_round"
+            )
+        })
+
+    save_data("player_stats.json", player_stats)
+
+    # Convert squad IDs to player names
+    def describe_squad(picks):
+        if not picks:
+            return []
+
+        described = []
+
+        for pick in picks["picks"]:
+            player = player_lookup.get(pick["element"])
+
+            if not player:
+                continue
+
+            described.append({
+                "name": player["web_name"],
+                "club": team_lookup.get(player["team"]),
+                "position": pick["position"],
+                "captain": pick["is_captain"],
+                "vice_captain": pick["is_vice_captain"],
+                "total_points": player["total_points"],
+                "form": player["form"],
+                "status": player["status"],
+                "news": player["news"]
+            })
+
+        return described
+
+    my_squad = describe_squad(squad)
+    their_squad = describe_squad(opponent_squad)
+
+    # Identify shared players
+    my_names = {player["name"] for player in my_squad}
+    their_names = {player["name"] for player in their_squad}
+
+    shared_players = sorted(my_names & their_names)
+
+    # Upcoming fixtures
+    upcoming_fixtures = []
+
+    for fixture in fixtures:
+        if fixture["event"] == next_gw:
+            upcoming_fixtures.append({
+                "home": team_lookup.get(fixture["team_h"]),
+                "away": team_lookup.get(fixture["team_a"]),
+                "kickoff": fixture["kickoff_time"],
+                "home_difficulty": fixture["team_h_difficulty"],
+                "away_difficulty": fixture["team_a_difficulty"]
+            })
+
+    # Build scouting report
+    report = {
+        "updated_utc": datetime.now(timezone.utc).isoformat(),
+        "team": team["name"],
+        "next_gameweek": next_gw,
+        "league_position": next(
+            (
+                league["entry_rank"]
+                for league in team["leagues"]["h2h"]
+                if league["id"] == LEAGUE_ID
+            ),
+            None
+        ),
+        "total_points": team["summary_overall_points"],
+        "bank_millions": team["last_deadline_bank"] / 10,
+        "my_squad_gameweek": squad_gw,
+        "my_squad": my_squad,
+        "opponent": {
+            "name": opponent_name,
+            "team_id": opponent_id,
+            "squad_gameweek": opponent_squad_gw,
+            "squad": their_squad
+        },
+        "shared_players": shared_players,
+        "fixtures": upcoming_fixtures
+    }
+
+    save_data("scouting_report.json", report)
 
     save_data("last_updated.json", {
-        "updated_utc": datetime.now(timezone.utc).isoformat(),
+        "updated_utc": report["updated_utc"],
         "team_id": TEAM_ID,
         "league_id": LEAGUE_ID,
-        "gameweek": current_gw
+        "gameweek": current_gw,
+        "next_gameweek": next_gw
     })
 
     print("FPL data successfully updated!")
+    print(f"Next gameweek: GW{next_gw}")
+    print(f"Opponent: {opponent_name}")
+    print(f"Shared players: {shared_players}")
 
 
 if __name__ == "__main__":
