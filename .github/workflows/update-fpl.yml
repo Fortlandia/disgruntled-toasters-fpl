@@ -47,6 +47,9 @@ jobs:
           FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
         run: python fetch_football_calendar.py
 
+      - name: Fetch ESPN Cup Calendar
+        run: python fetch_espn_calendar.py
+
       - name: Build Toasters Fixture Intelligence
         run: python fixture_intelligence.py        
         
