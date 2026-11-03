@@ -42,6 +42,11 @@ jobs:
       - name: Optimize GW lineup (Version 4)
         run: python lineup_optimizer_v4.py     
 
+      - name: Fetch Champions League Calendar
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: python fetch_football_calendar.py
+
       - name: Build Toasters Fixture Intelligence
         run: python fixture_intelligence.py        
         
