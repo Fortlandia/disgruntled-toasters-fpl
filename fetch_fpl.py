@@ -591,6 +591,209 @@ def main():
                 "Lineup optimizer: insufficient eligible "
                 "players for a legal formation."
             )
+    # TOASTERS POINTS PREDICTOR — VERSION 1
+    # Estimates next-GW FPL points, not guaranteed returns.
+
+    import math
+
+    def safe_float(value):
+        try:
+            return float(value or 0)
+        except (TypeError, ValueError):
+            return 0.0
+
+    def project_player(player, fixture):
+        position = player["element_type"]
+        minutes = player["minutes"]
+
+        if minutes <= 0:
+            return None
+
+        # Historical minutes provide a baseline.
+        # This is not a confirmed lineup prediction.
+        appearances = max(
+            1,
+            player.get("starts", 0)
+            + player.get("sub_on", 0)
+        )
+
+        average_minutes = minutes / appearances
+
+        expected_minutes = min(
+            90,
+            max(0, average_minutes)
+        )
+
+        # Adjust for availability.
+        status = player["status"]
+
+        if status in ("i", "s", "u", "n"):
+            expected_minutes = 0
+
+        elif status == "d":
+            chance = player.get(
+                "chance_of_playing_next_round"
+            )
+
+            if chance is not None:
+                expected_minutes *= chance / 100
+            else:
+                expected_minutes *= 0.5
+
+        # Attacking statistics per 90 minutes.
+        xg90 = (
+            safe_float(player.get("expected_goals"))
+            * 90 / minutes
+        )
+
+        xa90 = (
+            safe_float(player.get("expected_assists"))
+            * 90 / minutes
+        )
+
+        difficulty = fixture["difficulty"]
+
+        # Simple fixture adjustment.
+        fixture_multiplier = {
+            1: 1.25,
+            2: 1.15,
+            3: 1.00,
+            4: 0.85,
+            5: 0.75
+        }.get(difficulty, 1.0)
+
+        minutes_fraction = expected_minutes / 90
+
+        # FPL goal points by position.
+        goal_points = {
+            1: 6,
+            2: 6,
+            3: 5,
+            4: 4
+        }
+
+        attacking_points = (
+            xg90 * goal_points[position]
+            + xa90 * 3
+        ) * fixture_multiplier * minutes_fraction
+
+        # Appearance points.
+        appearance_points = (
+            2 * minutes_fraction
+        )
+
+        # Approximate clean-sheet probability.
+        clean_sheet_probability = {
+            1: 0.50,
+            2: 0.42,
+            3: 0.32,
+            4: 0.22,
+            5: 0.15
+        }.get(difficulty, 0.25)
+
+        clean_sheet_points = {
+            1: 4,
+            2: 4,
+            3: 1,
+            4: 0
+        }
+
+        clean_sheet_projection = (
+            clean_sheet_probability
+            * clean_sheet_points[position]
+            * minutes_fraction
+        )
+
+        # Small form adjustment.
+        form = safe_float(player["form"])
+
+        form_adjustment = min(
+            0.75,
+            max(-0.5, (form - 4) * 0.12)
+        ) * minutes_fraction
+
+        projected_points = (
+            appearance_points
+            + attacking_points
+            + clean_sheet_projection
+            + form_adjustment
+        )
+
+        return {
+            "id": player["id"],
+            "name": player["web_name"],
+            "club": team_lookup.get(player["team"]),
+            "position": position,
+            "price": player["now_cost"] / 10,
+            "opponent": fixture["opponent"],
+            "home": fixture["home"],
+            "difficulty": difficulty,
+            "expected_minutes": round(
+                expected_minutes, 1
+            ),
+            "xg90": round(xg90, 3),
+            "xa90": round(xa90, 3),
+            "projected_points": round(
+                projected_points, 2
+            ),
+            "status": status,
+            "news": player["news"]
+        }
+
+    # Project every player with an upcoming fixture.
+    projections = []
+
+    for player in players["elements"]:
+        fixture = fixture_lookup.get(player["team"])
+
+        if not fixture:
+            continue
+
+        projection = project_player(player, fixture)
+
+        if projection is not None:
+            projections.append(projection)
+
+    projections.sort(
+        key=lambda p: p["projected_points"],
+        reverse=True
+    )
+
+    # Identify our own players.
+    owned_ids = {
+        pick["element"]
+        for pick in squad["picks"]
+    } if squad else set()
+
+    my_projections = [
+        player for player in projections
+        if player["id"] in owned_ids
+    ]
+
+    my_projections.sort(
+        key=lambda p: p["projected_points"],
+        reverse=True
+    )
+
+    save_data("points_projections.json", {
+        "gameweek": next_gw,
+        "squad_source_gameweek": squad_gw,
+        "methodology": (
+            "Experimental GW-specific estimates using "
+            "historical minutes, xG, xA, fixture difficulty, "
+            "clean-sheet assumptions, and recent form. "
+            "Not backtested. Excludes bonus, saves, "
+            "defensive contributions, cards, and several "
+            "other scoring events."
+        ),
+        "my_players": my_projections,
+        "top_players": projections[:50]
+    })
+
+    print(
+        "Points projections generated for GW",
+        next_gw
+    )
     save_data("last_updated.json", {
         "updated_utc": report["updated_utc"],
         "team_id": TEAM_ID,
