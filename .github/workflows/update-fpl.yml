@@ -39,6 +39,9 @@ jobs:
       - name: Analyze playing time and rotation
         run: python minutes_intelligence.py
         
+      - name: Optimize GW lineup (Version 4)
+        run: python lineup_optimizer_v4.py        
+        
       - name: Save updated data
         run: |
           git config user.name "github-actions[bot]"
