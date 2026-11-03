@@ -50,11 +50,6 @@ jobs:
       - name: Fetch ESPN Cup Calendar
         run: python fetch_espn_calendar.py
 
-      - name: Fetch API-FOOTBALL Cup Calendar
-        env:
-          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
-        run: python fetch_api_football_calendar.py
-
       - name: Build Toasters Fixture Intelligence
         run: python fixture_intelligence.py        
         
