@@ -20,6 +20,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+          
+      - name: Install Python dependencies
+        run: python -m pip install requests          
 
       - name: Fetch FPL data
         run: python fetch_fpl.py
@@ -32,6 +35,9 @@ jobs:
 
       - name: Optimize GW lineup (Version 3)
         run: python lineup_optimizer_v3.py
+
+      - name: Analyze playing time and rotation
+        run: python minutes_intelligence.py
         
       - name: Save updated data
         run: |
