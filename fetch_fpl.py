@@ -451,6 +451,146 @@ def main():
         "transfer_targets": legal_club_targets[:40],
         "club_counts": dict(club_counts)
     })
+# TOASTERS LINEUP OPTIMIZER — VERSION 1
+    # Uses the latest publicly available squad.
+    # Scores are scouting estimates, NOT projected FPL points.
+
+    from itertools import combinations
+
+    if squad:
+        owned_ids = {
+            pick["element"]
+            for pick in squad["picks"]
+        }
+
+        # Use our five-gameweek rankings as a starting point.
+        # These scores will later be replaced with
+        # gameweek-specific projected FPL points.
+        ranked_owned = [
+            player for player in improved_rankings
+            if player["id"] in owned_ids
+        ]
+
+        by_position = {
+            position: [
+                player for player in ranked_owned
+                if player["position"] == position
+            ]
+            for position in (1, 2, 3, 4)
+        }
+
+        best_lineup = None
+        best_score = float("-inf")
+
+        # Test every legal outfield formation.
+        for defenders in range(3, 6):
+            for midfielders in range(2, 6):
+                forwards = 10 - defenders - midfielders
+
+                if not 1 <= forwards <= 3:
+                    continue
+
+                if (
+                    len(by_position[1]) < 1
+                    or len(by_position[2]) < defenders
+                    or len(by_position[3]) < midfielders
+                    or len(by_position[4]) < forwards
+                ):
+                    continue
+
+                selected = (
+                    sorted(
+                        by_position[1],
+                        key=lambda p: p["score"],
+                        reverse=True
+                    )[:1]
+                    + sorted(
+                        by_position[2],
+                        key=lambda p: p["score"],
+                        reverse=True
+                    )[:defenders]
+                    + sorted(
+                        by_position[3],
+                        key=lambda p: p["score"],
+                        reverse=True
+                    )[:midfielders]
+                    + sorted(
+                        by_position[4],
+                        key=lambda p: p["score"],
+                        reverse=True
+                    )[:forwards]
+                )
+
+                total_score = sum(
+                    player["score"] for player in selected
+                )
+
+                if total_score > best_score:
+                    best_score = total_score
+                    best_lineup = {
+                        "formation": (
+                            f"{defenders}-{midfielders}-{forwards}"
+                        ),
+                        "players": selected,
+                        "score": round(total_score, 2)
+                    }
+
+        if best_lineup:
+            starter_ids = {
+                player["id"]
+                for player in best_lineup["players"]
+            }
+
+            bench = [
+                player for player in ranked_owned
+                if player["id"] not in starter_ids
+            ]
+
+            bench.sort(
+                key=lambda p: (
+                    p["position"] == 1,
+                    -p["score"]
+                )
+            )
+
+            # Captain and vice-captain from starting XI.
+            captain_pool = [
+                player for player in best_lineup["players"]
+                if player["position"] in (2, 3, 4)
+            ]
+
+            captain_pool.sort(
+                key=lambda p: p["score"],
+                reverse=True
+            )
+
+            save_data("lineup_optimizer.json", {
+                "gameweek": next_gw,
+                "squad_source_gameweek": squad_gw,
+                "methodology": (
+                    "Formation optimization using five-week "
+                    "heuristic scouting scores. Not projected "
+                    "FPL points. Players excluded from the "
+                    "rankings due to availability or minimum "
+                    "minutes are not considered. Results "
+                    "require manual review."
+                ),
+                "recommended_lineup": best_lineup,
+                "bench": bench,
+                "captain": captain_pool[0],
+                "vice_captain": captain_pool[1]
+                    if len(captain_pool) > 1 else None
+            })
+
+            print(
+                "Recommended formation:",
+                best_lineup["formation"]
+            )
+        else:
+            print(
+                "Lineup optimizer: insufficient eligible "
+                "players for a legal formation."
+            )
     save_data("last_updated.json", {
         "updated_utc": report["updated_utc"],
         "team_id": TEAM_ID,
