@@ -40,7 +40,10 @@ jobs:
         run: python minutes_intelligence.py
         
       - name: Optimize GW lineup (Version 4)
-        run: python lineup_optimizer_v4.py        
+        run: python lineup_optimizer_v4.py     
+
+      - name: Build Toasters Fixture Intelligence
+        run: python fixture_intelligence.py        
         
       - name: Save updated data
         run: |
