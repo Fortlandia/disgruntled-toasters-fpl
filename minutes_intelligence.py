@@ -32,25 +32,59 @@ def get_player_history(player_id):
 
         except requests.RequestException:
             if attempt == 2:
-                print(f"Could not retrieve player {player_id}")
+                print(
+                    f"Could not retrieve player {player_id}"
+                )
                 return None
 
             time.sleep(2 * (attempt + 1))
 
 
-def analyze_player(player, history):
-    # Include zero-minute matches when the player
-    # was available but did not feature.
-    recent = sorted(
-        history,
+def get_recent_team_fixtures(team_id, fixtures):
+    completed = [
+        match for match in fixtures
+        if match.get("finished")
+        and (
+            match["team_h"] == team_id
+            or match["team_a"] == team_id
+        )
+    ]
+
+    completed.sort(
         key=lambda match: (
             match.get("kickoff_time") or "",
-            match.get("fixture", 0)
+            match["id"]
         )
-    )[-5:]
+    )
+
+    return completed[-5:]
+
+
+def analyze_player(player, history, team_fixtures):
+    # Match player history against actual club fixtures.
+    history_lookup = {
+        match["fixture"]: match
+        for match in history
+    }
+
+    recent = []
+
+    for fixture in team_fixtures:
+        fixture_id = fixture["id"]
+        record = history_lookup.get(fixture_id)
+
+        recent.append({
+            "fixture_id": fixture_id,
+            "gameweek": fixture.get("event"),
+            "minutes": (
+                record.get("minutes", 0)
+                if record else 0
+            ),
+            "history_record_found": record is not None
+        })
 
     minutes = [
-        match.get("minutes", 0)
+        match["minutes"]
         for match in recent
     ]
 
@@ -66,17 +100,26 @@ def analyze_player(player, history):
 
     average_minutes = mean(minutes)
 
-    # FPL match history doesn't reliably expose
-    # whether a player started, so these are
-    # appearance-based indicators rather than
-    # confirmed starting percentages.
-    played_60 = sum(m >= 60 for m in minutes)
-    played_any = sum(m > 0 for m in minutes)
+    played_any = sum(
+        m > 0 for m in minutes
+    )
+
+    played_60 = sum(
+        m >= 60 for m in minutes
+    )
+
+    weights = list(range(1, len(minutes) + 1))
+
+    weighted_minutes = sum(
+        m * w
+        for m, w in zip(minutes, weights)
+    ) / sum(weights)
 
     first_half = minutes[:max(1, len(minutes) // 2)]
     second_half = minutes[max(1, len(minutes) // 2):]
 
     early_average = mean(first_half)
+
     recent_average = (
         mean(second_half)
         if second_half else early_average
@@ -84,17 +127,13 @@ def analyze_player(player, history):
 
     minutes_trend = recent_average - early_average
 
-    # Recent minutes receive additional weight.
-    weights = list(range(1, len(minutes) + 1))
-
-    weighted_minutes = sum(
-        m * w for m, w in zip(minutes, weights)
-    ) / sum(weights)
-
-    expected_minutes = weighted_minutes
+    appearance_rate = played_any / len(minutes)
+    sixty_minute_rate = played_60 / len(minutes)
 
     status = player["status"]
+    expected_minutes = weighted_minutes
 
+    # Apply current availability adjustments.
     if status in ("i", "s", "u", "n"):
         expected_minutes = 0
 
@@ -112,9 +151,7 @@ def analyze_player(player, history):
         0, min(90, expected_minutes)
     )
 
-    appearance_rate = played_any / len(minutes)
-    sixty_minute_rate = played_60 / len(minutes)
-
+    # Classify statistical playing-time risk.
     if status in ("i", "s", "u", "n"):
         rotation_risk = "Unavailable"
 
@@ -137,6 +174,22 @@ def analyze_player(player, history):
     else:
         rotation_risk = "High"
 
+    # Flag recent missed matches.
+    missed_recently = any(
+        m == 0 for m in minutes[-3:]
+    )
+
+    if (
+        missed_recently
+        and rotation_risk == "Low"
+    ):
+        rotation_risk = "Medium"
+
+    missing_history = sum(
+        not match["history_record_found"]
+        for match in recent
+    )
+
     return {
         "id": player["id"],
         "name": player["web_name"],
@@ -144,12 +197,15 @@ def analyze_player(player, history):
         "position": player["element_type"],
         "matches_analyzed": len(minutes),
         "last_five_minutes": minutes,
+        "fixture_details": recent,
+        "missing_history_records": missing_history,
         "average_minutes": round(average_minutes, 1),
         "weighted_minutes": round(weighted_minutes, 1),
         "expected_minutes": round(expected_minutes, 1),
         "appearance_rate": round(appearance_rate, 2),
         "sixty_minute_rate": round(sixty_minute_rate, 2),
         "minutes_trend": round(minutes_trend, 1),
+        "missed_recently": missed_recently,
         "rotation_risk": rotation_risk,
         "status": status,
         "news": player.get("news", "")
@@ -157,52 +213,64 @@ def analyze_player(player, history):
 
 
 def main():
-    print("Building Toasters Minutes Intelligence...")
+    print("Building Minutes Intelligence 2.0...")
 
     bootstrap = load_json("players.json")
     squad = load_json("squad.json")
+    fixtures = load_json("fixtures.json")
 
     player_lookup = {
         player["id"]: player
         for player in bootstrap["elements"]
     }
 
-    # Inspect our 15 players first.
-    # This keeps API usage manageable.
-    picks = squad["picks"]
-
     results = []
     failed_players = []
 
-    for pick in picks:
+    for pick in squad["picks"]:
         player_id = pick["element"]
         player = player_lookup[player_id]
 
         history = get_player_history(player_id)
 
         if history is None:
-            failed_players.append(player["web_name"])
+            failed_players.append(
+                player["web_name"]
+            )
             continue
 
+        team_fixtures = get_recent_team_fixtures(
+            player["team"],
+            fixtures
+        )
+
         results.append(
-            analyze_player(player, history)
+            analyze_player(
+                player,
+                history,
+                team_fixtures
+            )
         )
 
         time.sleep(0.2)
 
     save_json("minutes_intelligence.json", {
+        "version": 2,
         "methodology": (
-            "Experimental recent-minutes estimates using "
-            "up to five completed player match records, "
-            "recency weighting and availability flags. "
-            "Appearance rates are not confirmed start rates. "
+            "Recent playing-time estimates matched "
+            "against each club's last five completed "
+            "Premier League fixtures. Missing player "
+            "history records count as zero minutes. "
+            "Availability flags are applied. "
+            "Rotation ratings are heuristic, not "
+            "confirmed starting probabilities. "
             "Not backtested."
         ),
         "players": results,
         "failed_players": failed_players
     })
 
-    print("Minutes intelligence complete!")
+    print("Minutes Intelligence 2.0 complete!")
 
     for player in results:
         print(
@@ -210,11 +278,16 @@ def main():
             player["expected_minutes"],
             "minutes |",
             player["rotation_risk"],
-            "risk"
+            "risk |",
+            "missing records:",
+            player.get("missing_history_records", 0)
         )
 
     if failed_players:
-        print("Failed player histories:", failed_players)
+        print(
+            "Failed player histories:",
+            failed_players
+        )
 
 
 if __name__ == "__main__":
