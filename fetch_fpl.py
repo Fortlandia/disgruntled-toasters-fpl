@@ -794,6 +794,146 @@ def main():
         "Points projections generated for GW",
         next_gw
     )
+    # TOASTERS LINEUP OPTIMIZER — VERSION 2
+    # Uses GW-specific projected points.
+
+    from itertools import combinations
+
+    if squad:
+        projection_lookup = {
+            player["id"]: player
+            for player in my_projections
+        }
+
+        # Include every squad member, even if injured.
+        squad_players = []
+
+        for pick in squad["picks"]:
+            player_id = pick["element"]
+            projection = projection_lookup.get(player_id)
+
+            if projection:
+                squad_players.append(projection)
+            else:
+                original = player_lookup[player_id]
+
+                squad_players.append({
+                    "id": player_id,
+                    "name": original["web_name"],
+                    "club": team_lookup.get(original["team"]),
+                    "position": original["element_type"],
+                    "projected_points": 0,
+                    "status": original["status"],
+                    "news": original["news"]
+                })
+
+        by_position = {
+            position: sorted(
+                [
+                    player for player in squad_players
+                    if player["position"] == position
+                ],
+                key=lambda p: p["projected_points"],
+                reverse=True
+            )
+            for position in (1, 2, 3, 4)
+        }
+
+        best_lineup = None
+        best_score = float("-inf")
+
+        # Test every legal formation.
+        for defenders in range(3, 6):
+            for midfielders in range(2, 6):
+                forwards = 10 - defenders - midfielders
+
+                if not 1 <= forwards <= 3:
+                    continue
+
+                if (
+                    len(by_position[1]) < 1
+                    or len(by_position[2]) < defenders
+                    or len(by_position[3]) < midfielders
+                    or len(by_position[4]) < forwards
+                ):
+                    continue
+
+                starters = (
+                    by_position[1][:1]
+                    + by_position[2][:defenders]
+                    + by_position[3][:midfielders]
+                    + by_position[4][:forwards]
+                )
+
+                total = sum(
+                    p["projected_points"]
+                    for p in starters
+                )
+
+                if total > best_score:
+                    best_score = total
+                    best_lineup = {
+                        "formation":
+                            f"{defenders}-{midfielders}-{forwards}",
+                        "players": starters,
+                        "projected_points": round(total, 2)
+                    }
+
+        if best_lineup:
+            starter_ids = {
+                p["id"]
+                for p in best_lineup["players"]
+            }
+
+            bench = [
+                p for p in squad_players
+                if p["id"] not in starter_ids
+            ]
+
+            # Outfield substitutes first, goalkeeper last.
+            bench.sort(
+                key=lambda p: (
+                    p["position"] == 1,
+                    -p["projected_points"]
+                )
+            )
+
+            # Captain and vice-captain must start.
+            captain_pool = sorted(
+                best_lineup["players"],
+                key=lambda p: p["projected_points"],
+                reverse=True
+            )
+
+            captain = captain_pool[0]
+            vice_captain = captain_pool[1]
+
+            save_data("lineup_optimizer_v2.json", {
+                "gameweek": next_gw,
+                "squad_source_gameweek": squad_gw,
+                "methodology": (
+                    "GW-specific experimental points "
+                    "projections. Not backtested. "
+                    "Uses latest published squad."
+                ),
+                "recommended_lineup": best_lineup,
+                "bench": bench,
+                "captain": captain,
+                "vice_captain": vice_captain
+            })
+
+            print(
+                "GW lineup:",
+                best_lineup["formation"]
+            )
+            print(
+                "Captain:",
+                captain["name"]
+            )
+            print(
+                "Vice-captain:",
+                vice_captain["name"]
+            )
     save_data("last_updated.json", {
         "updated_utc": report["updated_utc"],
         "team_id": TEAM_ID,
