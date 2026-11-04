@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-11-03",
-      "competition": "UEFA Champions League",
-      "description": "FC Barcelona vs Aston Villa FC — 2026-11-03T20:00:00Z (UTC)",
-      "status": "FINISHED",
-      "source": "football-data.org v4 (API)",
-      "fixture_id": 575380,
-      "premier_league_clubs": [
-        "Aston Villa"
-      ]
-    },
-    {
-      "date": "2026-11-03",
-      "competition": "UEFA Champions League",
-      "description": "Manchester United FC vs AS Roma — 2026-11-03T20:00:00Z (UTC)",
-      "status": "FINISHED",
-      "source": "football-data.org v4 (API)",
-      "fixture_id": 575383,
-      "premier_league_clubs": [
-        "Man Utd"
-      ]
-    },
-    {
       "date": "2026-11-04",
       "competition": "UEFA Champions League",
       "description": "Fenerbahçe SK vs Liverpool FC — 2026-11-04T17:45:00Z (UTC)",

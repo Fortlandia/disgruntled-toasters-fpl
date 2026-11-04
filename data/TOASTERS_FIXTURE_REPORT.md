@@ -1,6 +1,6 @@
 # 🍞 Disgruntled Toasters — Fixture Command Center
 
-Updated (UTC): 2026-11-03T22:31:45.868387+00:00
+Updated (UTC): 2026-11-04T01:20:54.692782+00:00
 **Next unfinished GW:** 10 · **Squad snapshot:** GW9
 
 ## Six-gameweek fixture watch
@@ -24,8 +24,6 @@ None currently listed in the FPL feed.
 
 ## International breaks and other competitions
 
-- **2026-11-03 · UEFA Champions League** — FC Barcelona vs Aston Villa FC — 2026-11-03T20:00:00Z (UTC) (**FINISHED**; source: football-data.org v4 (API))
-- **2026-11-03 · UEFA Champions League** — Manchester United FC vs AS Roma — 2026-11-03T20:00:00Z (UTC) (**FINISHED**; source: football-data.org v4 (API))
 - **2026-11-04 · UEFA Champions League** — Fenerbahçe SK vs Liverpool FC — 2026-11-04T17:45:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
 - **2026-11-04 · UEFA Champions League** — RB Leipzig vs Manchester City FC — 2026-11-04T20:00:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
 - **2026-11-04 · UEFA Champions League** — SK Slavia Praha vs Arsenal FC — 2026-11-04T20:00:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
