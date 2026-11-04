@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-04T10:55:40.658712+00:00",
+  "generated_utc": "2026-11-04T19:45:16.467883+00:00",
   "source": "Official FPL API via fetch_fpl.py; optional manually maintained football_calendar.json",
   "current_gameweek": 10,
   "squad_source_gameweek": 9,
@@ -2137,13 +2137,24 @@
     }
   ],
   "unassigned_fixtures": [],
-  "fixture_changes_since_previous_run": [],
+  "fixture_changes_since_previous_run": [
+    {
+      "fixture_id": 159,
+      "home": "Nott'm Forest",
+      "away": "Everton",
+      "previous_gameweek": 16,
+      "new_gameweek": 16,
+      "previous_kickoff": "2026-12-19T15:00:00Z",
+      "new_kickoff": "2026-12-20T14:00:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    }
+  ],
   "calendar_events": [
     {
       "date": "2026-11-04",
       "competition": "UEFA Champions League",
       "description": "Fenerbahçe SK vs Liverpool FC — 2026-11-04T17:45:00Z (UTC)",
-      "status": "TIMED",
+      "status": "FINISHED",
       "source": "football-data.org v4 (API)",
       "fixture_id": 575387,
       "premier_league_clubs": [
