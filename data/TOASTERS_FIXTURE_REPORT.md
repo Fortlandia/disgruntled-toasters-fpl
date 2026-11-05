@@ -1,6 +1,6 @@
 # 🍞 Disgruntled Toasters — Fixture Command Center
 
-Updated (UTC): 2026-11-04T19:45:16.467883+00:00
+Updated (UTC): 2026-11-05T01:27:59.853006+00:00
 **Next unfinished GW:** 10 · **Squad snapshot:** GW9
 
 ## Six-gameweek fixture watch
@@ -16,7 +16,7 @@ Updated (UTC): 2026-11-04T19:45:16.467883+00:00
 
 ## Fixture changes since previous run
 
-- **Nott'm Forest vs Everton**: GW 16 → GW 16; kickoff 2026-12-19T15:00:00Z → 2026-12-20T14:00:00Z.
+No changes detected (or this is the first run).
 
 ## Fixtures awaiting gameweek assignment
 
@@ -24,9 +24,6 @@ None currently listed in the FPL feed.
 
 ## International breaks and other competitions
 
-- **2026-11-04 · UEFA Champions League** — Fenerbahçe SK vs Liverpool FC — 2026-11-04T17:45:00Z (UTC) (**FINISHED**; source: football-data.org v4 (API))
-- **2026-11-04 · UEFA Champions League** — RB Leipzig vs Manchester City FC — 2026-11-04T20:00:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
-- **2026-11-04 · UEFA Champions League** — SK Slavia Praha vs Arsenal FC — 2026-11-04T20:00:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
 - **2026-11-24 · UEFA Champions League** — Galatasaray SK vs Aston Villa FC — 2026-11-24T17:45:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
 - **2026-11-24 · UEFA Champions League** — Manchester City FC vs SSC Napoli — 2026-11-24T20:00:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
 - **2026-11-24 · UEFA Champions League** — Arsenal FC vs Borussia Dortmund — 2026-11-24T20:00:00Z (UTC) (**TIMED**; source: football-data.org v4 (API))
