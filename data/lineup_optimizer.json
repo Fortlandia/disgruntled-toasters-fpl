@@ -3,7 +3,7 @@
   "squad_source_gameweek": 9,
   "methodology": "Formation optimization using five-week heuristic scouting scores. Not projected FPL points. Players excluded from the rankings due to availability or minimum minutes are not considered. Results require manual review.",
   "recommended_lineup": {
-    "formation": "3-4-3",
+    "formation": "4-4-2",
     "players": [
       {
         "id": 1,
@@ -68,6 +68,22 @@
         "score": 18.03,
         "already_owned": true,
         "club_full": true
+      },
+      {
+        "id": 469,
+        "name": "N.Williams",
+        "club": "Nott'm Forest",
+        "club_id": 18,
+        "position": 2,
+        "price": 4.9,
+        "minutes": 803,
+        "form": 3.2,
+        "xgi_per90": 0.24,
+        "average_fixture_difficulty": 3.6,
+        "fixtures_evaluated": 5,
+        "score": 12.39,
+        "already_owned": true,
+        "club_full": false
       },
       {
         "id": 68,
@@ -164,43 +180,11 @@
         "score": 24.17,
         "already_owned": true,
         "club_full": false
-      },
-      {
-        "id": 346,
-        "name": "Calvert-Lewin",
-        "club": "Leeds",
-        "club_id": 13,
-        "position": 4,
-        "price": 6.1,
-        "minutes": 773,
-        "form": 3.8,
-        "xgi_per90": 0.47,
-        "average_fixture_difficulty": 3.2,
-        "fixtures_evaluated": 5,
-        "score": 15.56,
-        "already_owned": true,
-        "club_full": false
       }
     ],
-    "score": 223.72
+    "score": 220.55
   },
   "bench": [
-    {
-      "id": 469,
-      "name": "N.Williams",
-      "club": "Nott'm Forest",
-      "club_id": 18,
-      "position": 2,
-      "price": 4.9,
-      "minutes": 803,
-      "form": 3.2,
-      "xgi_per90": 0.24,
-      "average_fixture_difficulty": 3.6,
-      "fixtures_evaluated": 5,
-      "score": 12.39,
-      "already_owned": true,
-      "club_full": false
-    },
     {
       "id": 98,
       "name": "Janelt",

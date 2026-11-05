@@ -563,14 +563,14 @@
       "missing_history_records": 0,
       "average_minutes": 88.8,
       "weighted_minutes": 88.4,
-      "expected_minutes": 88.4,
+      "expected_minutes": 66.3,
       "appearance_rate": 1.0,
       "sixty_minute_rate": 1.0,
       "minutes_trend": -2,
       "missed_recently": false,
-      "rotation_risk": "Low",
-      "status": "a",
-      "news": ""
+      "rotation_risk": "High",
+      "status": "d",
+      "news": "Foot injury - 75% chance of playing"
     },
     {
       "id": 166,

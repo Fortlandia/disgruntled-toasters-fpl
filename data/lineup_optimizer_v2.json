@@ -3,7 +3,7 @@
   "squad_source_gameweek": 9,
   "methodology": "GW-specific experimental points projections. Not backtested. Uses latest published squad.",
   "recommended_lineup": {
-    "formation": "3-4-3",
+    "formation": "4-4-2",
     "players": [
       {
         "id": 1,
@@ -66,6 +66,22 @@
         "xg90": 0.086,
         "xa90": 0.004,
         "projected_points": 4.91,
+        "status": "a",
+        "news": ""
+      },
+      {
+        "id": 469,
+        "name": "N.Williams",
+        "club": "Nott'm Forest",
+        "position": 2,
+        "price": 4.9,
+        "opponent": "Man City",
+        "home": true,
+        "difficulty": 4,
+        "expected_minutes": 89.2,
+        "xg90": 0.108,
+        "xa90": 0.13,
+        "projected_points": 3.63,
         "status": "a",
         "news": ""
       },
@@ -150,22 +166,6 @@
         "news": ""
       },
       {
-        "id": 346,
-        "name": "Calvert-Lewin",
-        "club": "Leeds",
-        "position": 4,
-        "price": 6.1,
-        "opponent": "Spurs",
-        "home": true,
-        "difficulty": 3,
-        "expected_minutes": 85.9,
-        "xg90": 0.455,
-        "xa90": 0.016,
-        "projected_points": 3.67,
-        "status": "a",
-        "news": ""
-      },
-      {
         "id": 166,
         "name": "N.Jackson",
         "club": "Aston Villa",
@@ -182,24 +182,24 @@
         "news": ""
       }
     ],
-    "projected_points": 51.42
+    "projected_points": 51.38
   },
   "bench": [
     {
-      "id": 469,
-      "name": "N.Williams",
-      "club": "Nott'm Forest",
-      "position": 2,
-      "price": 4.9,
-      "opponent": "Man City",
+      "id": 346,
+      "name": "Calvert-Lewin",
+      "club": "Leeds",
+      "position": 4,
+      "price": 6.1,
+      "opponent": "Spurs",
       "home": true,
-      "difficulty": 4,
-      "expected_minutes": 89.2,
-      "xg90": 0.108,
-      "xa90": 0.13,
-      "projected_points": 3.63,
-      "status": "a",
-      "news": ""
+      "difficulty": 3,
+      "expected_minutes": 64.4,
+      "xg90": 0.455,
+      "xa90": 0.016,
+      "projected_points": 2.75,
+      "status": "d",
+      "news": "Foot injury - 75% chance of playing"
     },
     {
       "id": 98,

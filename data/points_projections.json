@@ -164,22 +164,6 @@
       "news": ""
     },
     {
-      "id": 346,
-      "name": "Calvert-Lewin",
-      "club": "Leeds",
-      "position": 4,
-      "price": 6.1,
-      "opponent": "Spurs",
-      "home": true,
-      "difficulty": 3,
-      "expected_minutes": 85.9,
-      "xg90": 0.455,
-      "xa90": 0.016,
-      "projected_points": 3.67,
-      "status": "a",
-      "news": ""
-    },
-    {
       "id": 166,
       "name": "N.Jackson",
       "club": "Aston Villa",
@@ -210,6 +194,22 @@
       "projected_points": 3.63,
       "status": "a",
       "news": ""
+    },
+    {
+      "id": 346,
+      "name": "Calvert-Lewin",
+      "club": "Leeds",
+      "position": 4,
+      "price": 6.1,
+      "opponent": "Spurs",
+      "home": true,
+      "difficulty": 3,
+      "expected_minutes": 64.4,
+      "xg90": 0.455,
+      "xa90": 0.016,
+      "projected_points": 2.75,
+      "status": "d",
+      "news": "Foot injury - 75% chance of playing"
     },
     {
       "id": 98,

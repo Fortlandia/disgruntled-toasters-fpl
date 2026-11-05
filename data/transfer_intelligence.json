@@ -133,22 +133,6 @@
       "club_full": true
     },
     {
-      "id": 346,
-      "name": "Calvert-Lewin",
-      "club": "Leeds",
-      "club_id": 13,
-      "position": 4,
-      "price": 6.1,
-      "minutes": 773,
-      "form": 3.8,
-      "xgi_per90": 0.47,
-      "average_fixture_difficulty": 3.2,
-      "fixtures_evaluated": 5,
-      "score": 15.56,
-      "already_owned": true,
-      "club_full": false
-    },
-    {
       "id": 124,
       "name": "Groß",
       "club": "Brighton",

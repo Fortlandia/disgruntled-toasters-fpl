@@ -78,21 +78,6 @@
       "score": 18.66
     },
     {
-      "id": 346,
-      "name": "Calvert-Lewin",
-      "club": "Leeds",
-      "position": 4,
-      "price": 6.1,
-      "form": 3.8,
-      "xgi_per90": 0.47,
-      "fixture": "Spurs",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 15.96
-    },
-    {
       "id": 124,
       "name": "Groß",
       "club": "Brighton",
@@ -1517,8 +1502,8 @@
       "fixture": "Spurs",
       "home": true,
       "difficulty": 3,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Foot injury - 75% chance of playing",
       "score": 15.96
     },
     {
@@ -1907,8 +1892,8 @@
       "fixture": "Coventry City",
       "home": true,
       "difficulty": 2,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Unspecified injury - 75% chance of playing",
       "score": 14.7
     },
     {
@@ -4067,8 +4052,8 @@
       "fixture": "Spurs",
       "home": true,
       "difficulty": 3,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Foot injury - 50% chance of playing",
       "score": 10.35
     },
     {
@@ -4592,8 +4577,8 @@
       "fixture": "Fulham",
       "home": false,
       "difficulty": 3,
-      "status": "a",
-      "news": "",
+      "status": "i",
+      "news": "Unspecified injury - Unknown return date",
       "score": 9.44
     },
     {
@@ -4728,7 +4713,7 @@
       "home": true,
       "difficulty": 3,
       "status": "d",
-      "news": "Thigh injury - 75% chance of playing",
+      "news": "Thigh injury - 50% chance of playing",
       "score": 9.13
     },
     {
@@ -5568,7 +5553,7 @@
       "home": false,
       "difficulty": 3,
       "status": "d",
-      "news": "Muscular injury - 75% chance of playing",
+      "news": "Muscular injury - 50% chance of playing",
       "score": 8.01
     },
     {
@@ -6677,8 +6662,8 @@
       "fixture": "Spurs",
       "home": true,
       "difficulty": 3,
-      "status": "i",
-      "news": "Hamstring injury - Expected back 21 Nov",
+      "status": "a",
+      "news": "",
       "score": 6.33
     },
     {
@@ -6692,8 +6677,8 @@
       "fixture": "Man City",
       "home": true,
       "difficulty": 4,
-      "status": "i",
-      "news": "Calf injury - Unknown return date",
+      "status": "d",
+      "news": "Calf injury - 75% chance of playing",
       "score": 6.33
     },
     {
@@ -8072,8 +8057,8 @@
       "fixture": "Man City",
       "home": true,
       "difficulty": 4,
-      "status": "d",
-      "news": "Muscular injury - 75% chance of playing",
+      "status": "i",
+      "news": "Muscular injury - Expected back 30 Dec",
       "score": 5.66
     },
     {
@@ -8462,8 +8447,8 @@
       "fixture": "Arsenal",
       "home": false,
       "difficulty": 5,
-      "status": "a",
-      "news": "",
+      "status": "i",
+      "news": "Groin injury - Unknown return date",
       "score": 4.04
     },
     {
@@ -8552,8 +8537,8 @@
       "fixture": "Brighton",
       "home": false,
       "difficulty": 4,
-      "status": "i",
-      "news": "Hamstring injury - Unknown return date",
+      "status": "d",
+      "news": "Hamstring injury - 25% chance of playing",
       "score": 4.0
     },
     {
@@ -8852,8 +8837,8 @@
       "fixture": "Arsenal",
       "home": false,
       "difficulty": 5,
-      "status": "d",
-      "news": "Arm injury - 50% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 2.0
     },
     {
@@ -8972,8 +8957,8 @@
       "fixture": "Arsenal",
       "home": false,
       "difficulty": 5,
-      "status": "i",
-      "news": "Thigh injury - Unknown return date",
+      "status": "d",
+      "news": "Thigh injury - 75% chance of playing",
       "score": 2.0
     },
     {
