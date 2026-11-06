@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-11-06T10:51:47.789335+00:00",
+  "generated_utc": "2026-11-06T19:24:04.328342+00:00",
   "source": "Official FPL API via fetch_fpl.py; optional manually maintained football_calendar.json",
   "current_gameweek": 10,
-  "squad_source_gameweek": 9,
+  "squad_source_gameweek": 10,
   "lookahead_gameweeks": 6,
   "gameweeks": [
     {
@@ -66,6 +66,7 @@
           ],
           "owned_players": [
             "Tavernier",
+            "Evanilson",
             "Petrović"
           ]
         },
@@ -102,8 +103,8 @@
             }
           ],
           "owned_players": [
-            "Groß",
-            "De Cuyper"
+            "De Cuyper",
+            "Groß"
           ]
         },
         {
@@ -236,9 +237,7 @@
               "finished": false
             }
           ],
-          "owned_players": [
-            "Calvert-Lewin"
-          ]
+          "owned_players": []
         },
         {
           "club": "Liverpool",
@@ -421,6 +420,7 @@
           ],
           "owned_players": [
             "Tavernier",
+            "Evanilson",
             "Petrović"
           ]
         },
@@ -457,8 +457,8 @@
             }
           ],
           "owned_players": [
-            "Groß",
-            "De Cuyper"
+            "De Cuyper",
+            "Groß"
           ]
         },
         {
@@ -591,9 +591,7 @@
               "finished": false
             }
           ],
-          "owned_players": [
-            "Calvert-Lewin"
-          ]
+          "owned_players": []
         },
         {
           "club": "Liverpool",
@@ -776,6 +774,7 @@
           ],
           "owned_players": [
             "Tavernier",
+            "Evanilson",
             "Petrović"
           ]
         },
@@ -812,8 +811,8 @@
             }
           ],
           "owned_players": [
-            "Groß",
-            "De Cuyper"
+            "De Cuyper",
+            "Groß"
           ]
         },
         {
@@ -946,9 +945,7 @@
               "finished": false
             }
           ],
-          "owned_players": [
-            "Calvert-Lewin"
-          ]
+          "owned_players": []
         },
         {
           "club": "Liverpool",
@@ -1131,6 +1128,7 @@
           ],
           "owned_players": [
             "Tavernier",
+            "Evanilson",
             "Petrović"
           ]
         },
@@ -1167,8 +1165,8 @@
             }
           ],
           "owned_players": [
-            "Groß",
-            "De Cuyper"
+            "De Cuyper",
+            "Groß"
           ]
         },
         {
@@ -1301,9 +1299,7 @@
               "finished": false
             }
           ],
-          "owned_players": [
-            "Calvert-Lewin"
-          ]
+          "owned_players": []
         },
         {
           "club": "Liverpool",
@@ -1486,6 +1482,7 @@
           ],
           "owned_players": [
             "Tavernier",
+            "Evanilson",
             "Petrović"
           ]
         },
@@ -1522,8 +1519,8 @@
             }
           ],
           "owned_players": [
-            "Groß",
-            "De Cuyper"
+            "De Cuyper",
+            "Groß"
           ]
         },
         {
@@ -1656,9 +1653,7 @@
               "finished": false
             }
           ],
-          "owned_players": [
-            "Calvert-Lewin"
-          ]
+          "owned_players": []
         },
         {
           "club": "Liverpool",
@@ -1841,6 +1836,7 @@
           ],
           "owned_players": [
             "Tavernier",
+            "Evanilson",
             "Petrović"
           ]
         },
@@ -1877,8 +1873,8 @@
             }
           ],
           "owned_players": [
-            "Groß",
-            "De Cuyper"
+            "De Cuyper",
+            "Groß"
           ]
         },
         {
@@ -2011,9 +2007,7 @@
               "finished": false
             }
           ],
-          "owned_players": [
-            "Calvert-Lewin"
-          ]
+          "owned_players": []
         },
         {
           "club": "Liverpool",

@@ -117,63 +117,6 @@
       "news": ""
     },
     {
-      "id": 469,
-      "name": "N.Williams",
-      "club_id": 18,
-      "position": 2,
-      "matches_analyzed": 5,
-      "last_five_minutes": [
-        90,
-        90,
-        90,
-        83,
-        90
-      ],
-      "fixture_details": [
-        {
-          "fixture_id": 47,
-          "gameweek": 5,
-          "minutes": 90,
-          "history_record_found": true
-        },
-        {
-          "fixture_id": 55,
-          "gameweek": 6,
-          "minutes": 90,
-          "history_record_found": true
-        },
-        {
-          "fixture_id": 69,
-          "gameweek": 7,
-          "minutes": 90,
-          "history_record_found": true
-        },
-        {
-          "fixture_id": 77,
-          "gameweek": 8,
-          "minutes": 83,
-          "history_record_found": true
-        },
-        {
-          "fixture_id": 83,
-          "gameweek": 9,
-          "minutes": 90,
-          "history_record_found": true
-        }
-      ],
-      "missing_history_records": 0,
-      "average_minutes": 88.6,
-      "weighted_minutes": 88.1,
-      "expected_minutes": 88.1,
-      "appearance_rate": 1.0,
-      "sixty_minute_rate": 1.0,
-      "minutes_trend": -2.3,
-      "missed_recently": false,
-      "rotation_risk": "Low",
-      "status": "a",
-      "news": ""
-    },
-    {
       "id": 31,
       "name": "Konsa",
       "club_id": 1,
@@ -221,14 +164,71 @@
       "missing_history_records": 0,
       "average_minutes": 90,
       "weighted_minutes": 90.0,
-      "expected_minutes": 67.5,
+      "expected_minutes": 90,
       "appearance_rate": 1.0,
       "sixty_minute_rate": 1.0,
       "minutes_trend": 0,
       "missed_recently": false,
-      "rotation_risk": "High",
-      "status": "d",
-      "news": "Knee injury - 75% chance of playing"
+      "rotation_risk": "Low",
+      "status": "a",
+      "news": ""
+    },
+    {
+      "id": 115,
+      "name": "De Cuyper",
+      "club_id": 5,
+      "position": 2,
+      "matches_analyzed": 5,
+      "last_five_minutes": [
+        90,
+        67,
+        90,
+        90,
+        71
+      ],
+      "fixture_details": [
+        {
+          "fixture_id": 42,
+          "gameweek": 5,
+          "minutes": 90,
+          "history_record_found": true
+        },
+        {
+          "fixture_id": 60,
+          "gameweek": 6,
+          "minutes": 67,
+          "history_record_found": true
+        },
+        {
+          "fixture_id": 63,
+          "gameweek": 7,
+          "minutes": 90,
+          "history_record_found": true
+        },
+        {
+          "fixture_id": 78,
+          "gameweek": 8,
+          "minutes": 90,
+          "history_record_found": true
+        },
+        {
+          "fixture_id": 88,
+          "gameweek": 9,
+          "minutes": 71,
+          "history_record_found": true
+        }
+      ],
+      "missing_history_records": 0,
+      "average_minutes": 81.6,
+      "weighted_minutes": 80.6,
+      "expected_minutes": 80.6,
+      "appearance_rate": 1.0,
+      "sixty_minute_rate": 1.0,
+      "minutes_trend": 5.2,
+      "missed_recently": false,
+      "rotation_risk": "Low",
+      "status": "a",
+      "news": ""
     },
     {
       "id": 427,
@@ -516,61 +516,61 @@
       "news": ""
     },
     {
-      "id": 346,
-      "name": "Calvert-Lewin",
-      "club_id": 13,
+      "id": 79,
+      "name": "Evanilson",
+      "club_id": 3,
       "position": 4,
       "matches_analyzed": 5,
       "last_five_minutes": [
         90,
         90,
-        90,
-        84,
-        90
+        78,
+        86,
+        75
       ],
       "fixture_details": [
         {
-          "fixture_id": 44,
+          "fixture_id": 49,
           "gameweek": 5,
           "minutes": 90,
           "history_record_found": true
         },
         {
-          "fixture_id": 51,
+          "fixture_id": 53,
           "gameweek": 6,
           "minutes": 90,
           "history_record_found": true
         },
         {
-          "fixture_id": 66,
+          "fixture_id": 61,
           "gameweek": 7,
-          "minutes": 90,
+          "minutes": 78,
           "history_record_found": true
         },
         {
-          "fixture_id": 80,
+          "fixture_id": 79,
           "gameweek": 8,
-          "minutes": 84,
+          "minutes": 86,
           "history_record_found": true
         },
         {
           "fixture_id": 82,
           "gameweek": 9,
-          "minutes": 90,
+          "minutes": 75,
           "history_record_found": true
         }
       ],
       "missing_history_records": 0,
-      "average_minutes": 88.8,
-      "weighted_minutes": 88.4,
-      "expected_minutes": 66.3,
+      "average_minutes": 83.8,
+      "weighted_minutes": 81.5,
+      "expected_minutes": 81.5,
       "appearance_rate": 1.0,
       "sixty_minute_rate": 1.0,
-      "minutes_trend": -2,
+      "minutes_trend": -10.3,
       "missed_recently": false,
-      "rotation_risk": "High",
-      "status": "d",
-      "news": "Foot injury - 75% chance of playing"
+      "rotation_risk": "Low",
+      "status": "a",
+      "news": ""
     },
     {
       "id": 166,
@@ -687,6 +687,63 @@
       "news": ""
     },
     {
+      "id": 469,
+      "name": "N.Williams",
+      "club_id": 18,
+      "position": 2,
+      "matches_analyzed": 5,
+      "last_five_minutes": [
+        90,
+        90,
+        90,
+        83,
+        90
+      ],
+      "fixture_details": [
+        {
+          "fixture_id": 47,
+          "gameweek": 5,
+          "minutes": 90,
+          "history_record_found": true
+        },
+        {
+          "fixture_id": 55,
+          "gameweek": 6,
+          "minutes": 90,
+          "history_record_found": true
+        },
+        {
+          "fixture_id": 69,
+          "gameweek": 7,
+          "minutes": 90,
+          "history_record_found": true
+        },
+        {
+          "fixture_id": 77,
+          "gameweek": 8,
+          "minutes": 83,
+          "history_record_found": true
+        },
+        {
+          "fixture_id": 83,
+          "gameweek": 9,
+          "minutes": 90,
+          "history_record_found": true
+        }
+      ],
+      "missing_history_records": 0,
+      "average_minutes": 88.6,
+      "weighted_minutes": 88.1,
+      "expected_minutes": 88.1,
+      "appearance_rate": 1.0,
+      "sixty_minute_rate": 1.0,
+      "minutes_trend": -2.3,
+      "missed_recently": false,
+      "rotation_risk": "Low",
+      "status": "a",
+      "news": ""
+    },
+    {
       "id": 98,
       "name": "Janelt",
       "club_id": 4,
@@ -740,63 +797,6 @@
       "minutes_trend": -30,
       "missed_recently": true,
       "rotation_risk": "Medium",
-      "status": "a",
-      "news": ""
-    },
-    {
-      "id": 115,
-      "name": "De Cuyper",
-      "club_id": 5,
-      "position": 2,
-      "matches_analyzed": 5,
-      "last_five_minutes": [
-        90,
-        67,
-        90,
-        90,
-        71
-      ],
-      "fixture_details": [
-        {
-          "fixture_id": 42,
-          "gameweek": 5,
-          "minutes": 90,
-          "history_record_found": true
-        },
-        {
-          "fixture_id": 60,
-          "gameweek": 6,
-          "minutes": 67,
-          "history_record_found": true
-        },
-        {
-          "fixture_id": 63,
-          "gameweek": 7,
-          "minutes": 90,
-          "history_record_found": true
-        },
-        {
-          "fixture_id": 78,
-          "gameweek": 8,
-          "minutes": 90,
-          "history_record_found": true
-        },
-        {
-          "fixture_id": 88,
-          "gameweek": 9,
-          "minutes": 71,
-          "history_record_found": true
-        }
-      ],
-      "missing_history_records": 0,
-      "average_minutes": 81.6,
-      "weighted_minutes": 80.6,
-      "expected_minutes": 80.6,
-      "appearance_rate": 1.0,
-      "sixty_minute_rate": 1.0,
-      "minutes_trend": 5.2,
-      "missed_recently": false,
-      "rotation_risk": "Low",
       "status": "a",
       "news": ""
     },
