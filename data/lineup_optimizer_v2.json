@@ -62,12 +62,12 @@
         "opponent": "Hull City",
         "home": true,
         "difficulty": 2,
-        "expected_minutes": 90,
+        "expected_minutes": 67.5,
         "xg90": 0.086,
         "xa90": 0.004,
-        "projected_points": 4.91,
-        "status": "a",
-        "news": ""
+        "projected_points": 3.68,
+        "status": "d",
+        "news": "Knee injury - 75% chance of playing"
       },
       {
         "id": 469,
@@ -182,7 +182,7 @@
         "news": ""
       }
     ],
-    "projected_points": 51.38
+    "projected_points": 50.15
   },
   "bench": [
     {

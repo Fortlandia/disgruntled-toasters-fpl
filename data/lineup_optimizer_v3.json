@@ -76,14 +76,14 @@
         "opponent": "Hull City",
         "home": true,
         "difficulty": 2,
-        "expected_minutes": 90,
+        "expected_minutes": 67.5,
         "xg90": 0.086,
         "xa90": 0.004,
-        "projected_points": 4.91,
-        "status": "a",
-        "news": "",
-        "strength_adjusted_points": 4.88,
-        "opponent_adjustment": -0.03,
+        "projected_points": 3.68,
+        "status": "d",
+        "news": "Knee injury - 75% chance of playing",
+        "strength_adjusted_points": 3.66,
+        "opponent_adjustment": -0.02,
         "opponent_league_position": 11,
         "opponent_attack_index": 0.943,
         "opponent_defensive_vulnerability_index": 0.894
@@ -236,7 +236,7 @@
         "opponent_defensive_vulnerability_index": 1.141
       }
     ],
-    "projected_points": 51.8
+    "projected_points": 50.58
   },
   "bench": [
     {
@@ -366,12 +366,12 @@
     "opponent_attack_index": 1.091,
     "opponent_defensive_vulnerability_index": 1.289
   },
-  "captain_adjusted_total": 57.82,
+  "captain_adjusted_total": 56.6,
   "comparison_to_v2": {
     "previous_formation": "4-4-2",
     "new_formation": "4-4-2",
-    "previous_projected_points": 51.38,
-    "new_projected_points": 51.8,
+    "previous_projected_points": 50.15,
+    "new_projected_points": 50.58,
     "players_added": [],
     "players_removed": [],
     "captain_changed": false,

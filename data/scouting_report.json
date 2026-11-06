@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-05T19:56:46.781454+00:00",
+  "updated_utc": "2026-11-06T01:32:14.566611+00:00",
   "team": "Disgruntled Toasters",
   "next_gameweek": 10,
   "league_position": 7,
@@ -48,8 +48,8 @@
       "vice_captain": false,
       "total_points": 49,
       "form": "9.2",
-      "status": "a",
-      "news": ""
+      "status": "d",
+      "news": "Knee injury - 75% chance of playing"
     },
     {
       "name": "Mbeumo",
@@ -230,8 +230,8 @@
         "vice_captain": false,
         "total_points": 49,
         "form": "9.2",
-        "status": "a",
-        "news": ""
+        "status": "d",
+        "news": "Knee injury - 75% chance of playing"
       },
       {
         "name": "Palmer",

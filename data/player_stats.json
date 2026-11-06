@@ -427,9 +427,9 @@
     "expected_goals": "0.61",
     "expected_assists": "0.03",
     "minutes": 641,
-    "status": "a",
-    "news": "",
-    "chance_next_round": 100
+    "status": "d",
+    "news": "Knee injury - 75% chance of playing",
+    "chance_next_round": 75
   },
   {
     "id": 452,
@@ -788,7 +788,7 @@
     "name": "Manzambi",
     "club": "Aston Villa",
     "position": 3,
-    "price": 6.1,
+    "price": 6.2,
     "total_points": 38,
     "form": "6.0",
     "points_per_game": "6.3",
@@ -1092,7 +1092,7 @@
     "name": "Hill",
     "club": "Bournemouth",
     "position": 2,
-    "price": 5.5,
+    "price": 5.6,
     "total_points": 38,
     "form": "6.5",
     "points_per_game": "4.2",
@@ -1467,9 +1467,9 @@
     "expected_goals": "0.00",
     "expected_assists": "0.00",
     "minutes": 18,
-    "status": "a",
-    "news": "",
-    "chance_next_round": null
+    "status": "i",
+    "news": "Ankle injury - Unknown return date",
+    "chance_next_round": 0
   },
   {
     "id": 608,
@@ -4100,16 +4100,16 @@
     "name": "Strand Larsen",
     "club": "Crystal Palace",
     "position": 4,
-    "price": 6.0,
+    "price": 5.9,
     "total_points": 21,
     "form": "1.8",
     "points_per_game": "3.0",
     "expected_goals": "1.41",
     "expected_assists": "0.53",
     "minutes": 440,
-    "status": "d",
-    "news": "Ankle injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 223,
@@ -4283,9 +4283,9 @@
     "expected_goals": "0.38",
     "expected_assists": "0.14",
     "minutes": 388,
-    "status": "d",
-    "news": "Hamstring injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 647,
@@ -10475,9 +10475,9 @@
     "expected_goals": "0.03",
     "expected_assists": "0.16",
     "minutes": 70,
-    "status": "d",
-    "news": "Muscular injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "i",
+    "news": "Muscular injury - Unknown return date",
+    "chance_next_round": 0
   },
   {
     "id": 544,

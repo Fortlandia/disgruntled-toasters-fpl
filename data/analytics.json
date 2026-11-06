@@ -234,7 +234,7 @@
       "name": "Hill",
       "club": "Bournemouth",
       "position": 2,
-      "price": 5.5,
+      "price": 5.6,
       "form": 6.5,
       "xgi_per90": 0.11,
       "fixture": "Ipswich Town",
@@ -309,7 +309,7 @@
       "name": "Manzambi",
       "club": "Aston Villa",
       "position": 3,
-      "price": 6.1,
+      "price": 6.2,
       "form": 6.0,
       "xgi_per90": 0.51,
       "fixture": "Man Utd",
@@ -647,8 +647,8 @@
       "fixture": "Hull City",
       "home": true,
       "difficulty": 2,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Knee injury - 75% chance of playing",
       "score": 26.85
     },
     {
@@ -791,7 +791,7 @@
       "name": "Hill",
       "club": "Bournemouth",
       "position": 2,
-      "price": 5.5,
+      "price": 5.6,
       "form": 6.5,
       "xgi_per90": 0.11,
       "fixture": "Ipswich Town",
@@ -866,7 +866,7 @@
       "name": "Manzambi",
       "club": "Aston Villa",
       "position": 3,
-      "price": 6.1,
+      "price": 6.2,
       "form": 6.0,
       "xgi_per90": 0.51,
       "fixture": "Man Utd",
@@ -4451,14 +4451,14 @@
       "name": "Strand Larsen",
       "club": "Crystal Palace",
       "position": 4,
-      "price": 6.0,
+      "price": 5.9,
       "form": 1.8,
       "xgi_per90": 0.4,
       "fixture": "Liverpool",
       "home": true,
       "difficulty": 4,
-      "status": "d",
-      "news": "Ankle injury - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 9.58
     },
     {
@@ -5177,8 +5177,8 @@
       "fixture": "Liverpool",
       "home": true,
       "difficulty": 4,
-      "status": "d",
-      "news": "Hamstring injury - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 8.6
     },
     {
@@ -5357,8 +5357,8 @@
       "fixture": "Ipswich Town",
       "home": false,
       "difficulty": 2,
-      "status": "a",
-      "news": "",
+      "status": "i",
+      "news": "Ankle injury - Unknown return date",
       "score": 8.4
     },
     {
@@ -6767,8 +6767,8 @@
       "fixture": "Chelsea",
       "home": true,
       "difficulty": 4,
-      "status": "d",
-      "news": "Muscular injury - 75% chance of playing",
+      "status": "i",
+      "news": "Muscular injury - Unknown return date",
       "score": 6.22
     },
     {
