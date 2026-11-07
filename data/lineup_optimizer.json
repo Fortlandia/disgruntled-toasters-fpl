@@ -172,17 +172,17 @@
         "club_id": 15,
         "position": 4,
         "price": 15.8,
-        "minutes": 806,
-        "form": 6.0,
-        "xgi_per90": 0.83,
+        "minutes": 889,
+        "form": 6.2,
+        "xgi_per90": 0.8,
         "average_fixture_difficulty": 3.2,
         "fixtures_evaluated": 5,
-        "score": 21.74,
+        "score": 22.0,
         "already_owned": true,
         "club_full": false
       }
     ],
-    "score": 214.13
+    "score": 214.39
   },
   "bench": [
     {
@@ -192,12 +192,12 @@
       "club_id": 18,
       "position": 2,
       "price": 4.9,
-      "minutes": 810,
-      "form": 2.8,
-      "xgi_per90": 0.24,
+      "minutes": 893,
+      "form": 3.0,
+      "xgi_per90": 0.21,
       "average_fixture_difficulty": 3.6,
       "fixtures_evaluated": 5,
-      "score": 11.58,
+      "score": 11.87,
       "already_owned": true,
       "club_full": false
     },
