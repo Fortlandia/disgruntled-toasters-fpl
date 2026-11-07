@@ -23,14 +23,14 @@
       "club": "Man City",
       "position": 4,
       "price": 15.8,
-      "form": 5.8,
+      "form": 6.0,
       "xgi_per90": 0.83,
       "fixture": "Nott'm Forest",
       "home": false,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 23.77
+      "score": 24.14
     },
     {
       "id": 166,
@@ -130,14 +130,14 @@
       "club": "Spurs",
       "position": 3,
       "price": 4.4,
-      "form": 0.2,
-      "xgi_per90": 15.3,
+      "form": 0.4,
+      "xgi_per90": 4.0,
       "fixture": "Leeds",
       "home": false,
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 82.9
+      "score": 26.8
     },
     {
       "id": 249,
@@ -175,14 +175,14 @@
       "club": "Arsenal",
       "position": 2,
       "price": 8.1,
-      "form": 6.6,
-      "xgi_per90": 0.19,
+      "form": 8.2,
+      "xgi_per90": 0.17,
       "fixture": "Hull City",
       "home": true,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 22.16
+      "score": 25.26
     },
     {
       "id": 236,
@@ -205,14 +205,14 @@
       "club": "Arsenal",
       "position": 3,
       "price": 7.5,
-      "form": 5.4,
+      "form": 6.0,
       "xgi_per90": 0.29,
       "fixture": "Hull City",
       "home": true,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 20.25
+      "score": 21.43
     },
     {
       "id": 400,
@@ -220,14 +220,29 @@
       "club": "Man City",
       "position": 3,
       "price": 7.5,
-      "form": 4.4,
-      "xgi_per90": 0.69,
+      "form": 4.6,
+      "xgi_per90": 0.67,
       "fixture": "Nott'm Forest",
       "home": false,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 20.25
+      "score": 20.57
+    },
+    {
+      "id": 112,
+      "name": "Van Hecke",
+      "club": "Spurs",
+      "position": 2,
+      "price": 5.0,
+      "form": 6.6,
+      "xgi_per90": 0.24,
+      "fixture": "Leeds",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 20.4
     },
     {
       "id": 379,
@@ -243,6 +258,21 @@
       "status": "a",
       "news": "",
       "score": 19.16
+    },
+    {
+      "id": 15,
+      "name": "Ødegaard",
+      "club": "Arsenal",
+      "position": 3,
+      "price": 6.7,
+      "form": 4.2,
+      "xgi_per90": 0.53,
+      "fixture": "Hull City",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 19.07
     },
     {
       "id": 126,
@@ -275,21 +305,6 @@
       "score": 18.94
     },
     {
-      "id": 112,
-      "name": "Van Hecke",
-      "club": "Spurs",
-      "position": 2,
-      "price": 5.0,
-      "form": 5.8,
-      "xgi_per90": 0.26,
-      "fixture": "Leeds",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 18.89
-    },
-    {
       "id": 183,
       "name": "Rudoni",
       "club": "Coventry City",
@@ -303,6 +318,21 @@
       "status": "a",
       "news": "",
       "score": 18.81
+    },
+    {
+      "id": 261,
+      "name": "Iwobi",
+      "club": "Fulham",
+      "position": 3,
+      "price": 5.4,
+      "form": 5.2,
+      "xgi_per90": 0.47,
+      "fixture": "Newcastle",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 18.77
     },
     {
       "id": 129,
@@ -335,6 +365,21 @@
       "score": 18.52
     },
     {
+      "id": 16,
+      "name": "Madueke",
+      "club": "Arsenal",
+      "position": 3,
+      "price": 6.2,
+      "form": 4.0,
+      "xgi_per90": 0.48,
+      "fixture": "Hull City",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 18.4
+    },
+    {
       "id": 156,
       "name": "Neto",
       "club": "Chelsea",
@@ -365,19 +410,19 @@
       "score": 18.15
     },
     {
-      "id": 261,
-      "name": "Iwobi",
-      "club": "Fulham",
-      "position": 3,
-      "price": 5.4,
-      "form": 4.8,
-      "xgi_per90": 0.51,
-      "fixture": "Newcastle",
+      "id": 334,
+      "name": "Muharemović",
+      "club": "Leeds",
+      "position": 2,
+      "price": 5.1,
+      "form": 5.8,
+      "xgi_per90": 0.09,
+      "fixture": "Spurs",
       "home": true,
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 18.13
+      "score": 18.05
     },
     {
       "id": 398,
@@ -485,6 +530,21 @@
       "score": 17.05
     },
     {
+      "id": 264,
+      "name": "Bobb",
+      "club": "Fulham",
+      "position": 3,
+      "price": 5.5,
+      "form": 4.4,
+      "xgi_per90": 0.44,
+      "fixture": "Newcastle",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 17.01
+    },
+    {
       "id": 67,
       "name": "Rayan",
       "club": "Bournemouth",
@@ -500,97 +560,22 @@
       "score": 16.99
     },
     {
-      "id": 264,
-      "name": "Bobb",
-      "club": "Fulham",
-      "position": 3,
-      "price": 5.5,
-      "form": 3.8,
-      "xgi_per90": 0.47,
-      "fixture": "Newcastle",
+      "id": 332,
+      "name": "Justin",
+      "club": "Leeds",
+      "position": 2,
+      "price": 4.5,
+      "form": 5.0,
+      "xgi_per90": 0.17,
+      "fixture": "Spurs",
       "home": true,
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 15.95
-    },
-    {
-      "id": 399,
-      "name": "Cherki",
-      "club": "Man City",
-      "position": 3,
-      "price": 7.9,
-      "form": 2.2,
-      "xgi_per90": 0.68,
-      "fixture": "Nott'm Forest",
-      "home": false,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 15.8
-    },
-    {
-      "id": 106,
-      "name": "Thiago",
-      "club": "Brentford",
-      "position": 4,
-      "price": 7.8,
-      "form": 4.4,
-      "xgi_per90": 0.6,
-      "fixture": "Brighton",
-      "home": false,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 15.79
-    },
-    {
-      "id": 64,
-      "name": "Smith",
-      "club": "Bournemouth",
-      "position": 2,
-      "price": 4.5,
-      "form": 3.6,
-      "xgi_per90": 0.12,
-      "fixture": "Ipswich Town",
-      "home": false,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 15.78
-    },
-    {
-      "id": 26,
-      "name": "Havertz",
-      "club": "Arsenal",
-      "position": 4,
-      "price": 7.4,
-      "form": 2.8,
-      "xgi_per90": 0.43,
-      "fixture": "Hull City",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 15.76
+      "score": 16.85
     }
   ],
   "all_players": [
-    {
-      "id": 601,
-      "name": "Williams-Barnett",
-      "club": "Spurs",
-      "position": 3,
-      "price": 4.4,
-      "form": 0.2,
-      "xgi_per90": 15.3,
-      "fixture": "Leeds",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 82.9
-    },
     {
       "id": 547,
       "name": "Mundle",
@@ -620,6 +605,36 @@
       "status": "i",
       "news": "Knock - Expected back 23 Nov",
       "score": 68.5
+    },
+    {
+      "id": 601,
+      "name": "Williams-Barnett",
+      "club": "Spurs",
+      "position": 3,
+      "price": 4.4,
+      "form": 0.4,
+      "xgi_per90": 4.0,
+      "fixture": "Leeds",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 26.8
+    },
+    {
+      "id": 31,
+      "name": "Konsa",
+      "club": "Arsenal",
+      "position": 2,
+      "price": 4.8,
+      "form": 9.0,
+      "xgi_per90": 0.08,
+      "fixture": "Hull City",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 26.42
     },
     {
       "id": 249,
@@ -652,6 +667,21 @@
       "score": 26.06
     },
     {
+      "id": 4,
+      "name": "Gabriel",
+      "club": "Arsenal",
+      "position": 2,
+      "price": 8.1,
+      "form": 8.2,
+      "xgi_per90": 0.17,
+      "fixture": "Hull City",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 25.26
+    },
+    {
       "id": 79,
       "name": "Evanilson",
       "club": "Bournemouth",
@@ -672,44 +702,14 @@
       "club": "Man City",
       "position": 4,
       "price": 15.8,
-      "form": 5.8,
+      "form": 6.0,
       "xgi_per90": 0.83,
       "fixture": "Nott'm Forest",
       "home": false,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 23.77
-    },
-    {
-      "id": 31,
-      "name": "Konsa",
-      "club": "Arsenal",
-      "position": 2,
-      "price": 4.8,
-      "form": 7.4,
-      "xgi_per90": 0.09,
-      "fixture": "Hull City",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 23.25
-    },
-    {
-      "id": 4,
-      "name": "Gabriel",
-      "club": "Arsenal",
-      "position": 2,
-      "price": 8.1,
-      "form": 6.6,
-      "xgi_per90": 0.19,
-      "fixture": "Hull City",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 22.16
+      "score": 24.14
     },
     {
       "id": 236,
@@ -725,6 +725,21 @@
       "status": "a",
       "news": "",
       "score": 21.59
+    },
+    {
+      "id": 13,
+      "name": "Rice",
+      "club": "Arsenal",
+      "position": 3,
+      "price": 7.5,
+      "form": 6.0,
+      "xgi_per90": 0.29,
+      "fixture": "Hull City",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 21.43
     },
     {
       "id": 166,
@@ -757,6 +772,51 @@
       "score": 20.64
     },
     {
+      "id": 400,
+      "name": "Doku",
+      "club": "Man City",
+      "position": 3,
+      "price": 7.5,
+      "form": 4.6,
+      "xgi_per90": 0.67,
+      "fixture": "Nott'm Forest",
+      "home": false,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 20.57
+    },
+    {
+      "id": 8,
+      "name": "Calafiori",
+      "club": "Arsenal",
+      "position": 2,
+      "price": 5.9,
+      "form": 5.6,
+      "xgi_per90": 0.26,
+      "fixture": "Hull City",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 20.51
+    },
+    {
+      "id": 112,
+      "name": "Van Hecke",
+      "club": "Spurs",
+      "position": 2,
+      "price": 5.0,
+      "form": 6.6,
+      "xgi_per90": 0.24,
+      "fixture": "Leeds",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 20.4
+    },
+    {
       "id": 115,
       "name": "De Cuyper",
       "club": "Brighton",
@@ -772,34 +832,19 @@
       "score": 20.33
     },
     {
-      "id": 13,
-      "name": "Rice",
+      "id": 1,
+      "name": "Raya",
       "club": "Arsenal",
-      "position": 3,
-      "price": 7.5,
-      "form": 5.4,
-      "xgi_per90": 0.29,
+      "position": 1,
+      "price": 6.2,
+      "form": 6.0,
+      "xgi_per90": 0.0,
       "fixture": "Hull City",
       "home": true,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 20.25
-    },
-    {
-      "id": 400,
-      "name": "Doku",
-      "club": "Man City",
-      "position": 3,
-      "price": 7.5,
-      "form": 4.4,
-      "xgi_per90": 0.69,
-      "fixture": "Nott'm Forest",
-      "home": false,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 20.25
+      "score": 20.01
     },
     {
       "id": 379,
@@ -815,6 +860,21 @@
       "status": "a",
       "news": "",
       "score": 19.16
+    },
+    {
+      "id": 15,
+      "name": "Ødegaard",
+      "club": "Arsenal",
+      "position": 3,
+      "price": 6.7,
+      "form": 4.2,
+      "xgi_per90": 0.53,
+      "fixture": "Hull City",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 19.07
     },
     {
       "id": 126,
@@ -847,21 +907,6 @@
       "score": 18.94
     },
     {
-      "id": 112,
-      "name": "Van Hecke",
-      "club": "Spurs",
-      "position": 2,
-      "price": 5.0,
-      "form": 5.8,
-      "xgi_per90": 0.26,
-      "fixture": "Leeds",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 18.89
-    },
-    {
       "id": 183,
       "name": "Rudoni",
       "club": "Coventry City",
@@ -875,6 +920,21 @@
       "status": "a",
       "news": "",
       "score": 18.81
+    },
+    {
+      "id": 261,
+      "name": "Iwobi",
+      "club": "Fulham",
+      "position": 3,
+      "price": 5.4,
+      "form": 5.2,
+      "xgi_per90": 0.47,
+      "fixture": "Newcastle",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 18.77
     },
     {
       "id": 129,
@@ -907,6 +967,21 @@
       "score": 18.52
     },
     {
+      "id": 16,
+      "name": "Madueke",
+      "club": "Arsenal",
+      "position": 3,
+      "price": 6.2,
+      "form": 4.0,
+      "xgi_per90": 0.48,
+      "fixture": "Hull City",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 18.4
+    },
+    {
       "id": 156,
       "name": "Neto",
       "club": "Chelsea",
@@ -920,21 +995,6 @@
       "status": "a",
       "news": "",
       "score": 18.24
-    },
-    {
-      "id": 8,
-      "name": "Calafiori",
-      "club": "Arsenal",
-      "position": 2,
-      "price": 5.9,
-      "form": 4.4,
-      "xgi_per90": 0.29,
-      "fixture": "Hull City",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 18.23
     },
     {
       "id": 53,
@@ -952,34 +1012,19 @@
       "score": 18.15
     },
     {
-      "id": 261,
-      "name": "Iwobi",
-      "club": "Fulham",
-      "position": 3,
-      "price": 5.4,
-      "form": 4.8,
-      "xgi_per90": 0.51,
-      "fixture": "Newcastle",
+      "id": 334,
+      "name": "Muharemović",
+      "club": "Leeds",
+      "position": 2,
+      "price": 5.1,
+      "form": 5.8,
+      "xgi_per90": 0.09,
+      "fixture": "Spurs",
       "home": true,
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 18.13
-    },
-    {
-      "id": 1,
-      "name": "Raya",
-      "club": "Arsenal",
-      "position": 1,
-      "price": 6.2,
-      "form": 4.8,
-      "xgi_per90": 0.0,
-      "fixture": "Hull City",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 17.61
+      "score": 18.05
     },
     {
       "id": 398,
@@ -1087,6 +1132,21 @@
       "score": 17.05
     },
     {
+      "id": 264,
+      "name": "Bobb",
+      "club": "Fulham",
+      "position": 3,
+      "price": 5.5,
+      "form": 4.4,
+      "xgi_per90": 0.44,
+      "fixture": "Newcastle",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 17.01
+    },
+    {
       "id": 67,
       "name": "Rayan",
       "club": "Bournemouth",
@@ -1100,6 +1160,21 @@
       "status": "a",
       "news": "",
       "score": 16.99
+    },
+    {
+      "id": 332,
+      "name": "Justin",
+      "club": "Leeds",
+      "position": 2,
+      "price": 4.5,
+      "form": 5.0,
+      "xgi_per90": 0.17,
+      "fixture": "Spurs",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 16.85
     },
     {
       "id": 40,
@@ -1117,6 +1192,21 @@
       "score": 16.8
     },
     {
+      "id": 258,
+      "name": "Castagne",
+      "club": "Fulham",
+      "position": 2,
+      "price": 4.5,
+      "form": 4.8,
+      "xgi_per90": 0.21,
+      "fixture": "Newcastle",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 16.67
+    },
+    {
       "id": 427,
       "name": "Mbeumo",
       "club": "Man Utd",
@@ -1130,6 +1220,21 @@
       "status": "a",
       "news": "",
       "score": 16.66
+    },
+    {
+      "id": 452,
+      "name": "Bruno G.",
+      "club": "Arsenal",
+      "position": 3,
+      "price": 6.7,
+      "form": 3.8,
+      "xgi_per90": 0.17,
+      "fixture": "Hull City",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 16.46
     },
     {
       "id": 101,
@@ -1147,19 +1252,49 @@
       "score": 16.44
     },
     {
-      "id": 264,
-      "name": "Bobb",
-      "club": "Fulham",
-      "position": 3,
-      "price": 5.5,
-      "form": 3.8,
-      "xgi_per90": 0.47,
-      "fixture": "Newcastle",
+      "id": 385,
+      "name": "Trafford",
+      "club": "Leeds",
+      "position": 1,
+      "price": 5.0,
+      "form": 5.2,
+      "xgi_per90": 0.0,
+      "fixture": "Spurs",
       "home": true,
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 15.95
+      "score": 16.41
+    },
+    {
+      "id": 26,
+      "name": "Havertz",
+      "club": "Arsenal",
+      "position": 4,
+      "price": 7.4,
+      "form": 3.2,
+      "xgi_per90": 0.4,
+      "fixture": "Hull City",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 16.39
+    },
+    {
+      "id": 512,
+      "name": "Kudus",
+      "club": "Spurs",
+      "position": 3,
+      "price": 6.6,
+      "form": 4.2,
+      "xgi_per90": 0.36,
+      "fixture": "Leeds",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 16.19
     },
     {
       "id": 399,
@@ -1167,14 +1302,14 @@
       "club": "Man City",
       "position": 3,
       "price": 7.9,
-      "form": 2.2,
-      "xgi_per90": 0.68,
+      "form": 2.4,
+      "xgi_per90": 0.67,
       "fixture": "Nott'm Forest",
       "home": false,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 15.8
+      "score": 16.15
     },
     {
       "id": 106,
@@ -1207,21 +1342,6 @@
       "score": 15.78
     },
     {
-      "id": 26,
-      "name": "Havertz",
-      "club": "Arsenal",
-      "position": 4,
-      "price": 7.4,
-      "form": 2.8,
-      "xgi_per90": 0.43,
-      "fixture": "Hull City",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 15.76
-    },
-    {
       "id": 366,
       "name": "Wirtz",
       "club": "Liverpool",
@@ -1235,21 +1355,6 @@
       "status": "a",
       "news": "",
       "score": 15.67
-    },
-    {
-      "id": 512,
-      "name": "Kudus",
-      "club": "Spurs",
-      "position": 3,
-      "price": 6.6,
-      "form": 3.8,
-      "xgi_per90": 0.41,
-      "fixture": "Leeds",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 15.64
     },
     {
       "id": 57,
@@ -1267,19 +1372,19 @@
       "score": 15.6
     },
     {
-      "id": 452,
-      "name": "Bruno G.",
-      "club": "Arsenal",
-      "position": 3,
-      "price": 6.7,
-      "form": 3.2,
-      "xgi_per90": 0.17,
-      "fixture": "Hull City",
-      "home": true,
-      "difficulty": 2,
+      "id": 502,
+      "name": "Robertson",
+      "club": "Spurs",
+      "position": 2,
+      "price": 4.3,
+      "form": 4.2,
+      "xgi_per90": 0.23,
+      "fixture": "Leeds",
+      "home": false,
+      "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 15.25
+      "score": 15.54
     },
     {
       "id": 237,
@@ -1287,29 +1392,29 @@
       "club": "Man City",
       "position": 3,
       "price": 5.8,
-      "form": 2.6,
+      "form": 2.8,
       "xgi_per90": 0.37,
       "fixture": "Nott'm Forest",
       "home": false,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 15.06
+      "score": 15.44
     },
     {
-      "id": 16,
-      "name": "Madueke",
-      "club": "Arsenal",
-      "position": 3,
-      "price": 6.2,
-      "form": 2.4,
-      "xgi_per90": 0.45,
-      "fixture": "Hull City",
+      "id": 346,
+      "name": "Calvert-Lewin",
+      "club": "Leeds",
+      "position": 4,
+      "price": 6.0,
+      "form": 3.4,
+      "xgi_per90": 0.48,
+      "fixture": "Spurs",
       "home": true,
-      "difficulty": 2,
+      "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 15.04
+      "score": 15.22
     },
     {
       "id": 78,
@@ -1325,6 +1430,21 @@
       "status": "a",
       "news": "",
       "score": 15.04
+    },
+    {
+      "id": 455,
+      "name": "Tonali",
+      "club": "Spurs",
+      "position": 3,
+      "price": 5.3,
+      "form": 4.0,
+      "xgi_per90": 0.18,
+      "fixture": "Leeds",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 14.9
     },
     {
       "id": 70,
@@ -1357,21 +1477,6 @@
       "score": 14.87
     },
     {
-      "id": 502,
-      "name": "Robertson",
-      "club": "Spurs",
-      "position": 2,
-      "price": 4.3,
-      "form": 3.8,
-      "xgi_per90": 0.25,
-      "fixture": "Leeds",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 14.85
-    },
-    {
       "id": 627,
       "name": "Barcola",
       "club": "Liverpool",
@@ -1385,6 +1490,21 @@
       "status": "a",
       "news": "",
       "score": 14.81
+    },
+    {
+      "id": 496,
+      "name": "Kinsky",
+      "club": "Spurs",
+      "position": 1,
+      "price": 4.4,
+      "form": 4.4,
+      "xgi_per90": 0.0,
+      "fixture": "Leeds",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 14.8
     },
     {
       "id": 230,
@@ -1432,19 +1552,34 @@
       "score": 14.71
     },
     {
-      "id": 15,
-      "name": "Ødegaard",
-      "club": "Arsenal",
-      "position": 3,
-      "price": 6.7,
-      "form": 2.0,
-      "xgi_per90": 0.53,
-      "fixture": "Hull City",
+      "id": 257,
+      "name": "Bassey",
+      "club": "Fulham",
+      "position": 2,
+      "price": 4.5,
+      "form": 4.2,
+      "xgi_per90": 0.06,
+      "fixture": "Newcastle",
       "home": true,
-      "difficulty": 2,
+      "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 14.64
+      "score": 14.68
+    },
+    {
+      "id": 457,
+      "name": "J.Murphy",
+      "club": "Newcastle",
+      "position": 3,
+      "price": 5.9,
+      "form": 3.6,
+      "xgi_per90": 0.28,
+      "fixture": "Fulham",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 14.62
     },
     {
       "id": 114,
@@ -1462,15 +1597,15 @@
       "score": 14.6
     },
     {
-      "id": 455,
-      "name": "Tonali",
-      "club": "Spurs",
-      "position": 3,
-      "price": 5.3,
-      "form": 3.8,
-      "xgi_per90": 0.2,
-      "fixture": "Leeds",
-      "home": false,
+      "id": 254,
+      "name": "Robinson",
+      "club": "Fulham",
+      "position": 2,
+      "price": 4.4,
+      "form": 4.0,
+      "xgi_per90": 0.12,
+      "fixture": "Newcastle",
+      "home": true,
       "difficulty": 3,
       "status": "a",
       "news": "",
@@ -1552,19 +1687,19 @@
       "score": 14.45
     },
     {
-      "id": 346,
-      "name": "Calvert-Lewin",
-      "club": "Leeds",
-      "position": 4,
-      "price": 6.0,
-      "form": 3.0,
-      "xgi_per90": 0.47,
-      "fixture": "Spurs",
+      "id": 250,
+      "name": "Leno",
+      "club": "Fulham",
+      "position": 1,
+      "price": 4.5,
+      "form": 4.2,
+      "xgi_per90": 0.0,
+      "fixture": "Newcastle",
       "home": true,
       "difficulty": 3,
-      "status": "d",
-      "news": "Foot injury - 75% chance of playing",
-      "score": 14.36
+      "status": "a",
+      "news": "",
+      "score": 14.4
     },
     {
       "id": 239,
@@ -1595,6 +1730,21 @@
       "status": "a",
       "news": "",
       "score": 14.27
+    },
+    {
+      "id": 650,
+      "name": "Affengruber",
+      "club": "Fulham",
+      "position": 2,
+      "price": 4.5,
+      "form": 4.0,
+      "xgi_per90": 0.05,
+      "fixture": "Newcastle",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 14.25
     },
     {
       "id": 594,
@@ -1642,19 +1792,49 @@
       "score": 14.17
     },
     {
-      "id": 334,
-      "name": "Muharemović",
-      "club": "Leeds",
-      "position": 2,
-      "price": 5.1,
+      "id": 405,
+      "name": "N.Gonzalez",
+      "club": "Newcastle",
+      "position": 3,
+      "price": 5.5,
       "form": 3.8,
-      "xgi_per90": 0.1,
-      "fixture": "Spurs",
-      "home": true,
+      "xgi_per90": 0.11,
+      "fixture": "Fulham",
+      "home": false,
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 14.09
+      "score": 14.16
+    },
+    {
+      "id": 481,
+      "name": "Anderson",
+      "club": "Man City",
+      "position": 3,
+      "price": 6.3,
+      "form": 2.6,
+      "xgi_per90": 0.18,
+      "fixture": "Nott'm Forest",
+      "home": false,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 14.11
+    },
+    {
+      "id": 5,
+      "name": "J.Timber",
+      "club": "Arsenal",
+      "position": 2,
+      "price": 6.5,
+      "form": 2.6,
+      "xgi_per90": 0.17,
+      "fixture": "Hull City",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 14.05
     },
     {
       "id": 243,
@@ -1672,21 +1852,6 @@
       "score": 14.02
     },
     {
-      "id": 496,
-      "name": "Kinsky",
-      "club": "Spurs",
-      "position": 1,
-      "price": 4.4,
-      "form": 4.0,
-      "xgi_per90": 0.0,
-      "fixture": "Leeds",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 14.0
-    },
-    {
       "id": 377,
       "name": "Munoz",
       "club": "Liverpool",
@@ -1702,19 +1867,34 @@
       "score": 13.96
     },
     {
-      "id": 258,
-      "name": "Castagne",
-      "club": "Fulham",
-      "position": 2,
-      "price": 4.5,
-      "form": 3.4,
-      "xgi_per90": 0.23,
-      "fixture": "Newcastle",
-      "home": true,
+      "id": 453,
+      "name": "Barnes",
+      "club": "Newcastle",
+      "position": 3,
+      "price": 6.1,
+      "form": 3.2,
+      "xgi_per90": 0.31,
+      "fixture": "Fulham",
+      "home": false,
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 13.93
+      "score": 13.96
+    },
+    {
+      "id": 525,
+      "name": "Fernandes",
+      "club": "Spurs",
+      "position": 3,
+      "price": 5.6,
+      "form": 3.4,
+      "xgi_per90": 0.23,
+      "fixture": "Leeds",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 13.95
     },
     {
       "id": 356,
@@ -1732,19 +1912,49 @@
       "score": 13.92
     },
     {
-      "id": 257,
-      "name": "Bassey",
+      "id": 526,
+      "name": "Solanke",
+      "club": "Spurs",
+      "position": 4,
+      "price": 5.8,
+      "form": 3.0,
+      "xgi_per90": 0.38,
+      "fixture": "Leeds",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 13.89
+    },
+    {
+      "id": 268,
+      "name": "King",
       "club": "Fulham",
-      "position": 2,
-      "price": 4.5,
-      "form": 3.8,
-      "xgi_per90": 0.06,
+      "position": 3,
+      "price": 5.5,
+      "form": 3.0,
+      "xgi_per90": 0.37,
       "fixture": "Newcastle",
       "home": true,
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 13.9
+      "score": 13.84
+    },
+    {
+      "id": 330,
+      "name": "Bogle",
+      "club": "Leeds",
+      "position": 2,
+      "price": 4.8,
+      "form": 3.2,
+      "xgi_per90": 0.29,
+      "fixture": "Spurs",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 13.84
     },
     {
       "id": 387,
@@ -1762,36 +1972,6 @@
       "score": 13.81
     },
     {
-      "id": 254,
-      "name": "Robinson",
-      "club": "Fulham",
-      "position": 2,
-      "price": 4.4,
-      "form": 3.6,
-      "xgi_per90": 0.12,
-      "fixture": "Newcastle",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 13.8
-    },
-    {
-      "id": 481,
-      "name": "Anderson",
-      "club": "Man City",
-      "position": 3,
-      "price": 6.3,
-      "form": 2.4,
-      "xgi_per90": 0.18,
-      "fixture": "Nott'm Forest",
-      "home": false,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 13.72
-    },
-    {
       "id": 151,
       "name": "Acheampong",
       "club": "Chelsea",
@@ -1805,21 +1985,6 @@
       "status": "a",
       "news": "",
       "score": 13.7
-    },
-    {
-      "id": 526,
-      "name": "Solanke",
-      "club": "Spurs",
-      "position": 4,
-      "price": 5.8,
-      "form": 2.8,
-      "xgi_per90": 0.42,
-      "fixture": "Leeds",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 13.69
     },
     {
       "id": 12,
@@ -1897,6 +2062,21 @@
       "score": 13.61
     },
     {
+      "id": 384,
+      "name": "Donnarumma",
+      "club": "Man City",
+      "position": 1,
+      "price": 5.5,
+      "form": 2.8,
+      "xgi_per90": 0.0,
+      "fixture": "Nott'm Forest",
+      "home": false,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 13.6
+    },
+    {
       "id": 599,
       "name": "Cherif",
       "club": "Coventry City",
@@ -1912,19 +2092,49 @@
       "score": 13.53
     },
     {
-      "id": 650,
-      "name": "Affengruber",
-      "club": "Fulham",
-      "position": 2,
-      "price": 4.5,
-      "form": 3.6,
-      "xgi_per90": 0.06,
-      "fixture": "Newcastle",
-      "home": true,
+      "id": 514,
+      "name": "Tel",
+      "club": "Spurs",
+      "position": 3,
+      "price": 5.6,
+      "form": 3.2,
+      "xgi_per90": 0.22,
+      "fixture": "Leeds",
+      "home": false,
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 13.48
+      "score": 13.52
+    },
+    {
+      "id": 155,
+      "name": "Enzo",
+      "club": "Man City",
+      "position": 3,
+      "price": 6.9,
+      "form": 1.8,
+      "xgi_per90": 0.38,
+      "fixture": "Nott'm Forest",
+      "home": false,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 13.51
+    },
+    {
+      "id": 17,
+      "name": "Merino",
+      "club": "Arsenal",
+      "position": 3,
+      "price": 5.7,
+      "form": 1.4,
+      "xgi_per90": 0.53,
+      "fixture": "Hull City",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 13.47
     },
     {
       "id": 428,
@@ -1940,6 +2150,21 @@
       "status": "a",
       "news": "",
       "score": 13.38
+    },
+    {
+      "id": 401,
+      "name": "Marmoush",
+      "club": "Spurs",
+      "position": 4,
+      "price": 7.0,
+      "form": 3.2,
+      "xgi_per90": 0.19,
+      "fixture": "Leeds",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 13.36
     },
     {
       "id": 229,
@@ -1987,19 +2212,19 @@
       "score": 13.28
     },
     {
-      "id": 332,
-      "name": "Justin",
-      "club": "Leeds",
-      "position": 2,
-      "price": 4.5,
-      "form": 3.2,
-      "xgi_per90": 0.18,
-      "fixture": "Spurs",
-      "home": true,
-      "difficulty": 3,
+      "id": 295,
+      "name": "McBurnie",
+      "club": "Hull City",
+      "position": 4,
+      "price": 5.5,
+      "form": 5.0,
+      "xgi_per90": 0.25,
+      "fixture": "Arsenal",
+      "home": false,
+      "difficulty": 5,
       "status": "a",
       "news": "",
-      "score": 13.28
+      "score": 13.26
     },
     {
       "id": 492,
@@ -2017,49 +2242,19 @@
       "score": 13.23
     },
     {
-      "id": 250,
-      "name": "Leno",
-      "club": "Fulham",
-      "position": 1,
-      "price": 4.5,
-      "form": 3.6,
-      "xgi_per90": 0.0,
-      "fixture": "Newcastle",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 13.2
-    },
-    {
-      "id": 384,
-      "name": "Donnarumma",
+      "id": 390,
+      "name": "Rúben",
       "club": "Man City",
-      "position": 1,
+      "position": 2,
       "price": 5.5,
-      "form": 2.6,
-      "xgi_per90": 0.0,
+      "form": 2.2,
+      "xgi_per90": 0.15,
       "fixture": "Nott'm Forest",
       "home": false,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 13.2
-    },
-    {
-      "id": 514,
-      "name": "Tel",
-      "club": "Spurs",
-      "position": 3,
-      "price": 5.6,
-      "form": 3.0,
-      "xgi_per90": 0.23,
-      "fixture": "Leeds",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 13.16
+      "score": 13.17
     },
     {
       "id": 304,
@@ -2077,19 +2272,19 @@
       "score": 13.14
     },
     {
-      "id": 155,
-      "name": "Enzo",
-      "club": "Man City",
-      "position": 3,
-      "price": 6.9,
-      "form": 1.6,
-      "xgi_per90": 0.39,
-      "fixture": "Nott'm Forest",
-      "home": false,
+      "id": 25,
+      "name": "Gyökeres",
+      "club": "Arsenal",
+      "position": 4,
+      "price": 7.0,
+      "form": 1.8,
+      "xgi_per90": 0.29,
+      "fixture": "Hull City",
+      "home": true,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 13.13
+      "score": 13.07
     },
     {
       "id": 148,
@@ -2105,36 +2300,6 @@
       "status": "i",
       "news": "Unspecified injury - Unknown return date",
       "score": 13.06
-    },
-    {
-      "id": 405,
-      "name": "N.Gonzalez",
-      "club": "Newcastle",
-      "position": 3,
-      "price": 5.5,
-      "form": 3.2,
-      "xgi_per90": 0.12,
-      "fixture": "Fulham",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 13.02
-    },
-    {
-      "id": 453,
-      "name": "Barnes",
-      "club": "Newcastle",
-      "position": 3,
-      "price": 6.1,
-      "form": 2.8,
-      "xgi_per90": 0.28,
-      "fixture": "Fulham",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 13.01
     },
     {
       "id": 149,
@@ -2182,64 +2347,49 @@
       "score": 12.97
     },
     {
-      "id": 17,
-      "name": "Merino",
-      "club": "Arsenal",
-      "position": 3,
-      "price": 5.7,
-      "form": 1.2,
-      "xgi_per90": 0.5,
-      "fixture": "Hull City",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 12.92
-    },
-    {
-      "id": 25,
-      "name": "Gyökeres",
-      "club": "Arsenal",
+      "id": 465,
+      "name": "Osula",
+      "club": "Newcastle",
       "position": 4,
-      "price": 7.0,
-      "form": 1.6,
-      "xgi_per90": 0.33,
-      "fixture": "Hull City",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 12.85
-    },
-    {
-      "id": 390,
-      "name": "Rúben",
-      "club": "Man City",
-      "position": 2,
-      "price": 5.5,
-      "form": 2.0,
-      "xgi_per90": 0.15,
-      "fixture": "Nott'm Forest",
+      "price": 5.8,
+      "form": 2.8,
+      "xgi_per90": 0.25,
+      "fixture": "Fulham",
       "home": false,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 12.77
-    },
-    {
-      "id": 268,
-      "name": "King",
-      "club": "Fulham",
-      "position": 3,
-      "price": 5.5,
-      "form": 2.4,
-      "xgi_per90": 0.39,
-      "fixture": "Newcastle",
-      "home": true,
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 12.76
+      "score": 12.86
+    },
+    {
+      "id": 593,
+      "name": "Dedić",
+      "club": "Newcastle",
+      "position": 2,
+      "price": 4.4,
+      "form": 3.2,
+      "xgi_per90": 0.08,
+      "fixture": "Fulham",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 12.82
+    },
+    {
+      "id": 449,
+      "name": "Hall",
+      "club": "Newcastle",
+      "position": 2,
+      "price": 5.2,
+      "form": 3.0,
+      "xgi_per90": 0.16,
+      "fixture": "Fulham",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 12.78
     },
     {
       "id": 37,
@@ -2272,6 +2422,21 @@
       "score": 12.73
     },
     {
+      "id": 271,
+      "name": "Muniz",
+      "club": "Fulham",
+      "position": 4,
+      "price": 5.3,
+      "form": 2.0,
+      "xgi_per90": 0.54,
+      "fixture": "Newcastle",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 12.72
+    },
+    {
       "id": 113,
       "name": "F.Kadıoğlu",
       "club": "Brighton",
@@ -2285,6 +2450,21 @@
       "status": "d",
       "news": "Hip injury - 75% chance of playing",
       "score": 12.67
+    },
+    {
+      "id": 569,
+      "name": "Gonzalo",
+      "club": "Fulham",
+      "position": 4,
+      "price": 5.9,
+      "form": 2.0,
+      "xgi_per90": 0.53,
+      "fixture": "Newcastle",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 12.65
     },
     {
       "id": 367,
@@ -2317,21 +2497,6 @@
       "score": 12.61
     },
     {
-      "id": 295,
-      "name": "McBurnie",
-      "club": "Hull City",
-      "position": 4,
-      "price": 5.5,
-      "form": 4.6,
-      "xgi_per90": 0.28,
-      "fixture": "Arsenal",
-      "home": false,
-      "difficulty": 5,
-      "status": "a",
-      "news": "",
-      "score": 12.59
-    },
-    {
       "id": 71,
       "name": "Cook",
       "club": "Bournemouth",
@@ -2347,13 +2512,13 @@
       "score": 12.53
     },
     {
-      "id": 401,
-      "name": "Marmoush",
+      "id": 503,
+      "name": "Van de Ven",
       "club": "Spurs",
-      "position": 4,
-      "price": 7.0,
-      "form": 2.8,
-      "xgi_per90": 0.18,
+      "position": 2,
+      "price": 5.0,
+      "form": 3.0,
+      "xgi_per90": 0.1,
       "fixture": "Leeds",
       "home": false,
       "difficulty": 3,
@@ -2362,16 +2527,31 @@
       "score": 12.52
     },
     {
-      "id": 465,
-      "name": "Osula",
-      "club": "Newcastle",
-      "position": 4,
-      "price": 5.8,
-      "form": 2.4,
-      "xgi_per90": 0.32,
-      "fixture": "Fulham",
+      "id": 522,
+      "name": "Gray",
+      "club": "Spurs",
+      "position": 3,
+      "price": 4.9,
+      "form": 3.0,
+      "xgi_per90": 0.09,
+      "fixture": "Leeds",
       "home": false,
       "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 12.47
+    },
+    {
+      "id": 391,
+      "name": "Gvardiol",
+      "club": "Man City",
+      "position": 2,
+      "price": 5.7,
+      "form": 1.6,
+      "xgi_per90": 0.24,
+      "fixture": "Nott'm Forest",
+      "home": false,
+      "difficulty": 2,
       "status": "a",
       "news": "",
       "score": 12.42
@@ -2385,21 +2565,6 @@
       "form": 1.4,
       "xgi_per90": 0.72,
       "fixture": "Brentford",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 12.41
-    },
-    {
-      "id": 385,
-      "name": "Trafford",
-      "club": "Leeds",
-      "position": 1,
-      "price": 5.0,
-      "form": 3.2,
-      "xgi_per90": 0.0,
-      "fixture": "Spurs",
       "home": true,
       "difficulty": 3,
       "status": "a",
@@ -2422,6 +2587,21 @@
       "score": 12.41
     },
     {
+      "id": 567,
+      "name": "Horníček",
+      "club": "Newcastle",
+      "position": 1,
+      "price": 5.0,
+      "form": 3.2,
+      "xgi_per90": 0.0,
+      "fixture": "Fulham",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 12.4
+    },
+    {
       "id": 483,
       "name": "Ndoye",
       "club": "Nott'm Forest",
@@ -2435,21 +2615,6 @@
       "status": "a",
       "news": "",
       "score": 12.39
-    },
-    {
-      "id": 340,
-      "name": "Gelhardt",
-      "club": "Hull City",
-      "position": 3,
-      "price": 5.0,
-      "form": 2.2,
-      "xgi_per90": 1.19,
-      "fixture": "Arsenal",
-      "home": false,
-      "difficulty": 5,
-      "status": "a",
-      "news": "",
-      "score": 12.37
     },
     {
       "id": 389,
@@ -2512,6 +2677,21 @@
       "score": 12.24
     },
     {
+      "id": 345,
+      "name": "Tanaka",
+      "club": "Leeds",
+      "position": 3,
+      "price": 4.9,
+      "form": 2.6,
+      "xgi_per90": 0.2,
+      "fixture": "Spurs",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 12.22
+    },
+    {
       "id": 73,
       "name": "Adams",
       "club": "Bournemouth",
@@ -2527,49 +2707,34 @@
       "score": 12.21
     },
     {
-      "id": 503,
-      "name": "Van de Ven",
-      "club": "Spurs",
-      "position": 2,
-      "price": 5.0,
-      "form": 2.8,
-      "xgi_per90": 0.12,
-      "fixture": "Leeds",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 12.19
-    },
-    {
-      "id": 525,
-      "name": "Fernandes",
-      "club": "Spurs",
-      "position": 3,
-      "price": 5.6,
-      "form": 2.4,
-      "xgi_per90": 0.26,
-      "fixture": "Leeds",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 12.08
-    },
-    {
-      "id": 391,
-      "name": "Gvardiol",
+      "id": 388,
+      "name": "Guéhi",
       "club": "Man City",
       "position": 2,
-      "price": 5.7,
-      "form": 1.4,
-      "xgi_per90": 0.25,
+      "price": 6.0,
+      "form": 1.6,
+      "xgi_per90": 0.19,
       "fixture": "Nott'm Forest",
       "home": false,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 12.03
+      "score": 12.17
+    },
+    {
+      "id": 265,
+      "name": "Berge",
+      "club": "Fulham",
+      "position": 3,
+      "price": 4.9,
+      "form": 2.8,
+      "xgi_per90": 0.11,
+      "fixture": "Newcastle",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 12.13
     },
     {
       "id": 209,
@@ -2582,21 +2747,6 @@
       "fixture": "Coventry City",
       "home": true,
       "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 12.02
-    },
-    {
-      "id": 569,
-      "name": "Gonzalo",
-      "club": "Fulham",
-      "position": 4,
-      "price": 5.9,
-      "form": 1.6,
-      "xgi_per90": 0.56,
-      "fixture": "Newcastle",
-      "home": true,
-      "difficulty": 3,
       "status": "a",
       "news": "",
       "score": 12.02
@@ -2692,6 +2842,36 @@
       "score": 11.91
     },
     {
+      "id": 331,
+      "name": "Gudmundsson",
+      "club": "Leeds",
+      "position": 2,
+      "price": 4.5,
+      "form": 2.8,
+      "xgi_per90": 0.06,
+      "fixture": "Spurs",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 11.88
+    },
+    {
+      "id": 598,
+      "name": "Elvedi",
+      "club": "Leeds",
+      "position": 2,
+      "price": 4.5,
+      "form": 2.6,
+      "xgi_per90": 0.14,
+      "fixture": "Spurs",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 11.88
+    },
+    {
       "id": 86,
       "name": "Lewis-Potter",
       "club": "Brentford",
@@ -2722,19 +2902,19 @@
       "score": 11.83
     },
     {
-      "id": 388,
-      "name": "Guéhi",
+      "id": 393,
+      "name": "Khusanov",
       "club": "Man City",
       "position": 2,
-      "price": 6.0,
-      "form": 1.4,
-      "xgi_per90": 0.2,
+      "price": 5.3,
+      "form": 1.8,
+      "xgi_per90": 0.04,
       "fixture": "Nott'm Forest",
       "home": false,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 11.78
+      "score": 11.81
     },
     {
       "id": 656,
@@ -2767,19 +2947,19 @@
       "score": 11.7
     },
     {
-      "id": 522,
-      "name": "Gray",
-      "club": "Spurs",
+      "id": 580,
+      "name": "Charles",
+      "club": "Fulham",
       "position": 3,
-      "price": 4.9,
-      "form": 2.6,
-      "xgi_per90": 0.09,
-      "fixture": "Leeds",
-      "home": false,
+      "price": 5.0,
+      "form": 2.4,
+      "xgi_per90": 0.17,
+      "fixture": "Newcastle",
+      "home": true,
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 11.66
+      "score": 11.67
     },
     {
       "id": 562,
@@ -2797,19 +2977,34 @@
       "score": 11.65
     },
     {
-      "id": 593,
-      "name": "Dedić",
+      "id": 448,
+      "name": "Burn",
       "club": "Newcastle",
       "position": 2,
-      "price": 4.4,
+      "price": 4.8,
       "form": 2.6,
-      "xgi_per90": 0.09,
+      "xgi_per90": 0.08,
       "fixture": "Fulham",
       "home": false,
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 11.63
+      "score": 11.61
+    },
+    {
+      "id": 557,
+      "name": "Tzolis",
+      "club": "Arsenal",
+      "position": 3,
+      "price": 6.1,
+      "form": 1.2,
+      "xgi_per90": 0.23,
+      "fixture": "Hull City",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 11.54
     },
     {
       "id": 381,
@@ -2827,19 +3022,19 @@
       "score": 11.53
     },
     {
-      "id": 331,
-      "name": "Gudmundsson",
-      "club": "Leeds",
-      "position": 2,
-      "price": 4.5,
-      "form": 2.6,
-      "xgi_per90": 0.05,
-      "fixture": "Spurs",
-      "home": true,
-      "difficulty": 3,
+      "id": 340,
+      "name": "Gelhardt",
+      "club": "Hull City",
+      "position": 3,
+      "price": 5.0,
+      "form": 2.4,
+      "xgi_per90": 0.93,
+      "fixture": "Arsenal",
+      "home": false,
+      "difficulty": 5,
       "status": "a",
       "news": "",
-      "score": 11.46
+      "score": 11.44
     },
     {
       "id": 614,
@@ -2857,19 +3052,19 @@
       "score": 11.42
     },
     {
-      "id": 393,
-      "name": "Khusanov",
-      "club": "Man City",
-      "position": 2,
-      "price": 5.3,
-      "form": 1.6,
-      "xgi_per90": 0.04,
-      "fixture": "Nott'm Forest",
-      "home": false,
-      "difficulty": 2,
+      "id": 486,
+      "name": "McAtee",
+      "club": "Nott'm Forest",
+      "position": 3,
+      "price": 5.5,
+      "form": 3.0,
+      "xgi_per90": 0.27,
+      "fixture": "Man City",
+      "home": true,
+      "difficulty": 4,
       "status": "a",
       "news": "",
-      "score": 11.41
+      "score": 11.34
     },
     {
       "id": 43,
@@ -2902,19 +3097,34 @@
       "score": 11.32
     },
     {
-      "id": 567,
-      "name": "Horníček",
-      "club": "Newcastle",
-      "position": 1,
+      "id": 240,
+      "name": "Iroegbunam",
+      "club": "Hull City",
+      "position": 3,
       "price": 5.0,
-      "form": 2.6,
-      "xgi_per90": 0.0,
-      "fixture": "Fulham",
+      "form": 4.2,
+      "xgi_per90": 0.16,
+      "fixture": "Arsenal",
       "home": false,
+      "difficulty": 5,
+      "status": "a",
+      "news": "",
+      "score": 11.22
+    },
+    {
+      "id": 336,
+      "name": "Okafor",
+      "club": "Leeds",
+      "position": 3,
+      "price": 5.7,
+      "form": 2.0,
+      "xgi_per90": 0.24,
+      "fixture": "Spurs",
+      "home": true,
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 11.2
+      "score": 11.21
     },
     {
       "id": 649,
@@ -2947,21 +3157,6 @@
       "score": 11.16
     },
     {
-      "id": 5,
-      "name": "J.Timber",
-      "club": "Arsenal",
-      "position": 2,
-      "price": 6.5,
-      "form": 1.4,
-      "xgi_per90": 0.07,
-      "fixture": "Hull City",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 11.15
-    },
-    {
       "id": 368,
       "name": "Szoboszlai",
       "club": "Liverpool",
@@ -2975,21 +3170,6 @@
       "status": "a",
       "news": "",
       "score": 11.15
-    },
-    {
-      "id": 449,
-      "name": "Hall",
-      "club": "Newcastle",
-      "position": 2,
-      "price": 5.2,
-      "form": 2.2,
-      "xgi_per90": 0.14,
-      "fixture": "Fulham",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 11.11
     },
     {
       "id": 32,
@@ -3015,6 +3195,21 @@
       "form": 2.0,
       "xgi_per90": 0.22,
       "fixture": "Sunderland",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 11.08
+    },
+    {
+      "id": 464,
+      "name": "Wissa",
+      "club": "Newcastle",
+      "position": 4,
+      "price": 5.9,
+      "form": 1.4,
+      "xgi_per90": 0.46,
+      "fixture": "Fulham",
       "home": false,
       "difficulty": 3,
       "status": "a",
@@ -3050,21 +3245,6 @@
       "status": "a",
       "news": "",
       "score": 11.03
-    },
-    {
-      "id": 330,
-      "name": "Bogle",
-      "club": "Leeds",
-      "position": 2,
-      "price": 4.8,
-      "form": 1.8,
-      "xgi_per90": 0.28,
-      "fixture": "Spurs",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 11.01
     },
     {
       "id": 515,
@@ -3172,6 +3352,21 @@
       "score": 10.95
     },
     {
+      "id": 14,
+      "name": "Eze",
+      "club": "Arsenal",
+      "position": 3,
+      "price": 6.2,
+      "form": 1.0,
+      "xgi_per90": 0.19,
+      "fixture": "Hull City",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 10.94
+    },
+    {
       "id": 406,
       "name": "Kovačić",
       "club": "Man City",
@@ -3187,36 +3382,6 @@
       "score": 10.94
     },
     {
-      "id": 486,
-      "name": "McAtee",
-      "club": "Nott'm Forest",
-      "position": 3,
-      "price": 5.5,
-      "form": 2.8,
-      "xgi_per90": 0.27,
-      "fixture": "Man City",
-      "home": true,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 10.94
-    },
-    {
-      "id": 580,
-      "name": "Charles",
-      "club": "Fulham",
-      "position": 3,
-      "price": 5.0,
-      "form": 2.0,
-      "xgi_per90": 0.19,
-      "fixture": "Newcastle",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 10.93
-    },
-    {
       "id": 200,
       "name": "Lacroix",
       "club": "Chelsea",
@@ -3230,21 +3395,6 @@
       "status": "i",
       "news": "Hamstring injury - Unknown return date",
       "score": 10.84
-    },
-    {
-      "id": 339,
-      "name": "Longstaff",
-      "club": "Leeds",
-      "position": 3,
-      "price": 4.8,
-      "form": 0.6,
-      "xgi_per90": 0.72,
-      "fixture": "Spurs",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 10.8
     },
     {
       "id": 41,
@@ -3277,19 +3427,34 @@
       "score": 10.79
     },
     {
-      "id": 457,
-      "name": "J.Murphy",
-      "club": "Newcastle",
+      "id": 469,
+      "name": "N.Williams",
+      "club": "Nott'm Forest",
+      "position": 2,
+      "price": 4.9,
+      "form": 2.8,
+      "xgi_per90": 0.24,
+      "fixture": "Man City",
+      "home": true,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 10.78
+    },
+    {
+      "id": 519,
+      "name": "Gallagher",
+      "club": "Spurs",
       "position": 3,
-      "price": 5.9,
-      "form": 1.6,
-      "xgi_per90": 0.31,
-      "fixture": "Fulham",
+      "price": 5.3,
+      "form": 1.2,
+      "xgi_per90": 0.47,
+      "fixture": "Leeds",
       "home": false,
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 10.77
+      "score": 10.74
     },
     {
       "id": 369,
@@ -3397,19 +3562,19 @@
       "score": 10.65
     },
     {
-      "id": 265,
-      "name": "Berge",
+      "id": 570,
+      "name": "Palacios",
       "club": "Fulham",
       "position": 3,
-      "price": 4.9,
-      "form": 2.0,
-      "xgi_per90": 0.11,
+      "price": 5.3,
+      "form": 1.4,
+      "xgi_per90": 0.35,
       "fixture": "Newcastle",
       "home": true,
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 10.56
+      "score": 10.54
     },
     {
       "id": 315,
@@ -3421,6 +3586,21 @@
       "xgi_per90": 0.27,
       "fixture": "Bournemouth",
       "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 10.54
+    },
+    {
+      "id": 460,
+      "name": "Willock",
+      "club": "Newcastle",
+      "position": 3,
+      "price": 5.0,
+      "form": 1.6,
+      "xgi_per90": 0.27,
+      "fixture": "Fulham",
+      "home": false,
       "difficulty": 3,
       "status": "a",
       "news": "",
@@ -3457,19 +3637,19 @@
       "score": 10.52
     },
     {
-      "id": 240,
-      "name": "Iroegbunam",
-      "club": "Hull City",
-      "position": 3,
-      "price": 5.0,
-      "form": 3.8,
-      "xgi_per90": 0.18,
-      "fixture": "Arsenal",
-      "home": false,
-      "difficulty": 5,
+      "id": 347,
+      "name": "Nmecha",
+      "club": "Leeds",
+      "position": 4,
+      "price": 5.3,
+      "form": 1.2,
+      "xgi_per90": 0.42,
+      "fixture": "Spurs",
+      "home": true,
+      "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 10.51
+      "score": 10.52
     },
     {
       "id": 7,
@@ -3502,6 +3682,21 @@
       "score": 10.47
     },
     {
+      "id": 269,
+      "name": "Sessegnon",
+      "club": "Fulham",
+      "position": 2,
+      "price": 4.3,
+      "form": 1.2,
+      "xgi_per90": 0.41,
+      "fixture": "Newcastle",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 10.46
+    },
+    {
       "id": 426,
       "name": "B.Fernandes",
       "club": "Man Utd",
@@ -3515,36 +3710,6 @@
       "status": "a",
       "news": "",
       "score": 10.45
-    },
-    {
-      "id": 464,
-      "name": "Wissa",
-      "club": "Newcastle",
-      "position": 4,
-      "price": 5.9,
-      "form": 1.0,
-      "xgi_per90": 0.49,
-      "fixture": "Fulham",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 10.44
-    },
-    {
-      "id": 519,
-      "name": "Gallagher",
-      "club": "Spurs",
-      "position": 3,
-      "price": 5.3,
-      "form": 1.0,
-      "xgi_per90": 0.49,
-      "fixture": "Leeds",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 10.43
     },
     {
       "id": 28,
@@ -3577,19 +3742,19 @@
       "score": 10.39
     },
     {
-      "id": 469,
-      "name": "N.Williams",
-      "club": "Nott'm Forest",
-      "position": 2,
-      "price": 4.9,
-      "form": 2.6,
-      "xgi_per90": 0.24,
-      "fixture": "Man City",
+      "id": 338,
+      "name": "Ampadu",
+      "club": "Leeds",
+      "position": 3,
+      "price": 5.3,
+      "form": 2.0,
+      "xgi_per90": 0.08,
+      "fixture": "Spurs",
       "home": true,
-      "difficulty": 4,
+      "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 10.39
+      "score": 10.38
     },
     {
       "id": 539,
@@ -3607,21 +3772,6 @@
       "score": 10.36
     },
     {
-      "id": 347,
-      "name": "Nmecha",
-      "club": "Leeds",
-      "position": 4,
-      "price": 5.3,
-      "form": 0.8,
-      "xgi_per90": 0.55,
-      "fixture": "Spurs",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 10.35
-    },
-    {
       "id": 446,
       "name": "Schär",
       "club": "Newcastle",
@@ -3634,22 +3784,7 @@
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 10.35
-    },
-    {
-      "id": 14,
-      "name": "Eze",
-      "club": "Arsenal",
-      "position": 3,
-      "price": 6.2,
-      "form": 0.8,
-      "xgi_per90": 0.15,
-      "fixture": "Hull City",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 10.33
+      "score": 10.34
     },
     {
       "id": 54,
@@ -3680,21 +3815,6 @@
       "status": "a",
       "news": "",
       "score": 10.31
-    },
-    {
-      "id": 557,
-      "name": "Tzolis",
-      "club": "Arsenal",
-      "position": 3,
-      "price": 6.1,
-      "form": 0.6,
-      "xgi_per90": 0.21,
-      "fixture": "Hull City",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 10.27
     },
     {
       "id": 313,
@@ -3742,36 +3862,6 @@
       "score": 10.24
     },
     {
-      "id": 448,
-      "name": "Burn",
-      "club": "Newcastle",
-      "position": 2,
-      "price": 4.8,
-      "form": 1.8,
-      "xgi_per90": 0.12,
-      "fixture": "Fulham",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 10.22
-    },
-    {
-      "id": 460,
-      "name": "Willock",
-      "club": "Newcastle",
-      "position": 3,
-      "price": 5.0,
-      "form": 1.4,
-      "xgi_per90": 0.28,
-      "fixture": "Fulham",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 10.19
-    },
-    {
       "id": 431,
       "name": "Amad",
       "club": "Man Utd",
@@ -3817,21 +3907,6 @@
       "score": 10.14
     },
     {
-      "id": 269,
-      "name": "Sessegnon",
-      "club": "Fulham",
-      "position": 2,
-      "price": 4.3,
-      "form": 1.0,
-      "xgi_per90": 0.43,
-      "fixture": "Newcastle",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 10.13
-    },
-    {
       "id": 375,
       "name": "Nyoni",
       "club": "Liverpool",
@@ -3845,21 +3920,6 @@
       "status": "a",
       "news": "",
       "score": 10.13
-    },
-    {
-      "id": 271,
-      "name": "Muniz",
-      "club": "Fulham",
-      "position": 4,
-      "price": 5.3,
-      "form": 0.6,
-      "xgi_per90": 0.58,
-      "fixture": "Newcastle",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 10.12
     },
     {
       "id": 214,
@@ -3877,21 +3937,6 @@
       "score": 10.08
     },
     {
-      "id": 345,
-      "name": "Tanaka",
-      "club": "Leeds",
-      "position": 3,
-      "price": 4.9,
-      "form": 1.6,
-      "xgi_per90": 0.17,
-      "fixture": "Spurs",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 10.03
-    },
-    {
       "id": 110,
       "name": "Rushworth",
       "club": "Coventry City",
@@ -3902,6 +3947,21 @@
       "fixture": "Everton",
       "home": false,
       "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 10.02
+    },
+    {
+      "id": 167,
+      "name": "Delap",
+      "club": "Nott'm Forest",
+      "position": 4,
+      "price": 5.3,
+      "form": 1.8,
+      "xgi_per90": 0.48,
+      "fixture": "Man City",
+      "home": true,
+      "difficulty": 4,
       "status": "a",
       "news": "",
       "score": 10.02
@@ -3937,6 +3997,21 @@
       "score": 9.99
     },
     {
+      "id": 499,
+      "name": "Pedro Porro",
+      "club": "Spurs",
+      "position": 2,
+      "price": 5.3,
+      "form": 1.4,
+      "xgi_per90": 0.24,
+      "fixture": "Leeds",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 9.99
+    },
+    {
       "id": 639,
       "name": "Andrés",
       "club": "Brighton",
@@ -3950,6 +4025,36 @@
       "status": "a",
       "news": "",
       "score": 9.98
+    },
+    {
+      "id": 19,
+      "name": "Zubimendi",
+      "club": "Arsenal",
+      "position": 3,
+      "price": 5.2,
+      "form": 0.4,
+      "xgi_per90": 0.23,
+      "fixture": "Hull City",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 9.97
+    },
+    {
+      "id": 339,
+      "name": "Longstaff",
+      "club": "Leeds",
+      "position": 3,
+      "price": 4.8,
+      "form": 1.0,
+      "xgi_per90": 0.38,
+      "fixture": "Spurs",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 9.9
     },
     {
       "id": 223,
@@ -4027,6 +4132,36 @@
       "score": 9.83
     },
     {
+      "id": 480,
+      "name": "Gibbs-White",
+      "club": "Nott'm Forest",
+      "position": 3,
+      "price": 7.8,
+      "form": 1.4,
+      "xgi_per90": 0.6,
+      "fixture": "Man City",
+      "home": true,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 9.78
+    },
+    {
+      "id": 201,
+      "name": "Muñoz",
+      "club": "Nott'm Forest",
+      "position": 2,
+      "price": 5.3,
+      "form": 2.2,
+      "xgi_per90": 0.27,
+      "fixture": "Man City",
+      "home": true,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 9.76
+    },
+    {
       "id": 335,
       "name": "Stach",
       "club": "Leeds",
@@ -4087,21 +4222,6 @@
       "score": 9.66
     },
     {
-      "id": 167,
-      "name": "Delap",
-      "club": "Nott'm Forest",
-      "position": 4,
-      "price": 5.3,
-      "form": 1.6,
-      "xgi_per90": 0.49,
-      "fixture": "Man City",
-      "home": true,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 9.65
-    },
-    {
       "id": 412,
       "name": "Lammens",
       "club": "Man Utd",
@@ -4115,21 +4235,6 @@
       "status": "a",
       "news": "",
       "score": 9.62
-    },
-    {
-      "id": 19,
-      "name": "Zubimendi",
-      "club": "Arsenal",
-      "position": 3,
-      "price": 5.2,
-      "form": 0.2,
-      "xgi_per90": 0.24,
-      "fixture": "Hull City",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 9.58
     },
     {
       "id": 131,
@@ -4237,34 +4342,19 @@
       "score": 9.43
     },
     {
-      "id": 480,
-      "name": "Gibbs-White",
-      "club": "Nott'm Forest",
+      "id": 260,
+      "name": "Wilson",
+      "club": "Leeds",
       "position": 3,
-      "price": 7.8,
-      "form": 1.2,
-      "xgi_per90": 0.6,
-      "fixture": "Man City",
+      "price": 6.2,
+      "form": 1.4,
+      "xgi_per90": 0.12,
+      "fixture": "Spurs",
       "home": true,
-      "difficulty": 4,
+      "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 9.41
-    },
-    {
-      "id": 201,
-      "name": "Muñoz",
-      "club": "Nott'm Forest",
-      "position": 2,
-      "price": 5.3,
-      "form": 2.0,
-      "xgi_per90": 0.28,
-      "fixture": "Man City",
-      "home": true,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 9.38
+      "score": 9.42
     },
     {
       "id": 357,
@@ -4297,6 +4387,21 @@
       "score": 9.36
     },
     {
+      "id": 558,
+      "name": "Schlager",
+      "club": "Nott'm Forest",
+      "position": 3,
+      "price": 5.0,
+      "form": 2.4,
+      "xgi_per90": 0.1,
+      "fixture": "Man City",
+      "home": true,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 9.32
+    },
+    {
       "id": 231,
       "name": "Keane",
       "club": "Everton",
@@ -4322,6 +4427,21 @@
       "fixture": "Nott'm Forest",
       "home": false,
       "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 9.29
+    },
+    {
+      "id": 454,
+      "name": "Elanga",
+      "club": "Newcastle",
+      "position": 3,
+      "price": 6.0,
+      "form": 0.8,
+      "xgi_per90": 0.34,
+      "fixture": "Fulham",
+      "home": false,
+      "difficulty": 3,
       "status": "a",
       "news": "",
       "score": 9.29
@@ -4432,6 +4552,36 @@
       "score": 9.21
     },
     {
+      "id": 474,
+      "name": "Jair Cunha",
+      "club": "Nott'm Forest",
+      "position": 2,
+      "price": 4.4,
+      "form": 2.4,
+      "xgi_per90": 0.08,
+      "fixture": "Man City",
+      "home": true,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 9.21
+    },
+    {
+      "id": 9,
+      "name": "Hincapie",
+      "club": "Arsenal",
+      "position": 2,
+      "price": 5.2,
+      "form": 0.6,
+      "xgi_per90": 0.0,
+      "fixture": "Hull City",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 9.2
+    },
+    {
       "id": 62,
       "name": "Diakité",
       "club": "Bournemouth",
@@ -4445,21 +4595,6 @@
       "status": "a",
       "news": "",
       "score": 9.2
-    },
-    {
-      "id": 338,
-      "name": "Ampadu",
-      "club": "Leeds",
-      "position": 3,
-      "price": 5.3,
-      "form": 1.4,
-      "xgi_per90": 0.06,
-      "fixture": "Spurs",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 9.12
     },
     {
       "id": 69,
@@ -4492,21 +4627,6 @@
       "score": 9.07
     },
     {
-      "id": 260,
-      "name": "Wilson",
-      "club": "Leeds",
-      "position": 3,
-      "price": 6.2,
-      "form": 1.2,
-      "xgi_per90": 0.13,
-      "fixture": "Spurs",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 9.05
-    },
-    {
       "id": 568,
       "name": "Barco",
       "club": "Chelsea",
@@ -4520,21 +4640,6 @@
       "status": "a",
       "news": "",
       "score": 9.03
-    },
-    {
-      "id": 570,
-      "name": "Palacios",
-      "club": "Fulham",
-      "position": 3,
-      "price": 5.3,
-      "form": 0.6,
-      "xgi_per90": 0.36,
-      "fixture": "Newcastle",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 8.98
     },
     {
       "id": 611,
@@ -4591,21 +4696,6 @@
       "xgi_per90": 0.19,
       "fixture": "Brighton",
       "home": false,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 8.93
-    },
-    {
-      "id": 558,
-      "name": "Schlager",
-      "club": "Nott'm Forest",
-      "position": 3,
-      "price": 5.0,
-      "form": 2.2,
-      "xgi_per90": 0.11,
-      "fixture": "Man City",
-      "home": true,
       "difficulty": 4,
       "status": "a",
       "news": "",
@@ -4702,21 +4792,6 @@
       "score": 8.85
     },
     {
-      "id": 454,
-      "name": "Elanga",
-      "club": "Newcastle",
-      "position": 3,
-      "price": 6.0,
-      "form": 0.6,
-      "xgi_per90": 0.33,
-      "fixture": "Fulham",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 8.85
-    },
-    {
       "id": 458,
       "name": "Joelinton",
       "club": "Newcastle",
@@ -4732,6 +4807,21 @@
       "score": 8.84
     },
     {
+      "id": 634,
+      "name": "Fernandez-Pardo",
+      "club": "Newcastle",
+      "position": 4,
+      "price": 5.9,
+      "form": 0.8,
+      "xgi_per90": 0.25,
+      "fixture": "Fulham",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 8.83
+    },
+    {
       "id": 403,
       "name": "Sávio",
       "club": "Spurs",
@@ -4745,21 +4835,6 @@
       "status": "i",
       "news": "Muscular injury - Expected back 21 Nov",
       "score": 8.83
-    },
-    {
-      "id": 9,
-      "name": "Hincapie",
-      "club": "Arsenal",
-      "position": 2,
-      "price": 5.2,
-      "form": 0.4,
-      "xgi_per90": 0.0,
-      "fixture": "Hull City",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 8.8
     },
     {
       "id": 74,
@@ -4807,21 +4882,6 @@
       "score": 8.8
     },
     {
-      "id": 521,
-      "name": "Kulusevski",
-      "club": "Spurs",
-      "position": 3,
-      "price": 6.5,
-      "form": 0.6,
-      "xgi_per90": 0.32,
-      "fixture": "Leeds",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 8.79
-    },
-    {
       "id": 222,
       "name": "Strand Larsen",
       "club": "Crystal Palace",
@@ -4850,21 +4910,6 @@
       "status": "a",
       "news": "",
       "score": 8.77
-    },
-    {
-      "id": 336,
-      "name": "Okafor",
-      "club": "Leeds",
-      "position": 3,
-      "price": 5.7,
-      "form": 1.0,
-      "xgi_per90": 0.15,
-      "fixture": "Spurs",
-      "home": true,
-      "difficulty": 3,
-      "status": "d",
-      "news": "Thigh injury - 50% chance of playing",
-      "score": 8.73
     },
     {
       "id": 440,
@@ -4897,21 +4942,6 @@
       "score": 8.64
     },
     {
-      "id": 598,
-      "name": "Elvedi",
-      "club": "Leeds",
-      "position": 2,
-      "price": 4.5,
-      "form": 1.0,
-      "xgi_per90": 0.13,
-      "fixture": "Spurs",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 8.64
-    },
-    {
       "id": 565,
       "name": "M.Sangaré",
       "club": "Brentford",
@@ -4925,6 +4955,21 @@
       "status": "a",
       "news": "",
       "score": 8.62
+    },
+    {
+      "id": 472,
+      "name": "Murillo",
+      "club": "Nott'm Forest",
+      "position": 2,
+      "price": 5.5,
+      "form": 1.8,
+      "xgi_per90": 0.19,
+      "fixture": "Man City",
+      "home": true,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 8.57
     },
     {
       "id": 224,
@@ -4972,21 +5017,6 @@
       "score": 8.49
     },
     {
-      "id": 617,
-      "name": "Cho",
-      "club": "Hull City",
-      "position": 3,
-      "price": 5.0,
-      "form": 0.4,
-      "xgi_per90": 1.13,
-      "fixture": "Arsenal",
-      "home": false,
-      "difficulty": 5,
-      "status": "a",
-      "news": "",
-      "score": 8.47
-    },
-    {
       "id": 46,
       "name": "Barkley",
       "club": "Aston Villa",
@@ -4995,6 +5025,21 @@
       "form": 0.8,
       "xgi_per90": 0.17,
       "fixture": "Man Utd",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 8.46
+    },
+    {
+      "id": 521,
+      "name": "Kulusevski",
+      "club": "Spurs",
+      "position": 3,
+      "price": 6.5,
+      "form": 0.8,
+      "xgi_per90": 0.17,
+      "fixture": "Leeds",
       "home": false,
       "difficulty": 3,
       "status": "a",
@@ -5045,6 +5090,21 @@
       "status": "a",
       "news": "",
       "score": 8.44
+    },
+    {
+      "id": 279,
+      "name": "Ajayi",
+      "club": "Hull City",
+      "position": 2,
+      "price": 4.2,
+      "form": 3.0,
+      "xgi_per90": 0.09,
+      "fixture": "Arsenal",
+      "home": false,
+      "difficulty": 5,
+      "status": "a",
+      "news": "",
+      "score": 8.43
     },
     {
       "id": 66,
@@ -5152,21 +5212,6 @@
       "score": 8.37
     },
     {
-      "id": 634,
-      "name": "Fernandez-Pardo",
-      "club": "Newcastle",
-      "position": 4,
-      "price": 5.9,
-      "form": 0.6,
-      "xgi_per90": 0.23,
-      "fixture": "Fulham",
-      "home": false,
-      "difficulty": 3,
-      "status": "d",
-      "news": "Illness - 75% chance of playing",
-      "score": 8.36
-    },
-    {
       "id": 643,
       "name": "Chilwell",
       "club": "Crystal Palace",
@@ -5227,6 +5272,21 @@
       "score": 8.29
     },
     {
+      "id": 256,
+      "name": "Tete",
+      "club": "Fulham",
+      "position": 2,
+      "price": 4.4,
+      "form": 0.8,
+      "xgi_per90": 0.13,
+      "fixture": "Newcastle",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 8.26
+    },
+    {
       "id": 160,
       "name": "Garnacho",
       "club": "Aston Villa",
@@ -5257,19 +5317,19 @@
       "score": 8.24
     },
     {
-      "id": 499,
-      "name": "Pedro Porro",
-      "club": "Spurs",
-      "position": 2,
-      "price": 5.3,
-      "form": 0.4,
-      "xgi_per90": 0.29,
-      "fixture": "Leeds",
+      "id": 462,
+      "name": "Steur",
+      "club": "Newcastle",
+      "position": 3,
+      "price": 4.8,
+      "form": 1.0,
+      "xgi_per90": 0.04,
+      "fixture": "Fulham",
       "home": false,
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 8.23
+      "score": 8.22
     },
     {
       "id": 490,
@@ -5300,21 +5360,6 @@
       "status": "a",
       "news": "",
       "score": 8.18
-    },
-    {
-      "id": 472,
-      "name": "Murillo",
-      "club": "Nott'm Forest",
-      "position": 2,
-      "price": 5.5,
-      "form": 1.6,
-      "xgi_per90": 0.19,
-      "fixture": "Man City",
-      "home": true,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 8.17
     },
     {
       "id": 422,
@@ -5417,6 +5462,21 @@
       "fixture": "Brighton",
       "home": false,
       "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 8.01
+    },
+    {
+      "id": 459,
+      "name": "L.Miley",
+      "club": "Newcastle",
+      "position": 3,
+      "price": 5.5,
+      "form": 0.8,
+      "xgi_per90": 0.08,
+      "fixture": "Fulham",
+      "home": false,
+      "difficulty": 3,
       "status": "a",
       "news": "",
       "score": 8.01
@@ -5597,6 +5657,21 @@
       "fixture": "Coventry City",
       "home": true,
       "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 8.0
+    },
+    {
+      "id": 572,
+      "name": "Tzolakis",
+      "club": "Hull City",
+      "position": 1,
+      "price": 4.7,
+      "form": 3.0,
+      "xgi_per90": 0.0,
+      "fixture": "Arsenal",
+      "home": false,
+      "difficulty": 5,
       "status": "a",
       "news": "",
       "score": 8.0
@@ -5902,21 +5977,6 @@
       "score": 7.95
     },
     {
-      "id": 256,
-      "name": "Tete",
-      "club": "Fulham",
-      "position": 2,
-      "price": 4.4,
-      "form": 0.6,
-      "xgi_per90": 0.14,
-      "fixture": "Newcastle",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 7.92
-    },
-    {
       "id": 423,
       "name": "Shaw",
       "club": "Man Utd",
@@ -6022,6 +6082,21 @@
       "score": 7.76
     },
     {
+      "id": 445,
+      "name": "Thiaw",
+      "club": "Newcastle",
+      "position": 2,
+      "price": 4.9,
+      "form": 0.8,
+      "xgi_per90": 0.02,
+      "fixture": "Fulham",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 7.7
+    },
+    {
       "id": 533,
       "name": "Mukiele",
       "club": "Sunderland",
@@ -6035,21 +6110,6 @@
       "status": "d",
       "news": "Concussion - 75% chance of playing",
       "score": 7.69
-    },
-    {
-      "id": 459,
-      "name": "L.Miley",
-      "club": "Newcastle",
-      "position": 3,
-      "price": 5.5,
-      "form": 0.6,
-      "xgi_per90": 0.08,
-      "fixture": "Fulham",
-      "home": false,
-      "difficulty": 3,
-      "status": "d",
-      "news": "Muscular injury - 50% chance of playing",
-      "score": 7.61
     },
     {
       "id": 190,
@@ -6127,6 +6187,21 @@
       "score": 7.35
     },
     {
+      "id": 489,
+      "name": "Yates",
+      "club": "Nott'm Forest",
+      "position": 3,
+      "price": 4.4,
+      "form": 0.4,
+      "xgi_per90": 0.5,
+      "fixture": "Man City",
+      "home": true,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 7.31
+    },
+    {
       "id": 551,
       "name": "N.Angulo",
       "club": "Sunderland",
@@ -6140,21 +6215,6 @@
       "status": "a",
       "news": "",
       "score": 7.31
-    },
-    {
-      "id": 489,
-      "name": "Yates",
-      "club": "Nott'm Forest",
-      "position": 3,
-      "price": 4.4,
-      "form": 0.2,
-      "xgi_per90": 0.58,
-      "fixture": "Man City",
-      "home": true,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 7.3
     },
     {
       "id": 435,
@@ -6182,9 +6242,24 @@
       "fixture": "Fulham",
       "home": false,
       "difficulty": 3,
-      "status": "s",
-      "news": "Suspended until 21 Nov",
+      "status": "a",
+      "news": "",
       "score": 7.22
+    },
+    {
+      "id": 467,
+      "name": "Sels",
+      "club": "Nott'm Forest",
+      "position": 1,
+      "price": 5.0,
+      "form": 1.6,
+      "xgi_per90": 0.0,
+      "fixture": "Man City",
+      "home": true,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 7.21
     },
     {
       "id": 421,
@@ -6200,6 +6275,21 @@
       "status": "a",
       "news": "",
       "score": 7.2
+    },
+    {
+      "id": 617,
+      "name": "Cho",
+      "club": "Hull City",
+      "position": 3,
+      "price": 5.0,
+      "form": 0.6,
+      "xgi_per90": 0.8,
+      "fixture": "Arsenal",
+      "home": false,
+      "difficulty": 5,
+      "status": "a",
+      "news": "",
+      "score": 7.19
     },
     {
       "id": 241,
@@ -6262,6 +6352,21 @@
       "score": 7.09
     },
     {
+      "id": 277,
+      "name": "Egan",
+      "club": "Hull City",
+      "position": 2,
+      "price": 4.1,
+      "form": 2.4,
+      "xgi_per90": 0.05,
+      "fixture": "Arsenal",
+      "home": false,
+      "difficulty": 5,
+      "status": "a",
+      "news": "",
+      "score": 7.06
+    },
+    {
       "id": 642,
       "name": "Thomas",
       "club": "Hull City",
@@ -6290,21 +6395,6 @@
       "status": "a",
       "news": "",
       "score": 7.02
-    },
-    {
-      "id": 462,
-      "name": "Steur",
-      "club": "Newcastle",
-      "position": 3,
-      "price": 4.8,
-      "form": 0.4,
-      "xgi_per90": 0.04,
-      "fixture": "Fulham",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 6.99
     },
     {
       "id": 498,
@@ -6367,21 +6457,6 @@
       "score": 6.91
     },
     {
-      "id": 445,
-      "name": "Thiaw",
-      "club": "Newcastle",
-      "position": 2,
-      "price": 4.9,
-      "form": 0.4,
-      "xgi_per90": 0.02,
-      "fixture": "Fulham",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 6.91
-    },
-    {
       "id": 262,
       "name": "Smith Rowe",
       "club": "Fulham",
@@ -6397,21 +6472,6 @@
       "score": 6.88
     },
     {
-      "id": 467,
-      "name": "Sels",
-      "club": "Nott'm Forest",
-      "position": 1,
-      "price": 5.0,
-      "form": 1.4,
-      "xgi_per90": 0.0,
-      "fixture": "Man City",
-      "home": true,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 6.81
-    },
-    {
       "id": 96,
       "name": "Damsgaard",
       "club": "Brentford",
@@ -6425,6 +6485,36 @@
       "status": "a",
       "news": "",
       "score": 6.75
+    },
+    {
+      "id": 329,
+      "name": "Rodon",
+      "club": "Leeds",
+      "position": 2,
+      "price": 4.2,
+      "form": 0.2,
+      "xgi_per90": 0.07,
+      "fixture": "Spurs",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 6.73
+    },
+    {
+      "id": 280,
+      "name": "Coyle",
+      "club": "Hull City",
+      "position": 2,
+      "price": 4.0,
+      "form": 2.2,
+      "xgi_per90": 0.04,
+      "fixture": "Arsenal",
+      "home": false,
+      "difficulty": 5,
+      "status": "a",
+      "news": "",
+      "score": 6.6
     },
     {
       "id": 548,
@@ -6547,6 +6637,36 @@
       "score": 6.4
     },
     {
+      "id": 344,
+      "name": "Gruev",
+      "club": "Leeds",
+      "position": 3,
+      "price": 5.0,
+      "form": 0.2,
+      "xgi_per90": 0.0,
+      "fixture": "Spurs",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 6.4
+    },
+    {
+      "id": 641,
+      "name": "Bard",
+      "club": "Leeds",
+      "position": 2,
+      "price": 4.5,
+      "form": 0.2,
+      "xgi_per90": 0.0,
+      "fixture": "Spurs",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 6.4
+    },
+    {
       "id": 51,
       "name": "George Hemmings",
       "club": "Aston Villa",
@@ -6575,21 +6695,6 @@
       "status": "a",
       "news": "",
       "score": 6.35
-    },
-    {
-      "id": 329,
-      "name": "Rodon",
-      "club": "Leeds",
-      "position": 2,
-      "price": 4.2,
-      "form": 0.0,
-      "xgi_per90": 0.07,
-      "fixture": "Spurs",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 6.33
     },
     {
       "id": 491,
@@ -6622,21 +6727,6 @@
       "score": 6.26
     },
     {
-      "id": 277,
-      "name": "Egan",
-      "club": "Hull City",
-      "position": 2,
-      "price": 4.1,
-      "form": 2.0,
-      "xgi_per90": 0.05,
-      "fixture": "Arsenal",
-      "home": false,
-      "difficulty": 5,
-      "status": "a",
-      "news": "",
-      "score": 6.25
-    },
-    {
       "id": 253,
       "name": "Andersen",
       "club": "Fulham",
@@ -6652,16 +6742,31 @@
       "score": 6.24
     },
     {
-      "id": 474,
-      "name": "Jair Cunha",
-      "club": "Nott'm Forest",
-      "position": 2,
-      "price": 4.4,
-      "form": 1.0,
-      "xgi_per90": 0.04,
-      "fixture": "Man City",
-      "home": true,
-      "difficulty": 4,
+      "id": 290,
+      "name": "Slater",
+      "club": "Hull City",
+      "position": 3,
+      "price": 4.5,
+      "form": 1.8,
+      "xgi_per90": 0.12,
+      "fixture": "Arsenal",
+      "home": false,
+      "difficulty": 5,
+      "status": "a",
+      "news": "",
+      "score": 6.2
+    },
+    {
+      "id": 516,
+      "name": "Bentancur",
+      "club": "Spurs",
+      "position": 3,
+      "price": 5.4,
+      "form": -0.2,
+      "xgi_per90": 0.12,
+      "fixture": "Leeds",
+      "home": false,
+      "difficulty": 3,
       "status": "a",
       "news": "",
       "score": 6.19
@@ -6712,6 +6817,21 @@
       "score": 6.14
     },
     {
+      "id": 586,
+      "name": "Mendy",
+      "club": "Hull City",
+      "position": 2,
+      "price": 4.1,
+      "form": 1.8,
+      "xgi_per90": 0.11,
+      "fixture": "Arsenal",
+      "home": false,
+      "difficulty": 5,
+      "status": "a",
+      "news": "",
+      "score": 6.14
+    },
+    {
       "id": 450,
       "name": "Livramento",
       "club": "Newcastle",
@@ -6722,8 +6842,8 @@
       "fixture": "Fulham",
       "home": false,
       "difficulty": 3,
-      "status": "i",
-      "news": "Knee injury - Unknown return date",
+      "status": "a",
+      "news": "",
       "score": 6.14
     },
     {
@@ -7357,21 +7477,6 @@
       "score": 6.0
     },
     {
-      "id": 279,
-      "name": "Ajayi",
-      "club": "Hull City",
-      "position": 2,
-      "price": 4.2,
-      "form": 1.8,
-      "xgi_per90": 0.08,
-      "fixture": "Arsenal",
-      "home": false,
-      "difficulty": 5,
-      "status": "a",
-      "news": "",
-      "score": 6.0
-    },
-    {
       "id": 301,
       "name": "Palmer",
       "club": "Ipswich Town",
@@ -7462,21 +7567,6 @@
       "score": 6.0
     },
     {
-      "id": 344,
-      "name": "Gruev",
-      "club": "Leeds",
-      "position": 3,
-      "price": 5.0,
-      "form": 0.0,
-      "xgi_per90": 0,
-      "fixture": "Spurs",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 6.0
-    },
-    {
       "id": 349,
       "name": "Mateo Joseph",
       "club": "Leeds",
@@ -7544,21 +7634,6 @@
       "price": 4.0,
       "form": 0.0,
       "xgi_per90": 0,
-      "fixture": "Spurs",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 6.0
-    },
-    {
-      "id": 641,
-      "name": "Bard",
-      "club": "Leeds",
-      "position": 2,
-      "price": 4.5,
-      "form": 0.0,
-      "xgi_per90": 0.0,
       "fixture": "Spurs",
       "home": true,
       "difficulty": 3,
@@ -7972,6 +8047,21 @@
       "score": 5.84
     },
     {
+      "id": 576,
+      "name": "Stroud",
+      "club": "Hull City",
+      "position": 3,
+      "price": 4.9,
+      "form": 1.8,
+      "xgi_per90": 0.05,
+      "fixture": "Arsenal",
+      "home": false,
+      "difficulty": 5,
+      "status": "a",
+      "news": "",
+      "score": 5.83
+    },
+    {
       "id": 620,
       "name": "Diouf",
       "club": "Brentford",
@@ -7985,21 +8075,6 @@
       "status": "a",
       "news": "",
       "score": 5.76
-    },
-    {
-      "id": 572,
-      "name": "Tzolakis",
-      "club": "Hull City",
-      "position": 1,
-      "price": 4.7,
-      "form": 1.8,
-      "xgi_per90": 0.0,
-      "fixture": "Arsenal",
-      "home": false,
-      "difficulty": 5,
-      "status": "a",
-      "news": "",
-      "score": 5.6
     },
     {
       "id": 581,
@@ -8032,36 +8107,6 @@
       "score": 5.47
     },
     {
-      "id": 290,
-      "name": "Slater",
-      "club": "Hull City",
-      "position": 3,
-      "price": 4.5,
-      "form": 1.4,
-      "xgi_per90": 0.13,
-      "fixture": "Arsenal",
-      "home": false,
-      "difficulty": 5,
-      "status": "a",
-      "news": "",
-      "score": 5.44
-    },
-    {
-      "id": 576,
-      "name": "Stroud",
-      "club": "Hull City",
-      "position": 3,
-      "price": 4.9,
-      "form": 1.6,
-      "xgi_per90": 0.04,
-      "fixture": "Arsenal",
-      "home": false,
-      "difficulty": 5,
-      "status": "a",
-      "news": "",
-      "score": 5.41
-    },
-    {
       "id": 93,
       "name": "Schuster",
       "club": "Brentford",
@@ -8072,21 +8117,6 @@
       "fixture": "Brighton",
       "home": false,
       "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 5.37
-    },
-    {
-      "id": 516,
-      "name": "Bentancur",
-      "club": "Spurs",
-      "position": 3,
-      "price": 5.4,
-      "form": -0.4,
-      "xgi_per90": 0.03,
-      "fixture": "Leeds",
-      "home": false,
-      "difficulty": 3,
       "status": "a",
       "news": "",
       "score": 5.37
@@ -8182,6 +8212,21 @@
       "score": 5.19
     },
     {
+      "id": 282,
+      "name": "Giles",
+      "club": "Hull City",
+      "position": 2,
+      "price": 4.0,
+      "form": 1.4,
+      "xgi_per90": 0.07,
+      "fixture": "Arsenal",
+      "home": false,
+      "difficulty": 5,
+      "status": "a",
+      "news": "",
+      "score": 5.14
+    },
+    {
       "id": 668,
       "name": "Tutierov",
       "club": "Sunderland",
@@ -8195,21 +8240,6 @@
       "status": "a",
       "news": "",
       "score": 5.11
-    },
-    {
-      "id": 586,
-      "name": "Mendy",
-      "club": "Hull City",
-      "position": 2,
-      "price": 4.1,
-      "form": 1.2,
-      "xgi_per90": 0.13,
-      "fixture": "Arsenal",
-      "home": false,
-      "difficulty": 5,
-      "status": "a",
-      "news": "",
-      "score": 5.05
     },
     {
       "id": 473,
@@ -8227,19 +8257,19 @@
       "score": 5.02
     },
     {
-      "id": 282,
-      "name": "Giles",
-      "club": "Hull City",
+      "id": 471,
+      "name": "Milenković",
+      "club": "Nott'm Forest",
       "position": 2,
-      "price": 4.0,
-      "form": 1.2,
-      "xgi_per90": 0.07,
-      "fixture": "Arsenal",
-      "home": false,
-      "difficulty": 5,
+      "price": 5.4,
+      "form": 0.2,
+      "xgi_per90": 0.06,
+      "fixture": "Man City",
+      "home": true,
+      "difficulty": 4,
       "status": "a",
       "news": "",
-      "score": 4.73
+      "score": 4.72
     },
     {
       "id": 208,
@@ -8270,21 +8300,6 @@
       "status": "a",
       "news": "",
       "score": 4.67
-    },
-    {
-      "id": 280,
-      "name": "Coyle",
-      "club": "Hull City",
-      "position": 2,
-      "price": 4.0,
-      "form": 1.2,
-      "xgi_per90": 0.04,
-      "fixture": "Arsenal",
-      "home": false,
-      "difficulty": 5,
-      "status": "a",
-      "news": "",
-      "score": 4.62
     },
     {
       "id": 612,
@@ -8362,19 +8377,19 @@
       "score": 4.4
     },
     {
-      "id": 471,
-      "name": "Milenković",
-      "club": "Nott'm Forest",
+      "id": 585,
+      "name": "Herrington",
+      "club": "Hull City",
       "position": 2,
-      "price": 5.4,
-      "form": 0.0,
-      "xgi_per90": 0.06,
-      "fixture": "Man City",
-      "home": true,
-      "difficulty": 4,
+      "price": 4.0,
+      "form": 1.0,
+      "xgi_per90": 0.02,
+      "fixture": "Arsenal",
+      "home": false,
+      "difficulty": 5,
       "status": "a",
       "news": "",
-      "score": 4.32
+      "score": 4.09
     },
     {
       "id": 535,
@@ -8728,13 +8743,13 @@
       "position": 2,
       "price": 3.9,
       "form": 0.8,
-      "xgi_per90": 0.06,
+      "xgi_per90": 0.05,
       "fixture": "Arsenal",
       "home": false,
       "difficulty": 5,
       "status": "a",
       "news": "",
-      "score": 3.92
+      "score": 3.87
     },
     {
       "id": 501,
@@ -8750,21 +8765,6 @@
       "status": "a",
       "news": "",
       "score": 3.8
-    },
-    {
-      "id": 585,
-      "name": "Herrington",
-      "club": "Hull City",
-      "position": 2,
-      "price": 4.0,
-      "form": 0.8,
-      "xgi_per90": 0.02,
-      "fixture": "Arsenal",
-      "home": false,
-      "difficulty": 5,
-      "status": "a",
-      "news": "",
-      "score": 3.68
     },
     {
       "id": 563,
@@ -8792,8 +8792,8 @@
       "fixture": "Arsenal",
       "home": false,
       "difficulty": 5,
-      "status": "s",
-      "news": "Suspended until 22 Nov",
+      "status": "a",
+      "news": "",
       "score": 3.37
     },
     {
@@ -8812,19 +8812,34 @@
       "score": 3.29
     },
     {
+      "id": 645,
+      "name": "Mouzakitis",
+      "club": "Hull City",
+      "position": 3,
+      "price": 5.0,
+      "form": 0.2,
+      "xgi_per90": 0.06,
+      "fixture": "Arsenal",
+      "home": false,
+      "difficulty": 5,
+      "status": "a",
+      "news": "",
+      "score": 2.7
+    },
+    {
       "id": 589,
       "name": "Gourna-Douath",
       "club": "Hull City",
       "position": 3,
       "price": 4.9,
-      "form": 0.0,
-      "xgi_per90": 0.04,
+      "form": 0.2,
+      "xgi_per90": 0.03,
       "fixture": "Arsenal",
       "home": false,
       "difficulty": 5,
-      "status": "d",
-      "news": "Calf injury - 75% chance of playing",
-      "score": 2.2
+      "status": "a",
+      "news": "",
+      "score": 2.54
     },
     {
       "id": 273,
@@ -9019,21 +9034,6 @@
       "difficulty": 5,
       "status": "i",
       "news": "Back injury - Unknown return date",
-      "score": 2.0
-    },
-    {
-      "id": 645,
-      "name": "Mouzakitis",
-      "club": "Hull City",
-      "position": 3,
-      "price": 5.0,
-      "form": 0.0,
-      "xgi_per90": 0,
-      "fixture": "Arsenal",
-      "home": false,
-      "difficulty": 5,
-      "status": "a",
-      "news": "",
       "score": 2.0
     }
   ]

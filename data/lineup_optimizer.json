@@ -12,12 +12,12 @@
         "club_id": 1,
         "position": 1,
         "price": 6.2,
-        "minutes": 810,
-        "form": 4.8,
+        "minutes": 900,
+        "form": 6.0,
         "xgi_per90": 0.0,
         "average_fixture_difficulty": 3.2,
         "fixtures_evaluated": 5,
-        "score": 15.21,
+        "score": 17.61,
         "already_owned": true,
         "club_full": true
       },
@@ -28,12 +28,12 @@
         "club_id": 1,
         "position": 2,
         "price": 4.8,
-        "minutes": 641,
-        "form": 7.4,
-        "xgi_per90": 0.09,
+        "minutes": 731,
+        "form": 9.0,
+        "xgi_per90": 0.08,
         "average_fixture_difficulty": 3.2,
         "fixtures_evaluated": 5,
-        "score": 20.85,
+        "score": 24.02,
         "already_owned": true,
         "club_full": true
       },
@@ -60,12 +60,12 @@
         "club_id": 1,
         "position": 2,
         "price": 5.9,
-        "minutes": 699,
-        "form": 4.4,
-        "xgi_per90": 0.29,
+        "minutes": 767,
+        "form": 5.6,
+        "xgi_per90": 0.26,
         "average_fixture_difficulty": 3.2,
         "fixtures_evaluated": 5,
-        "score": 15.83,
+        "score": 18.11,
         "already_owned": true,
         "club_full": true
       },
@@ -172,17 +172,17 @@
         "club_id": 15,
         "position": 4,
         "price": 15.8,
-        "minutes": 799,
-        "form": 5.8,
+        "minutes": 806,
+        "form": 6.0,
         "xgi_per90": 0.83,
         "average_fixture_difficulty": 3.2,
         "fixtures_evaluated": 5,
-        "score": 21.37,
+        "score": 21.74,
         "already_owned": true,
         "club_full": false
       }
     ],
-    "score": 205.91
+    "score": 214.13
   },
   "bench": [
     {
@@ -192,12 +192,12 @@
       "club_id": 18,
       "position": 2,
       "price": 4.9,
-      "minutes": 803,
-      "form": 2.6,
+      "minutes": 810,
+      "form": 2.8,
       "xgi_per90": 0.24,
       "average_fixture_difficulty": 3.6,
       "fixtures_evaluated": 5,
-      "score": 11.19,
+      "score": 11.58,
       "already_owned": true,
       "club_full": false
     },
@@ -235,6 +235,22 @@
     }
   ],
   "captain": {
+    "id": 31,
+    "name": "Konsa",
+    "club": "Arsenal",
+    "club_id": 1,
+    "position": 2,
+    "price": 4.8,
+    "minutes": 731,
+    "form": 9.0,
+    "xgi_per90": 0.08,
+    "average_fixture_difficulty": 3.2,
+    "fixtures_evaluated": 5,
+    "score": 24.02,
+    "already_owned": true,
+    "club_full": true
+  },
+  "vice_captain": {
     "id": 79,
     "name": "Evanilson",
     "club": "Bournemouth",
@@ -249,21 +265,5 @@
     "score": 22.75,
     "already_owned": true,
     "club_full": true
-  },
-  "vice_captain": {
-    "id": 166,
-    "name": "N.Jackson",
-    "club": "Aston Villa",
-    "club_id": 2,
-    "position": 4,
-    "price": 7.0,
-    "minutes": 637,
-    "form": 6.6,
-    "xgi_per90": 0.43,
-    "average_fixture_difficulty": 2.4,
-    "fixtures_evaluated": 5,
-    "score": 22.55,
-    "already_owned": true,
-    "club_full": false
   }
 }
