@@ -146,13 +146,13 @@
       "position": 4,
       "price": 5.7,
       "form": 7.0,
-      "xgi_per90": 0.9,
+      "xgi_per90": 0.82,
       "fixture": "Coventry City",
       "home": true,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 26.49
+      "score": 26.11
     },
     {
       "id": 77,
@@ -197,7 +197,7 @@
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 21.62
+      "score": 21.59
     },
     {
       "id": 13,
@@ -275,21 +275,6 @@
       "score": 18.94
     },
     {
-      "id": 183,
-      "name": "Rudoni",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 4.9,
-      "form": 5.2,
-      "xgi_per90": 0.51,
-      "fixture": "Everton",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 18.93
-    },
-    {
       "id": 112,
       "name": "Van Hecke",
       "club": "Spurs",
@@ -303,6 +288,21 @@
       "status": "a",
       "news": "",
       "score": 18.89
+    },
+    {
+      "id": 183,
+      "name": "Rudoni",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 4.9,
+      "form": 5.2,
+      "xgi_per90": 0.48,
+      "fixture": "Everton",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 18.81
     },
     {
       "id": 129,
@@ -628,13 +628,13 @@
       "position": 4,
       "price": 5.7,
       "form": 7.0,
-      "xgi_per90": 0.9,
+      "xgi_per90": 0.82,
       "fixture": "Coventry City",
       "home": true,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 26.49
+      "score": 26.11
     },
     {
       "id": 77,
@@ -724,7 +724,7 @@
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 21.62
+      "score": 21.59
     },
     {
       "id": 166,
@@ -847,21 +847,6 @@
       "score": 18.94
     },
     {
-      "id": 183,
-      "name": "Rudoni",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 4.9,
-      "form": 5.2,
-      "xgi_per90": 0.51,
-      "fixture": "Everton",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 18.93
-    },
-    {
       "id": 112,
       "name": "Van Hecke",
       "club": "Spurs",
@@ -875,6 +860,21 @@
       "status": "a",
       "news": "",
       "score": 18.89
+    },
+    {
+      "id": 183,
+      "name": "Rudoni",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 4.9,
+      "form": 5.2,
+      "xgi_per90": 0.48,
+      "fixture": "Everton",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 18.81
     },
     {
       "id": 129,
@@ -1522,21 +1522,6 @@
       "score": 14.5
     },
     {
-      "id": 233,
-      "name": "Mykolenko",
-      "club": "Everton",
-      "position": 2,
-      "price": 4.6,
-      "form": 3.0,
-      "xgi_per90": 0.09,
-      "fixture": "Coventry City",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 14.47
-    },
-    {
       "id": 640,
       "name": "Flemming",
       "club": "Ipswich Town",
@@ -1550,6 +1535,21 @@
       "status": "a",
       "news": "",
       "score": 14.47
+    },
+    {
+      "id": 233,
+      "name": "Mykolenko",
+      "club": "Everton",
+      "position": 2,
+      "price": 4.6,
+      "form": 3.0,
+      "xgi_per90": 0.09,
+      "fixture": "Coventry City",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 14.45
     },
     {
       "id": 346,
@@ -1852,6 +1852,21 @@
       "score": 13.65
     },
     {
+      "id": 242,
+      "name": "George",
+      "club": "Everton",
+      "position": 3,
+      "price": 5.5,
+      "form": 2.2,
+      "xgi_per90": 0.25,
+      "fixture": "Coventry City",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 13.64
+    },
+    {
       "id": 226,
       "name": "Pickford",
       "club": "Everton",
@@ -1880,21 +1895,6 @@
       "status": "a",
       "news": "",
       "score": 13.61
-    },
-    {
-      "id": 242,
-      "name": "George",
-      "club": "Everton",
-      "position": 3,
-      "price": 5.5,
-      "form": 2.2,
-      "xgi_per90": 0.24,
-      "fixture": "Coventry City",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 13.6
     },
     {
       "id": 599,
@@ -1972,21 +1972,6 @@
       "score": 13.32
     },
     {
-      "id": 492,
-      "name": "Awoniyi",
-      "club": "Coventry City",
-      "position": 4,
-      "price": 5.4,
-      "form": 2.6,
-      "xgi_per90": 0.42,
-      "fixture": "Everton",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 13.32
-    },
-    {
       "id": 95,
       "name": "O.Dango",
       "club": "Brentford",
@@ -2015,6 +2000,21 @@
       "status": "a",
       "news": "",
       "score": 13.28
+    },
+    {
+      "id": 492,
+      "name": "Awoniyi",
+      "club": "Coventry City",
+      "position": 4,
+      "price": 5.4,
+      "form": 2.6,
+      "xgi_per90": 0.41,
+      "fixture": "Everton",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 13.23
     },
     {
       "id": 250,
@@ -2302,6 +2302,21 @@
       "score": 12.65
     },
     {
+      "id": 245,
+      "name": "Dibling",
+      "club": "Everton",
+      "position": 3,
+      "price": 5.3,
+      "form": 0.8,
+      "xgi_per90": 0.6,
+      "fixture": "Coventry City",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 12.61
+    },
+    {
       "id": 295,
       "name": "McBurnie",
       "club": "Hull City",
@@ -2527,21 +2542,6 @@
       "score": 12.19
     },
     {
-      "id": 245,
-      "name": "Dibling",
-      "club": "Everton",
-      "position": 3,
-      "price": 5.3,
-      "form": 0.8,
-      "xgi_per90": 0.5,
-      "fixture": "Coventry City",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 12.08
-    },
-    {
       "id": 525,
       "name": "Fernandes",
       "club": "Spurs",
@@ -2689,7 +2689,7 @@
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 11.92
+      "score": 11.91
     },
     {
       "id": 86,
@@ -3112,6 +3112,21 @@
       "score": 10.98
     },
     {
+      "id": 655,
+      "name": "Gboho",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 5.5,
+      "form": 2.0,
+      "xgi_per90": 0.2,
+      "fixture": "Everton",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 10.98
+    },
+    {
       "id": 238,
       "name": "Grealish",
       "club": "Everton",
@@ -3155,21 +3170,6 @@
       "status": "a",
       "news": "",
       "score": 10.95
-    },
-    {
-      "id": 655,
-      "name": "Gboho",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 5.5,
-      "form": 2.0,
-      "xgi_per90": 0.19,
-      "fixture": "Everton",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 10.94
     },
     {
       "id": 406,
@@ -3292,21 +3292,6 @@
       "score": 10.77
     },
     {
-      "id": 188,
-      "name": "Torp",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 5.3,
-      "form": 1.8,
-      "xgi_per90": 0.23,
-      "fixture": "Everton",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 10.73
-    },
-    {
       "id": 369,
       "name": "Ngumoha",
       "club": "Liverpool",
@@ -3320,6 +3305,21 @@
       "status": "a",
       "news": "",
       "score": 10.72
+    },
+    {
+      "id": 188,
+      "name": "Torp",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 5.3,
+      "form": 1.8,
+      "xgi_per90": 0.22,
+      "fixture": "Everton",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 10.71
     },
     {
       "id": 447,
@@ -3592,21 +3592,6 @@
       "score": 10.39
     },
     {
-      "id": 247,
-      "name": "Hackney",
-      "club": "Everton",
-      "position": 3,
-      "price": 5.3,
-      "form": 0.8,
-      "xgi_per90": 0.15,
-      "fixture": "Coventry City",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 10.36
-    },
-    {
       "id": 539,
       "name": "O'Nien",
       "club": "Sunderland",
@@ -3680,6 +3665,21 @@
       "status": "a",
       "news": "",
       "score": 10.33
+    },
+    {
+      "id": 247,
+      "name": "Hackney",
+      "club": "Everton",
+      "position": 3,
+      "price": 5.3,
+      "form": 0.8,
+      "xgi_per90": 0.14,
+      "fixture": "Coventry City",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 10.31
     },
     {
       "id": 557,
@@ -6022,21 +6022,6 @@
       "score": 7.76
     },
     {
-      "id": 190,
-      "name": "Tchaouna",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 5.3,
-      "form": 0.2,
-      "xgi_per90": 0.26,
-      "fixture": "Everton",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 7.7
-    },
-    {
       "id": 533,
       "name": "Mukiele",
       "club": "Sunderland",
@@ -6065,6 +6050,21 @@
       "status": "d",
       "news": "Muscular injury - 50% chance of playing",
       "score": 7.61
+    },
+    {
+      "id": 190,
+      "name": "Tchaouna",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 5.3,
+      "form": 0.2,
+      "xgi_per90": 0.24,
+      "fixture": "Everton",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 7.59
     },
     {
       "id": 104,
