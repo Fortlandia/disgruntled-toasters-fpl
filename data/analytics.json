@@ -1262,8 +1262,8 @@
       "fixture": "Sunderland",
       "home": false,
       "difficulty": 3,
-      "status": "d",
-      "news": "Illness - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 16.44
     },
     {
@@ -2477,8 +2477,8 @@
       "fixture": "Brentford",
       "home": true,
       "difficulty": 3,
-      "status": "d",
-      "news": "Hip injury - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 12.67
     },
     {
@@ -2897,8 +2897,8 @@
       "fixture": "Spurs",
       "home": true,
       "difficulty": 3,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Hamstring injury - 75% chance of playing",
       "score": 11.88
     },
     {
@@ -3947,8 +3947,8 @@
       "fixture": "Sunderland",
       "home": false,
       "difficulty": 3,
-      "status": "d",
-      "news": "Calf injury - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 10.14
     },
     {
@@ -4622,8 +4622,8 @@
       "fixture": "Ipswich Town",
       "home": false,
       "difficulty": 2,
-      "status": "d",
-      "news": "Thigh injury - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 9.07
     },
     {
@@ -6107,8 +6107,8 @@
       "fixture": "Chelsea",
       "home": true,
       "difficulty": 4,
-      "status": "d",
-      "news": "Concussion - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 7.69
     },
     {
@@ -7217,8 +7217,8 @@
       "fixture": "Sunderland",
       "home": false,
       "difficulty": 3,
-      "status": "i",
-      "news": "Unspecified injury - Unknown return date",
+      "status": "a",
+      "news": "",
       "score": 6.0
     },
     {

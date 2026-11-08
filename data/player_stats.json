@@ -1243,9 +1243,9 @@
     "expected_goals": "0.64",
     "expected_assists": "0.42",
     "minutes": 446,
-    "status": "d",
-    "news": "Thigh injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 70,
@@ -2011,9 +2011,9 @@
     "expected_goals": "0.15",
     "expected_assists": "0.16",
     "minutes": 517,
-    "status": "d",
-    "news": "Hip injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 114,
@@ -2603,9 +2603,9 @@
     "expected_goals": "0.48",
     "expected_assists": "0.51",
     "minutes": 360,
-    "status": "d",
-    "news": "Illness - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 136,
@@ -2891,9 +2891,9 @@
     "expected_goals": "0.05",
     "expected_assists": "0.06",
     "minutes": 350,
-    "status": "d",
-    "news": "Calf injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 161,
@@ -3051,9 +3051,9 @@
     "expected_goals": "0.00",
     "expected_assists": "0.00",
     "minutes": 0,
-    "status": "i",
-    "news": "Unspecified injury - Unknown return date",
-    "chance_next_round": 0
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 568,
@@ -6507,9 +6507,9 @@
     "expected_goals": "0.09",
     "expected_assists": "0.30",
     "minutes": 631,
-    "status": "a",
-    "news": "",
-    "chance_next_round": 100
+    "status": "d",
+    "news": "Hamstring injury - 75% chance of playing",
+    "chance_next_round": 75
   },
   {
     "id": 332,
@@ -10331,9 +10331,9 @@
     "expected_goals": "0.83",
     "expected_assists": "0.34",
     "minutes": 591,
-    "status": "d",
-    "news": "Concussion - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 534,

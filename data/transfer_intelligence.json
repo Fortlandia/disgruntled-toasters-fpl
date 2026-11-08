@@ -423,6 +423,22 @@
       "club_full": false
     },
     {
+      "id": 101,
+      "name": "Henderson",
+      "club": "Chelsea",
+      "club_id": 6,
+      "position": 3,
+      "price": 4.9,
+      "minutes": 360,
+      "form": 4.6,
+      "xgi_per90": 0.25,
+      "average_fixture_difficulty": 2.8,
+      "fixtures_evaluated": 5,
+      "score": 16.84,
+      "already_owned": false,
+      "club_full": false
+    },
+    {
       "id": 399,
       "name": "Cherki",
       "club": "Man City",
@@ -819,22 +835,6 @@
       "average_fixture_difficulty": 2.8,
       "fixtures_evaluated": 5,
       "score": 14.1,
-      "already_owned": false,
-      "club_full": false
-    },
-    {
-      "id": 95,
-      "name": "O.Dango",
-      "club": "Brentford",
-      "club_id": 4,
-      "position": 3,
-      "price": 6.2,
-      "minutes": 395,
-      "form": 3.6,
-      "xgi_per90": 0.42,
-      "average_fixture_difficulty": 3.6,
-      "fixtures_evaluated": 5,
-      "score": 14.08,
       "already_owned": false,
       "club_full": false
     }
