@@ -64,7 +64,7 @@
         "difficulty": 2,
         "expected_minutes": 90,
         "xg90": 0.079,
-        "xa90": 0.006,
+        "xa90": 0.005,
         "projected_points": 4.84,
         "status": "a",
         "news": ""
@@ -90,7 +90,7 @@
         "name": "Tavernier",
         "club": "Bournemouth",
         "position": 3,
-        "price": 6.6,
+        "price": 6.7,
         "opponent": "Ipswich Town",
         "home": false,
         "difficulty": 2,
@@ -159,9 +159,9 @@
         "home": false,
         "difficulty": 2,
         "expected_minutes": 88.9,
-        "xg90": 0.713,
+        "xg90": 0.715,
         "xa90": 0.088,
-        "projected_points": 5.77,
+        "projected_points": 5.78,
         "status": "a",
         "news": ""
       },
@@ -182,7 +182,7 @@
         "news": ""
       }
     ],
-    "projected_points": 50.86
+    "projected_points": 50.87
   },
   "bench": [
     {
@@ -190,7 +190,7 @@
       "name": "N.Jackson",
       "club": "Aston Villa",
       "position": 4,
-      "price": 7.0,
+      "price": 7.1,
       "opponent": "Man Utd",
       "home": false,
       "difficulty": 3,
@@ -260,9 +260,9 @@
     "home": false,
     "difficulty": 2,
     "expected_minutes": 88.9,
-    "xg90": 0.713,
+    "xg90": 0.715,
     "xa90": 0.088,
-    "projected_points": 5.77,
+    "projected_points": 5.78,
     "status": "a",
     "news": ""
   },
@@ -271,7 +271,7 @@
     "name": "Tavernier",
     "club": "Bournemouth",
     "position": 3,
-    "price": 6.6,
+    "price": 6.7,
     "opponent": "Ipswich Town",
     "home": false,
     "difficulty": 2,

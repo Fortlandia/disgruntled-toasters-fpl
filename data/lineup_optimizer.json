@@ -75,7 +75,7 @@
         "club": "Bournemouth",
         "club_id": 3,
         "position": 3,
-        "price": 6.6,
+        "price": 6.7,
         "minutes": 750,
         "form": 4.8,
         "xgi_per90": 0.61,
@@ -155,7 +155,7 @@
         "club": "Aston Villa",
         "club_id": 2,
         "position": 4,
-        "price": 7.0,
+        "price": 7.1,
         "minutes": 637,
         "form": 6.6,
         "xgi_per90": 0.43,
@@ -177,12 +177,12 @@
         "xgi_per90": 0.8,
         "average_fixture_difficulty": 3.2,
         "fixtures_evaluated": 5,
-        "score": 22.0,
+        "score": 22.01,
         "already_owned": true,
         "club_full": false
       }
     ],
-    "score": 214.39
+    "score": 214.4
   },
   "bench": [
     {
