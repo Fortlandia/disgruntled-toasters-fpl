@@ -17,12 +17,6 @@
       ],
       "fixture_details": [
         {
-          "fixture_id": 42,
-          "gameweek": 5,
-          "minutes": 90,
-          "history_record_found": true
-        },
-        {
           "fixture_id": 51,
           "gameweek": 6,
           "minutes": 90,
@@ -43,6 +37,12 @@
         {
           "fixture_id": 87,
           "gameweek": 9,
+          "minutes": 90,
+          "history_record_found": true
+        },
+        {
+          "fixture_id": 91,
+          "gameweek": 10,
           "minutes": 90,
           "history_record_found": true
         }
@@ -66,19 +66,13 @@
       "position": 2,
       "matches_analyzed": 5,
       "last_five_minutes": [
-        90,
         81,
         90,
         22,
-        90
+        90,
+        68
       ],
       "fixture_details": [
-        {
-          "fixture_id": 42,
-          "gameweek": 5,
-          "minutes": 90,
-          "history_record_found": true
-        },
         {
           "fixture_id": 51,
           "gameweek": 6,
@@ -102,15 +96,21 @@
           "gameweek": 9,
           "minutes": 90,
           "history_record_found": true
+        },
+        {
+          "fixture_id": 91,
+          "gameweek": 10,
+          "minutes": 68,
+          "history_record_found": true
         }
       ],
       "missing_history_records": 0,
-      "average_minutes": 74.6,
-      "weighted_minutes": 70.7,
-      "expected_minutes": 70.7,
+      "average_minutes": 70.2,
+      "weighted_minutes": 68.5,
+      "expected_minutes": 68.5,
       "appearance_rate": 1.0,
       "sixty_minute_rate": 0.8,
-      "minutes_trend": -18.2,
+      "minutes_trend": -25.5,
       "missed_recently": false,
       "rotation_risk": "Low",
       "status": "a",
@@ -130,12 +130,6 @@
         90
       ],
       "fixture_details": [
-        {
-          "fixture_id": 42,
-          "gameweek": 5,
-          "minutes": 90,
-          "history_record_found": true
-        },
         {
           "fixture_id": 51,
           "gameweek": 6,
@@ -159,6 +153,12 @@
           "gameweek": 9,
           "minutes": 90,
           "history_record_found": true
+        },
+        {
+          "fixture_id": 91,
+          "gameweek": 10,
+          "minutes": 90,
+          "history_record_found": true
         }
       ],
       "missing_history_records": 0,
@@ -180,19 +180,13 @@
       "position": 2,
       "matches_analyzed": 5,
       "last_five_minutes": [
-        90,
         67,
         90,
         90,
-        71
+        71,
+        81
       ],
       "fixture_details": [
-        {
-          "fixture_id": 42,
-          "gameweek": 5,
-          "minutes": 90,
-          "history_record_found": true
-        },
         {
           "fixture_id": 60,
           "gameweek": 6,
@@ -216,15 +210,21 @@
           "gameweek": 9,
           "minutes": 71,
           "history_record_found": true
+        },
+        {
+          "fixture_id": 92,
+          "gameweek": 10,
+          "minutes": 81,
+          "history_record_found": true
         }
       ],
       "missing_history_records": 0,
-      "average_minutes": 81.6,
-      "weighted_minutes": 80.6,
-      "expected_minutes": 80.6,
+      "average_minutes": 79.8,
+      "weighted_minutes": 80.4,
+      "expected_minutes": 80.4,
       "appearance_rate": 1.0,
       "sixty_minute_rate": 1.0,
-      "minutes_trend": 5.2,
+      "minutes_trend": 2.2,
       "missed_recently": false,
       "rotation_risk": "Low",
       "status": "a",
@@ -241,15 +241,9 @@
         90,
         90,
         90,
-        90
+        82
       ],
       "fixture_details": [
-        {
-          "fixture_id": 50,
-          "gameweek": 5,
-          "minutes": 90,
-          "history_record_found": true
-        },
         {
           "fixture_id": 59,
           "gameweek": 6,
@@ -273,15 +267,21 @@
           "gameweek": 9,
           "minutes": 90,
           "history_record_found": true
+        },
+        {
+          "fixture_id": 98,
+          "gameweek": 10,
+          "minutes": 82,
+          "history_record_found": true
         }
       ],
       "missing_history_records": 0,
-      "average_minutes": 90,
-      "weighted_minutes": 90.0,
-      "expected_minutes": 90,
+      "average_minutes": 88.4,
+      "weighted_minutes": 87.3,
+      "expected_minutes": 87.3,
       "appearance_rate": 1.0,
       "sixty_minute_rate": 1.0,
-      "minutes_trend": 0,
+      "minutes_trend": -2.7,
       "missed_recently": false,
       "rotation_risk": "Low",
       "status": "a",
@@ -295,18 +295,12 @@
       "matches_analyzed": 5,
       "last_five_minutes": [
         90,
-        90,
         70,
+        90,
         90,
         90
       ],
       "fixture_details": [
-        {
-          "fixture_id": 42,
-          "gameweek": 5,
-          "minutes": 90,
-          "history_record_found": true
-        },
         {
           "fixture_id": 60,
           "gameweek": 6,
@@ -330,15 +324,21 @@
           "gameweek": 9,
           "minutes": 90,
           "history_record_found": true
+        },
+        {
+          "fixture_id": 92,
+          "gameweek": 10,
+          "minutes": 90,
+          "history_record_found": true
         }
       ],
       "missing_history_records": 0,
       "average_minutes": 86,
-      "weighted_minutes": 86.0,
-      "expected_minutes": 86.0,
+      "weighted_minutes": 87.3,
+      "expected_minutes": 87.3,
       "appearance_rate": 1.0,
       "sixty_minute_rate": 1.0,
-      "minutes_trend": -6.7,
+      "minutes_trend": 10,
       "missed_recently": false,
       "rotation_risk": "Low",
       "status": "a",
@@ -351,19 +351,13 @@
       "position": 3,
       "matches_analyzed": 5,
       "last_five_minutes": [
-        90,
         83,
+        90,
         90,
         90,
         90
       ],
       "fixture_details": [
-        {
-          "fixture_id": 41,
-          "gameweek": 5,
-          "minutes": 90,
-          "history_record_found": true
-        },
         {
           "fixture_id": 53,
           "gameweek": 6,
@@ -387,12 +381,18 @@
           "gameweek": 9,
           "minutes": 90,
           "history_record_found": true
+        },
+        {
+          "fixture_id": 100,
+          "gameweek": 10,
+          "minutes": 90,
+          "history_record_found": true
         }
       ],
       "missing_history_records": 0,
       "average_minutes": 88.6,
-      "weighted_minutes": 89.1,
-      "expected_minutes": 89.1,
+      "weighted_minutes": 89.5,
+      "expected_minutes": 89.5,
       "appearance_rate": 1.0,
       "sixty_minute_rate": 1.0,
       "minutes_trend": 3.5,
@@ -408,19 +408,13 @@
       "position": 3,
       "matches_analyzed": 5,
       "last_five_minutes": [
-        74,
         72,
         78,
         86,
+        90,
         90
       ],
       "fixture_details": [
-        {
-          "fixture_id": 49,
-          "gameweek": 5,
-          "minutes": 74,
-          "history_record_found": true
-        },
         {
           "fixture_id": 53,
           "gameweek": 6,
@@ -444,15 +438,21 @@
           "gameweek": 9,
           "minutes": 90,
           "history_record_found": true
+        },
+        {
+          "fixture_id": 96,
+          "gameweek": 10,
+          "minutes": 90,
+          "history_record_found": true
         }
       ],
       "missing_history_records": 0,
-      "average_minutes": 80,
-      "weighted_minutes": 83.1,
-      "expected_minutes": 83.1,
+      "average_minutes": 83.2,
+      "weighted_minutes": 86.4,
+      "expected_minutes": 86.4,
       "appearance_rate": 1.0,
       "sixty_minute_rate": 1.0,
-      "minutes_trend": 11.7,
+      "minutes_trend": 13.7,
       "missed_recently": false,
       "rotation_risk": "Low",
       "status": "a",
@@ -465,19 +465,13 @@
       "position": 4,
       "matches_analyzed": 5,
       "last_five_minutes": [
-        90,
         79,
+        90,
         90,
         90,
         90
       ],
       "fixture_details": [
-        {
-          "fixture_id": 45,
-          "gameweek": 5,
-          "minutes": 90,
-          "history_record_found": true
-        },
         {
           "fixture_id": 58,
           "gameweek": 6,
@@ -501,12 +495,18 @@
           "gameweek": 9,
           "minutes": 90,
           "history_record_found": true
+        },
+        {
+          "fixture_id": 99,
+          "gameweek": 10,
+          "minutes": 90,
+          "history_record_found": true
         }
       ],
       "missing_history_records": 0,
       "average_minutes": 87.8,
-      "weighted_minutes": 88.5,
-      "expected_minutes": 88.5,
+      "weighted_minutes": 89.3,
+      "expected_minutes": 89.3,
       "appearance_rate": 1.0,
       "sixty_minute_rate": 1.0,
       "minutes_trend": 5.5,
@@ -523,18 +523,12 @@
       "matches_analyzed": 5,
       "last_five_minutes": [
         90,
-        90,
         78,
         86,
-        75
+        75,
+        84
       ],
       "fixture_details": [
-        {
-          "fixture_id": 49,
-          "gameweek": 5,
-          "minutes": 90,
-          "history_record_found": true
-        },
         {
           "fixture_id": 53,
           "gameweek": 6,
@@ -558,15 +552,21 @@
           "gameweek": 9,
           "minutes": 75,
           "history_record_found": true
+        },
+        {
+          "fixture_id": 96,
+          "gameweek": 10,
+          "minutes": 84,
+          "history_record_found": true
         }
       ],
       "missing_history_records": 0,
-      "average_minutes": 83.8,
-      "weighted_minutes": 81.5,
-      "expected_minutes": 81.5,
+      "average_minutes": 82.6,
+      "weighted_minutes": 81.6,
+      "expected_minutes": 81.6,
       "appearance_rate": 1.0,
       "sixty_minute_rate": 1.0,
-      "minutes_trend": -10.3,
+      "minutes_trend": -2.3,
       "missed_recently": false,
       "rotation_risk": "Low",
       "status": "a",
@@ -579,19 +579,13 @@
       "position": 4,
       "matches_analyzed": 5,
       "last_five_minutes": [
-        87,
         90,
         90,
         81,
-        90
+        90,
+        85
       ],
       "fixture_details": [
-        {
-          "fixture_id": 48,
-          "gameweek": 5,
-          "minutes": 87,
-          "history_record_found": true
-        },
         {
           "fixture_id": 52,
           "gameweek": 6,
@@ -615,15 +609,21 @@
           "gameweek": 9,
           "minutes": 90,
           "history_record_found": true
+        },
+        {
+          "fixture_id": 98,
+          "gameweek": 10,
+          "minutes": 85,
+          "history_record_found": true
         }
       ],
       "missing_history_records": 0,
-      "average_minutes": 87.6,
-      "weighted_minutes": 87.4,
-      "expected_minutes": 87.4,
+      "average_minutes": 87.2,
+      "weighted_minutes": 86.5,
+      "expected_minutes": 86.5,
       "appearance_rate": 1.0,
       "sixty_minute_rate": 1.0,
-      "minutes_trend": -1.5,
+      "minutes_trend": -4.7,
       "missed_recently": false,
       "rotation_risk": "Low",
       "status": "a",
@@ -643,12 +643,6 @@
         90
       ],
       "fixture_details": [
-        {
-          "fixture_id": 49,
-          "gameweek": 5,
-          "minutes": 90,
-          "history_record_found": true
-        },
         {
           "fixture_id": 53,
           "gameweek": 6,
@@ -670,6 +664,12 @@
         {
           "fixture_id": 82,
           "gameweek": 9,
+          "minutes": 90,
+          "history_record_found": true
+        },
+        {
+          "fixture_id": 96,
+          "gameweek": 10,
           "minutes": 90,
           "history_record_found": true
         }
@@ -695,17 +695,11 @@
       "last_five_minutes": [
         90,
         90,
-        90,
         83,
+        90,
         90
       ],
       "fixture_details": [
-        {
-          "fixture_id": 47,
-          "gameweek": 5,
-          "minutes": 90,
-          "history_record_found": true
-        },
         {
           "fixture_id": 55,
           "gameweek": 6,
@@ -729,12 +723,18 @@
           "gameweek": 9,
           "minutes": 90,
           "history_record_found": true
+        },
+        {
+          "fixture_id": 99,
+          "gameweek": 10,
+          "minutes": 90,
+          "history_record_found": true
         }
       ],
       "missing_history_records": 0,
       "average_minutes": 88.6,
-      "weighted_minutes": 88.1,
-      "expected_minutes": 88.1,
+      "weighted_minutes": 88.6,
+      "expected_minutes": 88.6,
       "appearance_rate": 1.0,
       "sixty_minute_rate": 1.0,
       "minutes_trend": -2.3,
@@ -752,17 +752,11 @@
       "last_five_minutes": [
         90,
         90,
-        90,
         0,
+        90,
         90
       ],
       "fixture_details": [
-        {
-          "fixture_id": 41,
-          "gameweek": 5,
-          "minutes": 90,
-          "history_record_found": true
-        },
         {
           "fixture_id": 52,
           "gameweek": 6,
@@ -786,12 +780,18 @@
           "gameweek": 9,
           "minutes": 90,
           "history_record_found": true
+        },
+        {
+          "fixture_id": 92,
+          "gameweek": 10,
+          "minutes": 90,
+          "history_record_found": true
         }
       ],
       "missing_history_records": 0,
       "average_minutes": 72,
-      "weighted_minutes": 66.0,
-      "expected_minutes": 66.0,
+      "weighted_minutes": 72.0,
+      "expected_minutes": 72.0,
       "appearance_rate": 0.8,
       "sixty_minute_rate": 0.8,
       "minutes_trend": -30,
@@ -809,17 +809,11 @@
       "last_five_minutes": [
         90,
         90,
-        90,
         59,
+        0,
         0
       ],
       "fixture_details": [
-        {
-          "fixture_id": 47,
-          "gameweek": 5,
-          "minutes": 90,
-          "history_record_found": true
-        },
         {
           "fixture_id": 54,
           "gameweek": 6,
@@ -843,15 +837,21 @@
           "gameweek": 9,
           "minutes": 0,
           "history_record_found": true
+        },
+        {
+          "fixture_id": 94,
+          "gameweek": 10,
+          "minutes": 0,
+          "history_record_found": true
         }
       ],
       "missing_history_records": 0,
-      "average_minutes": 65.8,
-      "weighted_minutes": 51.7,
-      "expected_minutes": 25.9,
-      "appearance_rate": 0.8,
-      "sixty_minute_rate": 0.6,
-      "minutes_trend": -40.3,
+      "average_minutes": 47.8,
+      "weighted_minutes": 29.8,
+      "expected_minutes": 14.9,
+      "appearance_rate": 0.6,
+      "sixty_minute_rate": 0.4,
+      "minutes_trend": -70.3,
       "missed_recently": true,
       "rotation_risk": "High",
       "status": "d",
