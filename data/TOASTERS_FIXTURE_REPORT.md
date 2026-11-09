@@ -1,18 +1,18 @@
 # 🍞 Disgruntled Toasters — Fixture Command Center
 
-Updated (UTC): 2026-11-09T11:30:02.364973+00:00
-**Next unfinished GW:** 10 · **Squad snapshot:** GW10
+Updated (UTC): 2026-11-09T22:21:07.022924+00:00
+**Next unfinished GW:** 11 · **Squad snapshot:** GW10
 
 ## Six-gameweek fixture watch
 
 | GW | Deadline (UTC) | Blank teams | Double teams | Toasters affected |
 |---|---|---|---|---|
-| 10 | 2026-11-06T18:30:00Z | — | — | — |
 | 11 | 2026-11-21T11:00:00Z | — | — | — |
 | 12 | 2026-11-27T18:30:00Z | — | — | — |
 | 13 | 2026-12-01T18:30:00Z | — | — | — |
 | 14 | 2026-12-05T11:00:00Z | — | — | — |
 | 15 | 2026-12-12T13:30:00Z | — | — | — |
+| 16 | 2026-12-19T11:00:00Z | — | — | — |
 
 ## Fixture changes since previous run
 

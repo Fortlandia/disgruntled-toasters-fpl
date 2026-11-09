@@ -1,364 +1,10 @@
 {
-  "generated_utc": "2026-11-09T11:30:02.364973+00:00",
+  "generated_utc": "2026-11-09T22:21:07.022924+00:00",
   "source": "Official FPL API via fetch_fpl.py; optional manually maintained football_calendar.json",
-  "current_gameweek": 10,
+  "current_gameweek": 11,
   "squad_source_gameweek": 10,
   "lookahead_gameweeks": 6,
   "gameweeks": [
-    {
-      "gameweek": 10,
-      "deadline": "2026-11-06T18:30:00Z",
-      "finished": false,
-      "blanks": [],
-      "doubles": [],
-      "clubs": [
-        {
-          "club": "Arsenal",
-          "club_id": 1,
-          "fixture_count": 1,
-          "status": "NORMAL",
-          "fixtures": [
-            {
-              "fixture_id": 91,
-              "opponent": "Hull City",
-              "home": true,
-              "kickoff": "2026-11-07T15:00:00Z",
-              "finished": true
-            }
-          ],
-          "owned_players": [
-            "Raya",
-            "Calafiori",
-            "Konsa"
-          ]
-        },
-        {
-          "club": "Aston Villa",
-          "club_id": 2,
-          "fixture_count": 1,
-          "status": "NORMAL",
-          "fixtures": [
-            {
-              "fixture_id": 98,
-              "opponent": "Man Utd",
-              "home": false,
-              "kickoff": "2026-11-08T16:30:00Z",
-              "finished": true
-            }
-          ],
-          "owned_players": [
-            "N.Jackson"
-          ]
-        },
-        {
-          "club": "Bournemouth",
-          "club_id": 3,
-          "fixture_count": 1,
-          "status": "NORMAL",
-          "fixtures": [
-            {
-              "fixture_id": 96,
-              "opponent": "Ipswich Town",
-              "home": false,
-              "kickoff": "2026-11-08T14:00:00Z",
-              "finished": true
-            }
-          ],
-          "owned_players": [
-            "Tavernier",
-            "Evanilson",
-            "Petrović"
-          ]
-        },
-        {
-          "club": "Brentford",
-          "club_id": 4,
-          "fixture_count": 1,
-          "status": "NORMAL",
-          "fixtures": [
-            {
-              "fixture_id": 92,
-              "opponent": "Brighton",
-              "home": false,
-              "kickoff": "2026-11-08T14:00:00Z",
-              "finished": true
-            }
-          ],
-          "owned_players": [
-            "Janelt"
-          ]
-        },
-        {
-          "club": "Brighton",
-          "club_id": 5,
-          "fixture_count": 1,
-          "status": "NORMAL",
-          "fixtures": [
-            {
-              "fixture_id": 92,
-              "opponent": "Brentford",
-              "home": true,
-              "kickoff": "2026-11-08T14:00:00Z",
-              "finished": true
-            }
-          ],
-          "owned_players": [
-            "De Cuyper",
-            "Groß"
-          ]
-        },
-        {
-          "club": "Chelsea",
-          "club_id": 6,
-          "fixture_count": 1,
-          "status": "NORMAL",
-          "fixtures": [
-            {
-              "fixture_id": 100,
-              "opponent": "Sunderland",
-              "home": false,
-              "kickoff": "2026-11-08T14:00:00Z",
-              "finished": true
-            }
-          ],
-          "owned_players": [
-            "Rogers"
-          ]
-        },
-        {
-          "club": "Coventry City",
-          "club_id": 7,
-          "fixture_count": 1,
-          "status": "NORMAL",
-          "fixtures": [
-            {
-              "fixture_id": 94,
-              "opponent": "Everton",
-              "home": false,
-              "kickoff": "2026-11-06T20:00:00Z",
-              "finished": true
-            }
-          ],
-          "owned_players": [
-            "Thomas"
-          ]
-        },
-        {
-          "club": "Crystal Palace",
-          "club_id": 8,
-          "fixture_count": 1,
-          "status": "NORMAL",
-          "fixtures": [
-            {
-              "fixture_id": 93,
-              "opponent": "Liverpool",
-              "home": true,
-              "kickoff": "2026-11-08T14:00:00Z",
-              "finished": true
-            }
-          ],
-          "owned_players": []
-        },
-        {
-          "club": "Everton",
-          "club_id": 9,
-          "fixture_count": 1,
-          "status": "NORMAL",
-          "fixtures": [
-            {
-              "fixture_id": 94,
-              "opponent": "Coventry City",
-              "home": true,
-              "kickoff": "2026-11-06T20:00:00Z",
-              "finished": true
-            }
-          ],
-          "owned_players": []
-        },
-        {
-          "club": "Fulham",
-          "club_id": 10,
-          "fixture_count": 1,
-          "status": "NORMAL",
-          "fixtures": [
-            {
-              "fixture_id": 95,
-              "opponent": "Newcastle",
-              "home": true,
-              "kickoff": "2026-11-07T15:00:00Z",
-              "finished": true
-            }
-          ],
-          "owned_players": []
-        },
-        {
-          "club": "Hull City",
-          "club_id": 11,
-          "fixture_count": 1,
-          "status": "NORMAL",
-          "fixtures": [
-            {
-              "fixture_id": 91,
-              "opponent": "Arsenal",
-              "home": false,
-              "kickoff": "2026-11-07T15:00:00Z",
-              "finished": true
-            }
-          ],
-          "owned_players": []
-        },
-        {
-          "club": "Ipswich Town",
-          "club_id": 12,
-          "fixture_count": 1,
-          "status": "NORMAL",
-          "fixtures": [
-            {
-              "fixture_id": 96,
-              "opponent": "Bournemouth",
-              "home": true,
-              "kickoff": "2026-11-08T14:00:00Z",
-              "finished": true
-            }
-          ],
-          "owned_players": []
-        },
-        {
-          "club": "Leeds",
-          "club_id": 13,
-          "fixture_count": 1,
-          "status": "NORMAL",
-          "fixtures": [
-            {
-              "fixture_id": 97,
-              "opponent": "Spurs",
-              "home": true,
-              "kickoff": "2026-11-07T12:30:00Z",
-              "finished": true
-            }
-          ],
-          "owned_players": []
-        },
-        {
-          "club": "Liverpool",
-          "club_id": 14,
-          "fixture_count": 1,
-          "status": "NORMAL",
-          "fixtures": [
-            {
-              "fixture_id": 93,
-              "opponent": "Crystal Palace",
-              "home": false,
-              "kickoff": "2026-11-08T14:00:00Z",
-              "finished": true
-            }
-          ],
-          "owned_players": []
-        },
-        {
-          "club": "Man City",
-          "club_id": 15,
-          "fixture_count": 1,
-          "status": "NORMAL",
-          "fixtures": [
-            {
-              "fixture_id": 99,
-              "opponent": "Nott'm Forest",
-              "home": false,
-              "kickoff": "2026-11-07T17:30:00Z",
-              "finished": true
-            }
-          ],
-          "owned_players": [
-            "Haaland"
-          ]
-        },
-        {
-          "club": "Man Utd",
-          "club_id": 16,
-          "fixture_count": 1,
-          "status": "NORMAL",
-          "fixtures": [
-            {
-              "fixture_id": 98,
-              "opponent": "Aston Villa",
-              "home": true,
-              "kickoff": "2026-11-08T16:30:00Z",
-              "finished": true
-            }
-          ],
-          "owned_players": [
-            "Mbeumo"
-          ]
-        },
-        {
-          "club": "Newcastle",
-          "club_id": 17,
-          "fixture_count": 1,
-          "status": "NORMAL",
-          "fixtures": [
-            {
-              "fixture_id": 95,
-              "opponent": "Fulham",
-              "home": false,
-              "kickoff": "2026-11-07T15:00:00Z",
-              "finished": true
-            }
-          ],
-          "owned_players": []
-        },
-        {
-          "club": "Nott'm Forest",
-          "club_id": 18,
-          "fixture_count": 1,
-          "status": "NORMAL",
-          "fixtures": [
-            {
-              "fixture_id": 99,
-              "opponent": "Man City",
-              "home": true,
-              "kickoff": "2026-11-07T17:30:00Z",
-              "finished": true
-            }
-          ],
-          "owned_players": [
-            "N.Williams"
-          ]
-        },
-        {
-          "club": "Spurs",
-          "club_id": 19,
-          "fixture_count": 1,
-          "status": "NORMAL",
-          "fixtures": [
-            {
-              "fixture_id": 97,
-              "opponent": "Leeds",
-              "home": false,
-              "kickoff": "2026-11-07T12:30:00Z",
-              "finished": true
-            }
-          ],
-          "owned_players": []
-        },
-        {
-          "club": "Sunderland",
-          "club_id": 20,
-          "fixture_count": 1,
-          "status": "NORMAL",
-          "fixtures": [
-            {
-              "fixture_id": 100,
-              "opponent": "Chelsea",
-              "home": true,
-              "kickoff": "2026-11-08T14:00:00Z",
-              "finished": true
-            }
-          ],
-          "owned_players": []
-        }
-      ]
-    },
     {
       "gameweek": 11,
       "deadline": "2026-11-21T11:00:00Z",
@@ -2122,6 +1768,360 @@
               "opponent": "Nott'm Forest",
               "home": true,
               "kickoff": "2026-12-13T14:00:00Z",
+              "finished": false
+            }
+          ],
+          "owned_players": []
+        }
+      ]
+    },
+    {
+      "gameweek": 16,
+      "deadline": "2026-12-19T11:00:00Z",
+      "finished": false,
+      "blanks": [],
+      "doubles": [],
+      "clubs": [
+        {
+          "club": "Arsenal",
+          "club_id": 1,
+          "fixture_count": 1,
+          "status": "NORMAL",
+          "fixtures": [
+            {
+              "fixture_id": 151,
+              "opponent": "Man Utd",
+              "home": true,
+              "kickoff": "2026-12-20T16:30:00Z",
+              "finished": false
+            }
+          ],
+          "owned_players": [
+            "Raya",
+            "Calafiori",
+            "Konsa"
+          ]
+        },
+        {
+          "club": "Aston Villa",
+          "club_id": 2,
+          "fixture_count": 1,
+          "status": "NORMAL",
+          "fixtures": [
+            {
+              "fixture_id": 155,
+              "opponent": "Chelsea",
+              "home": false,
+              "kickoff": "2026-12-21T20:00:00Z",
+              "finished": false
+            }
+          ],
+          "owned_players": [
+            "N.Jackson"
+          ]
+        },
+        {
+          "club": "Bournemouth",
+          "club_id": 3,
+          "fixture_count": 1,
+          "status": "NORMAL",
+          "fixtures": [
+            {
+              "fixture_id": 152,
+              "opponent": "Coventry City",
+              "home": true,
+              "kickoff": "2026-12-19T15:00:00Z",
+              "finished": false
+            }
+          ],
+          "owned_players": [
+            "Tavernier",
+            "Evanilson",
+            "Petrović"
+          ]
+        },
+        {
+          "club": "Brentford",
+          "club_id": 4,
+          "fixture_count": 1,
+          "status": "NORMAL",
+          "fixtures": [
+            {
+              "fixture_id": 153,
+              "opponent": "Newcastle",
+              "home": true,
+              "kickoff": "2026-12-19T12:30:00Z",
+              "finished": false
+            }
+          ],
+          "owned_players": [
+            "Janelt"
+          ]
+        },
+        {
+          "club": "Brighton",
+          "club_id": 5,
+          "fixture_count": 1,
+          "status": "NORMAL",
+          "fixtures": [
+            {
+              "fixture_id": 154,
+              "opponent": "Ipswich Town",
+              "home": true,
+              "kickoff": "2026-12-20T14:00:00Z",
+              "finished": false
+            }
+          ],
+          "owned_players": [
+            "De Cuyper",
+            "Groß"
+          ]
+        },
+        {
+          "club": "Chelsea",
+          "club_id": 6,
+          "fixture_count": 1,
+          "status": "NORMAL",
+          "fixtures": [
+            {
+              "fixture_id": 155,
+              "opponent": "Aston Villa",
+              "home": true,
+              "kickoff": "2026-12-21T20:00:00Z",
+              "finished": false
+            }
+          ],
+          "owned_players": [
+            "Rogers"
+          ]
+        },
+        {
+          "club": "Coventry City",
+          "club_id": 7,
+          "fixture_count": 1,
+          "status": "NORMAL",
+          "fixtures": [
+            {
+              "fixture_id": 152,
+              "opponent": "Bournemouth",
+              "home": false,
+              "kickoff": "2026-12-19T15:00:00Z",
+              "finished": false
+            }
+          ],
+          "owned_players": [
+            "Thomas"
+          ]
+        },
+        {
+          "club": "Crystal Palace",
+          "club_id": 8,
+          "fixture_count": 1,
+          "status": "NORMAL",
+          "fixtures": [
+            {
+              "fixture_id": 160,
+              "opponent": "Sunderland",
+              "home": false,
+              "kickoff": "2026-12-20T14:00:00Z",
+              "finished": false
+            }
+          ],
+          "owned_players": []
+        },
+        {
+          "club": "Everton",
+          "club_id": 9,
+          "fixture_count": 1,
+          "status": "NORMAL",
+          "fixtures": [
+            {
+              "fixture_id": 159,
+              "opponent": "Nott'm Forest",
+              "home": false,
+              "kickoff": "2026-12-20T14:00:00Z",
+              "finished": false
+            }
+          ],
+          "owned_players": []
+        },
+        {
+          "club": "Fulham",
+          "club_id": 10,
+          "fixture_count": 1,
+          "status": "NORMAL",
+          "fixtures": [
+            {
+              "fixture_id": 156,
+              "opponent": "Leeds",
+              "home": false,
+              "kickoff": "2026-12-19T15:00:00Z",
+              "finished": false
+            }
+          ],
+          "owned_players": []
+        },
+        {
+          "club": "Hull City",
+          "club_id": 11,
+          "fixture_count": 1,
+          "status": "NORMAL",
+          "fixtures": [
+            {
+              "fixture_id": 158,
+              "opponent": "Man City",
+              "home": false,
+              "kickoff": "2026-12-19T15:00:00Z",
+              "finished": false
+            }
+          ],
+          "owned_players": []
+        },
+        {
+          "club": "Ipswich Town",
+          "club_id": 12,
+          "fixture_count": 1,
+          "status": "NORMAL",
+          "fixtures": [
+            {
+              "fixture_id": 154,
+              "opponent": "Brighton",
+              "home": false,
+              "kickoff": "2026-12-20T14:00:00Z",
+              "finished": false
+            }
+          ],
+          "owned_players": []
+        },
+        {
+          "club": "Leeds",
+          "club_id": 13,
+          "fixture_count": 1,
+          "status": "NORMAL",
+          "fixtures": [
+            {
+              "fixture_id": 156,
+              "opponent": "Fulham",
+              "home": true,
+              "kickoff": "2026-12-19T15:00:00Z",
+              "finished": false
+            }
+          ],
+          "owned_players": []
+        },
+        {
+          "club": "Liverpool",
+          "club_id": 14,
+          "fixture_count": 1,
+          "status": "NORMAL",
+          "fixtures": [
+            {
+              "fixture_id": 157,
+              "opponent": "Spurs",
+              "home": true,
+              "kickoff": "2026-12-19T17:30:00Z",
+              "finished": false
+            }
+          ],
+          "owned_players": []
+        },
+        {
+          "club": "Man City",
+          "club_id": 15,
+          "fixture_count": 1,
+          "status": "NORMAL",
+          "fixtures": [
+            {
+              "fixture_id": 158,
+              "opponent": "Hull City",
+              "home": true,
+              "kickoff": "2026-12-19T15:00:00Z",
+              "finished": false
+            }
+          ],
+          "owned_players": [
+            "Haaland"
+          ]
+        },
+        {
+          "club": "Man Utd",
+          "club_id": 16,
+          "fixture_count": 1,
+          "status": "NORMAL",
+          "fixtures": [
+            {
+              "fixture_id": 151,
+              "opponent": "Arsenal",
+              "home": false,
+              "kickoff": "2026-12-20T16:30:00Z",
+              "finished": false
+            }
+          ],
+          "owned_players": [
+            "Mbeumo"
+          ]
+        },
+        {
+          "club": "Newcastle",
+          "club_id": 17,
+          "fixture_count": 1,
+          "status": "NORMAL",
+          "fixtures": [
+            {
+              "fixture_id": 153,
+              "opponent": "Brentford",
+              "home": false,
+              "kickoff": "2026-12-19T12:30:00Z",
+              "finished": false
+            }
+          ],
+          "owned_players": []
+        },
+        {
+          "club": "Nott'm Forest",
+          "club_id": 18,
+          "fixture_count": 1,
+          "status": "NORMAL",
+          "fixtures": [
+            {
+              "fixture_id": 159,
+              "opponent": "Everton",
+              "home": true,
+              "kickoff": "2026-12-20T14:00:00Z",
+              "finished": false
+            }
+          ],
+          "owned_players": [
+            "N.Williams"
+          ]
+        },
+        {
+          "club": "Spurs",
+          "club_id": 19,
+          "fixture_count": 1,
+          "status": "NORMAL",
+          "fixtures": [
+            {
+              "fixture_id": 157,
+              "opponent": "Liverpool",
+              "home": false,
+              "kickoff": "2026-12-19T17:30:00Z",
+              "finished": false
+            }
+          ],
+          "owned_players": []
+        },
+        {
+          "club": "Sunderland",
+          "club_id": 20,
+          "fixture_count": 1,
+          "status": "NORMAL",
+          "fixtures": [
+            {
+              "fixture_id": 160,
+              "opponent": "Crystal Palace",
+              "home": true,
+              "kickoff": "2026-12-20T14:00:00Z",
               "finished": false
             }
           ],
