@@ -26,7 +26,7 @@
         "name": "De Cuyper",
         "club": "Brighton",
         "position": 2,
-        "price": 5.4,
+        "price": 5.5,
         "opponent": "Brentford",
         "home": true,
         "difficulty": 3,
@@ -127,9 +127,9 @@
         "home": false,
         "difficulty": 3,
         "expected_minutes": 88.0,
-        "xg90": 0.298,
-        "xa90": 0.205,
-        "projected_points": 4.39,
+        "xg90": 0.311,
+        "xa90": 0.154,
+        "projected_points": 4.31,
         "status": "a",
         "news": ""
       },
@@ -182,7 +182,7 @@
         "news": ""
       }
     ],
-    "projected_points": 52.99
+    "projected_points": 52.91
   },
   "bench": [
     {

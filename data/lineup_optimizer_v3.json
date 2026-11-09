@@ -30,7 +30,7 @@
         "name": "De Cuyper",
         "club": "Brighton",
         "position": 2,
-        "price": 5.4,
+        "price": 5.5,
         "opponent": "Brentford",
         "home": true,
         "difficulty": 3,
@@ -140,13 +140,13 @@
         "home": false,
         "difficulty": 3,
         "expected_minutes": 88.0,
-        "xg90": 0.298,
-        "xa90": 0.205,
-        "projected_points": 4.39,
+        "xg90": 0.311,
+        "xa90": 0.154,
+        "projected_points": 4.31,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 4.76,
-        "opponent_adjustment": 0.37,
+        "strength_adjusted_points": 4.67,
+        "opponent_adjustment": 0.36,
         "opponent_league_position": 20,
         "opponent_attack_index": 0.746,
         "opponent_defensive_vulnerability_index": 1.24
@@ -236,7 +236,7 @@
         "opponent_defensive_vulnerability_index": 1.141
       }
     ],
-    "projected_points": 53.95
+    "projected_points": 53.86
   },
   "bench": [
     {
@@ -366,12 +366,12 @@
     "opponent_attack_index": 0.696,
     "opponent_defensive_vulnerability_index": 0.993
   },
-  "captain_adjusted_total": 59.76,
+  "captain_adjusted_total": 59.67,
   "comparison_to_v2": {
     "previous_formation": "3-4-3",
     "new_formation": "3-4-3",
-    "previous_projected_points": 52.99,
-    "new_projected_points": 53.95,
+    "previous_projected_points": 52.91,
+    "new_projected_points": 53.86,
     "players_added": [],
     "players_removed": [],
     "captain_changed": true,

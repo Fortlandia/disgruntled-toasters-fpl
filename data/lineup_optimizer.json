@@ -43,7 +43,7 @@
         "club": "Brighton",
         "club_id": 5,
         "position": 2,
-        "price": 5.4,
+        "price": 5.5,
         "minutes": 822,
         "form": 7.4,
         "xgi_per90": 0.43,
@@ -110,10 +110,10 @@
         "price": 8.2,
         "minutes": 880,
         "form": 4.6,
-        "xgi_per90": 0.5,
+        "xgi_per90": 0.47,
         "average_fixture_difficulty": 2.8,
         "fixtures_evaluated": 5,
-        "score": 18.11,
+        "score": 17.93,
         "already_owned": true,
         "club_full": false
       },
@@ -182,7 +182,7 @@
         "club_full": false
       }
     ],
-    "score": 233.18
+    "score": 233.0
   },
   "bench": [
     {

@@ -44,7 +44,7 @@
         "name": "De Cuyper",
         "club": "Brighton",
         "position": 2,
-        "price": 5.4,
+        "price": 5.5,
         "opponent": "Brentford",
         "home": true,
         "difficulty": 3,
@@ -219,17 +219,17 @@
         "home": false,
         "difficulty": 3,
         "expected_minutes": 88.0,
-        "xg90": 0.298,
-        "xa90": 0.205,
-        "projected_points": 4.39,
+        "xg90": 0.311,
+        "xa90": 0.154,
+        "projected_points": 4.31,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 4.82,
-        "opponent_adjustment": 0.37,
+        "strength_adjusted_points": 4.73,
+        "opponent_adjustment": 0.36,
         "opponent_league_position": 20,
         "opponent_attack_index": 0.746,
         "opponent_defensive_vulnerability_index": 1.24,
-        "v3_points": 4.76,
+        "v3_points": 4.67,
         "original_expected_minutes": 88.0,
         "recent_expected_minutes": 89.1,
         "minutes_adjustment_factor": 1.012,
@@ -241,7 +241,7 @@
           90,
           90
         ],
-        "minutes_adjusted_points": 4.82
+        "minutes_adjusted_points": 4.73
       },
       {
         "id": 124,
@@ -380,7 +380,7 @@
         "minutes_adjusted_points": 4.72
       }
     ],
-    "projected_points": 53.18
+    "projected_points": 53.09
   },
   "bench": [
     {
@@ -588,12 +588,12 @@
     ],
     "minutes_adjusted_points": 5.74
   },
-  "captain_adjusted_total": 58.93,
+  "captain_adjusted_total": 58.84,
   "comparison_to_v3": {
     "previous_formation": "3-4-3",
     "new_formation": "3-4-3",
-    "previous_projected_points": 53.95,
-    "new_projected_points": 53.18,
+    "previous_projected_points": 53.86,
+    "new_projected_points": 53.09,
     "players_added": [],
     "players_removed": [],
     "captain_changed": false,
@@ -665,8 +665,8 @@
     },
     {
       "name": "Rogers",
-      "v3_points": 4.76,
-      "v4_points": 4.82,
+      "v3_points": 4.67,
+      "v4_points": 4.73,
       "original_expected_minutes": 88.0,
       "recent_expected_minutes": 89.1,
       "adjustment_factor": 1.012,
