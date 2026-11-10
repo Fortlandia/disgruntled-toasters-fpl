@@ -138,7 +138,7 @@
         "entry_can_leave": false,
         "entry_last_rank": 2728737,
         "entry_percentile_rank": 30,
-        "entry_rank": 2342933,
+        "entry_rank": 2342934,
         "featured_entry_ids": [],
         "has_cup": false,
         "id": 276,
@@ -184,7 +184,7 @@
         "entry_can_leave": false,
         "entry_last_rank": 2734501,
         "entry_percentile_rank": 25,
-        "entry_rank": 2347349,
+        "entry_rank": 2347350,
         "featured_entry_ids": [],
         "has_cup": true,
         "id": 314,
@@ -322,7 +322,7 @@
         "entry_can_leave": false,
         "entry_last_rank": 763845,
         "entry_percentile_rank": 25,
-        "entry_rank": 670600,
+        "entry_rank": 670668,
         "featured_entry_ids": [],
         "has_cup": false,
         "id": 431170,
@@ -444,5 +444,5 @@
   "summary_overall_points": 610,
   "summary_event_points": 67,
   "summary_event_rank": 1939025,
-  "summary_overall_rank": 2347349
+  "summary_overall_rank": 2347350
 }

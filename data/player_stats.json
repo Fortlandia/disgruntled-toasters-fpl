@@ -5403,9 +5403,9 @@
     "expected_goals": "1.29",
     "expected_assists": "0.90",
     "minutes": 685,
-    "status": "a",
-    "news": "",
-    "chance_next_round": null
+    "status": "d",
+    "news": "Hamstring injury - 75% chance of playing",
+    "chance_next_round": 75
   },
   {
     "id": 287,
