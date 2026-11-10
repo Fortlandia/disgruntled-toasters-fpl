@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-10T07:17:25.382735+00:00",
+  "updated_utc": "2026-11-10T17:02:24.760140+00:00",
   "team": "Disgruntled Toasters",
   "next_gameweek": 11,
   "league_position": 5,
@@ -146,7 +146,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 34,
-      "form": "3.0",
+      "form": "3.5",
       "status": "a",
       "news": ""
     },
