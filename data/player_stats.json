@@ -4123,9 +4123,9 @@
     "expected_goals": "1.48",
     "expected_assists": "0.53",
     "minutes": 511,
-    "status": "a",
-    "news": "",
-    "chance_next_round": 100
+    "status": "d",
+    "news": "Ankle injury - 75% chance of playing",
+    "chance_next_round": 75
   },
   {
     "id": 223,
