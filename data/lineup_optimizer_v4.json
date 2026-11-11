@@ -463,15 +463,15 @@
       "expected_minutes": 42.2,
       "xg90": 0.08,
       "xa90": 0.049,
-      "projected_points": 1.93,
+      "projected_points": 1.9,
       "status": "d",
       "news": "Calf injury - 50% chance of playing",
-      "strength_adjusted_points": 1.62,
+      "strength_adjusted_points": 1.6,
       "opponent_adjustment": 0.1,
       "opponent_league_position": 20,
       "opponent_attack_index": 0.833,
       "opponent_defensive_vulnerability_index": 1.474,
-      "v3_points": 2.03,
+      "v3_points": 2.0,
       "original_expected_minutes": 42.2,
       "recent_expected_minutes": 14.9,
       "minutes_adjustment_factor": 0.8,
@@ -483,7 +483,7 @@
         0,
         0
       ],
-      "minutes_adjusted_points": 1.62
+      "minutes_adjusted_points": 1.6
     },
     {
       "id": 57,
@@ -728,8 +728,8 @@
     },
     {
       "name": "Thomas",
-      "v3_points": 2.03,
-      "v4_points": 1.62,
+      "v3_points": 2.0,
+      "v4_points": 1.6,
       "original_expected_minutes": 42.2,
       "recent_expected_minutes": 14.9,
       "adjustment_factor": 0.8,

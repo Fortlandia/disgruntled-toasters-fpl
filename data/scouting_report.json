@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-11T14:32:11.030155+00:00",
+  "updated_utc": "2026-11-11T21:57:13.823855+00:00",
   "team": "Disgruntled Toasters",
   "next_gameweek": 11,
   "league_position": 5,
@@ -168,7 +168,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 32,
-      "form": "1.6",
+      "form": "1.0",
       "status": "d",
       "news": "Calf injury - 50% chance of playing"
     }

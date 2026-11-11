@@ -327,22 +327,6 @@
       "club_full": false
     },
     {
-      "id": 183,
-      "name": "Rudoni",
-      "club": "Coventry City",
-      "club_id": 7,
-      "position": 3,
-      "price": 4.9,
-      "minutes": 730,
-      "form": 5.2,
-      "xgi_per90": 0.48,
-      "average_fixture_difficulty": 2.6,
-      "fixtures_evaluated": 5,
-      "score": 19.61,
-      "already_owned": false,
-      "club_full": false
-    },
-    {
       "id": 334,
       "name": "Muharemović",
       "club": "Leeds",
@@ -403,6 +387,22 @@
       "average_fixture_difficulty": 3.2,
       "fixtures_evaluated": 5,
       "score": 18.86,
+      "already_owned": false,
+      "club_full": false
+    },
+    {
+      "id": 183,
+      "name": "Rudoni",
+      "club": "Coventry City",
+      "club_id": 7,
+      "position": 3,
+      "price": 4.9,
+      "minutes": 730,
+      "form": 4.8,
+      "xgi_per90": 0.48,
+      "average_fixture_difficulty": 2.6,
+      "fixtures_evaluated": 5,
+      "score": 18.81,
       "already_owned": false,
       "club_full": false
     },
@@ -727,6 +727,22 @@
       "club_full": false
     },
     {
+      "id": 457,
+      "name": "J.Murphy",
+      "club": "Newcastle",
+      "club_id": 17,
+      "position": 3,
+      "price": 5.9,
+      "minutes": 433,
+      "form": 4.2,
+      "xgi_per90": 0.29,
+      "average_fixture_difficulty": 3.0,
+      "fixtures_evaluated": 5,
+      "score": 15.84,
+      "already_owned": false,
+      "club_full": false
+    },
+    {
       "id": 627,
       "name": "Barcola",
       "club": "Liverpool",
@@ -819,22 +835,6 @@
       "average_fixture_difficulty": 2.8,
       "fixtures_evaluated": 5,
       "score": 15.52,
-      "already_owned": false,
-      "club_full": false
-    },
-    {
-      "id": 37,
-      "name": "Lindelöf",
-      "club": "Aston Villa",
-      "club_id": 2,
-      "position": 2,
-      "price": 4.5,
-      "minutes": 900,
-      "form": 3.8,
-      "xgi_per90": 0.06,
-      "average_fixture_difficulty": 2.2,
-      "fixtures_evaluated": 5,
-      "score": 15.51,
       "already_owned": false,
       "club_full": false
     }

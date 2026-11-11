@@ -290,21 +290,6 @@
       "score": 20.88
     },
     {
-      "id": 183,
-      "name": "Rudoni",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 4.9,
-      "form": 5.2,
-      "xgi_per90": 0.48,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 20.81
-    },
-    {
       "id": 366,
       "name": "Wirtz",
       "club": "Liverpool",
@@ -378,6 +363,21 @@
       "status": "a",
       "news": "",
       "score": 20.29
+    },
+    {
+      "id": 183,
+      "name": "Rudoni",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 4.9,
+      "form": 4.8,
+      "xgi_per90": 0.48,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 20.01
     },
     {
       "id": 123,
@@ -862,21 +862,6 @@
       "score": 20.88
     },
     {
-      "id": 183,
-      "name": "Rudoni",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 4.9,
-      "form": 5.2,
-      "xgi_per90": 0.48,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 20.81
-    },
-    {
       "id": 366,
       "name": "Wirtz",
       "club": "Liverpool",
@@ -950,6 +935,21 @@
       "status": "a",
       "news": "",
       "score": 20.29
+    },
+    {
+      "id": 183,
+      "name": "Rudoni",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 4.9,
+      "form": 4.8,
+      "xgi_per90": 0.48,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 20.01
     },
     {
       "id": 123,
@@ -1402,6 +1402,21 @@
       "score": 16.54
     },
     {
+      "id": 492,
+      "name": "Awoniyi",
+      "club": "Coventry City",
+      "position": 4,
+      "price": 5.4,
+      "form": 3.2,
+      "xgi_per90": 0.41,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 16.43
+    },
+    {
       "id": 529,
       "name": "Roefs",
       "club": "Sunderland",
@@ -1597,21 +1612,6 @@
       "score": 15.8
     },
     {
-      "id": 599,
-      "name": "Cherif",
-      "club": "Coventry City",
-      "position": 4,
-      "price": 5.0,
-      "form": 3.4,
-      "xgi_per90": 0.15,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 15.53
-    },
-    {
       "id": 503,
       "name": "Van de Ven",
       "club": "Spurs",
@@ -1710,21 +1710,6 @@
       "form": 2.8,
       "xgi_per90": 0.33,
       "fixture": "Sunderland",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 15.23
-    },
-    {
-      "id": 492,
-      "name": "Awoniyi",
-      "club": "Coventry City",
-      "position": 4,
-      "price": 5.4,
-      "form": 2.6,
-      "xgi_per90": 0.41,
-      "fixture": "Crystal Palace",
       "home": true,
       "difficulty": 2,
       "status": "a",
@@ -1835,6 +1820,21 @@
       "status": "a",
       "news": "",
       "score": 14.81
+    },
+    {
+      "id": 185,
+      "name": "Sakamoto",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 4.8,
+      "form": 3.0,
+      "xgi_per90": 0.14,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 14.71
     },
     {
       "id": 148,
@@ -1972,19 +1972,19 @@
       "score": 14.29
     },
     {
-      "id": 194,
-      "name": "Thomas-Asante",
+      "id": 91,
+      "name": "Pinnock",
       "club": "Coventry City",
-      "position": 4,
-      "price": 5.0,
-      "form": 2.8,
-      "xgi_per90": 0.13,
+      "position": 2,
+      "price": 4.5,
+      "form": 3.0,
+      "xgi_per90": 0.05,
       "fixture": "Crystal Palace",
       "home": true,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 14.25
+      "score": 14.23
     },
     {
       "id": 640,
@@ -2062,6 +2062,21 @@
       "score": 13.99
     },
     {
+      "id": 655,
+      "name": "Gboho",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 5.5,
+      "form": 2.5,
+      "xgi_per90": 0.2,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 13.98
+    },
+    {
       "id": 87,
       "name": "Ajer",
       "club": "Brentford",
@@ -2075,36 +2090,6 @@
       "status": "a",
       "news": "",
       "score": 13.96
-    },
-    {
-      "id": 175,
-      "name": "van Ewijk",
-      "club": "Coventry City",
-      "position": 2,
-      "price": 3.9,
-      "form": 2.8,
-      "xgi_per90": 0.07,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 13.93
-    },
-    {
-      "id": 185,
-      "name": "Sakamoto",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 4.8,
-      "form": 2.6,
-      "xgi_per90": 0.14,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 13.91
     },
     {
       "id": 210,
@@ -2167,19 +2152,19 @@
       "score": 13.88
     },
     {
-      "id": 91,
-      "name": "Pinnock",
-      "club": "Coventry City",
-      "position": 2,
-      "price": 4.5,
-      "form": 2.8,
-      "xgi_per90": 0.05,
-      "fixture": "Crystal Palace",
+      "id": 457,
+      "name": "J.Murphy",
+      "club": "Newcastle",
+      "position": 3,
+      "price": 5.9,
+      "form": 4.2,
+      "xgi_per90": 0.29,
+      "fixture": "Arsenal",
       "home": true,
-      "difficulty": 2,
+      "difficulty": 4,
       "status": "a",
       "news": "",
-      "score": 13.83
+      "score": 13.84
     },
     {
       "id": 619,
@@ -2240,21 +2225,6 @@
       "status": "a",
       "news": "",
       "score": 13.79
-    },
-    {
-      "id": 656,
-      "name": "Mfuni",
-      "club": "Coventry City",
-      "position": 2,
-      "price": 4.0,
-      "form": 2.6,
-      "xgi_per90": 0.11,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 13.77
     },
     {
       "id": 155,
@@ -2377,6 +2347,36 @@
       "score": 13.16
     },
     {
+      "id": 188,
+      "name": "Torp",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 5.3,
+      "form": 2.0,
+      "xgi_per90": 0.22,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 13.11
+    },
+    {
+      "id": 194,
+      "name": "Thomas-Asante",
+      "club": "Coventry City",
+      "position": 4,
+      "price": 5.0,
+      "form": 2.2,
+      "xgi_per90": 0.13,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 13.05
+    },
+    {
       "id": 330,
       "name": "Bogle",
       "club": "Leeds",
@@ -2420,21 +2420,6 @@
       "status": "a",
       "news": "",
       "score": 13.0
-    },
-    {
-      "id": 655,
-      "name": "Gboho",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 5.5,
-      "form": 2.0,
-      "xgi_per90": 0.2,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 12.98
     },
     {
       "id": 592,
@@ -2602,21 +2587,6 @@
       "score": 12.72
     },
     {
-      "id": 188,
-      "name": "Torp",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 5.3,
-      "form": 1.8,
-      "xgi_per90": 0.22,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 12.71
-    },
-    {
       "id": 562,
       "name": "Maeda",
       "club": "Ipswich Town",
@@ -2630,36 +2600,6 @@
       "status": "a",
       "news": "",
       "score": 12.7
-    },
-    {
-      "id": 176,
-      "name": "Dasilva",
-      "club": "Coventry City",
-      "position": 2,
-      "price": 4.0,
-      "form": 2.0,
-      "xgi_per90": 0.13,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 12.65
-    },
-    {
-      "id": 457,
-      "name": "J.Murphy",
-      "club": "Newcastle",
-      "position": 3,
-      "price": 5.9,
-      "form": 3.6,
-      "xgi_per90": 0.29,
-      "fixture": "Arsenal",
-      "home": true,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 12.64
     },
     {
       "id": 536,
@@ -2687,6 +2627,21 @@
       "fixture": "Coventry City",
       "home": false,
       "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 12.6
+    },
+    {
+      "id": 453,
+      "name": "Barnes",
+      "club": "Newcastle",
+      "position": 3,
+      "price": 6.1,
+      "form": 3.5,
+      "xgi_per90": 0.32,
+      "fixture": "Arsenal",
+      "home": true,
+      "difficulty": 4,
       "status": "a",
       "news": "",
       "score": 12.6
@@ -2842,6 +2797,21 @@
       "score": 12.42
     },
     {
+      "id": 593,
+      "name": "Dedić",
+      "club": "Newcastle",
+      "position": 2,
+      "price": 4.4,
+      "form": 4.0,
+      "xgi_per90": 0.08,
+      "fixture": "Arsenal",
+      "home": true,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 12.41
+    },
+    {
       "id": 367,
       "name": "Gakpo",
       "club": "Liverpool",
@@ -2852,6 +2822,21 @@
       "fixture": "Man Utd",
       "home": true,
       "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 12.36
+    },
+    {
+      "id": 449,
+      "name": "Hall",
+      "club": "Newcastle",
+      "position": 2,
+      "price": 5.2,
+      "form": 3.8,
+      "xgi_per90": 0.15,
+      "fixture": "Arsenal",
+      "home": true,
+      "difficulty": 4,
       "status": "a",
       "news": "",
       "score": 12.36
@@ -2870,6 +2855,21 @@
       "status": "a",
       "news": "",
       "score": 12.34
+    },
+    {
+      "id": 175,
+      "name": "van Ewijk",
+      "club": "Coventry City",
+      "position": 2,
+      "price": 3.9,
+      "form": 2.0,
+      "xgi_per90": 0.07,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 12.33
     },
     {
       "id": 145,
@@ -2902,21 +2902,6 @@
       "score": 12.26
     },
     {
-      "id": 575,
-      "name": "Yirenkyi",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 4.8,
-      "form": 2.0,
-      "xgi_per90": 0.05,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 12.24
-    },
-    {
       "id": 211,
       "name": "Yeremy",
       "club": "Crystal Palace",
@@ -2945,21 +2930,6 @@
       "status": "a",
       "news": "",
       "score": 12.19
-    },
-    {
-      "id": 405,
-      "name": "N.Gonzalez",
-      "club": "Newcastle",
-      "position": 3,
-      "price": 5.5,
-      "form": 3.8,
-      "xgi_per90": 0.11,
-      "fixture": "Arsenal",
-      "home": true,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 12.16
     },
     {
       "id": 544,
@@ -3007,49 +2977,19 @@
       "score": 12.05
     },
     {
-      "id": 110,
-      "name": "Rushworth",
-      "club": "Coventry City",
-      "position": 1,
-      "price": 4.5,
-      "form": 2.0,
-      "xgi_per90": 0.0,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 12.02
-    },
-    {
-      "id": 453,
-      "name": "Barnes",
+      "id": 567,
+      "name": "Horníček",
       "club": "Newcastle",
-      "position": 3,
-      "price": 6.1,
-      "form": 3.2,
-      "xgi_per90": 0.32,
+      "position": 1,
+      "price": 5.0,
+      "form": 4.0,
+      "xgi_per90": 0.0,
       "fixture": "Arsenal",
       "home": true,
       "difficulty": 4,
       "status": "a",
       "news": "",
       "score": 12.0
-    },
-    {
-      "id": 195,
-      "name": "Simms",
-      "club": "Coventry City",
-      "position": 4,
-      "price": 4.9,
-      "form": 1.2,
-      "xgi_per90": 0.32,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 11.99
     },
     {
       "id": 34,
@@ -3157,21 +3097,6 @@
       "score": 11.85
     },
     {
-      "id": 173,
-      "name": "Thomas",
-      "club": "Coventry City",
-      "position": 2,
-      "price": 4.0,
-      "form": 1.6,
-      "xgi_per90": 0.13,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "d",
-      "news": "Calf injury - 50% chance of playing",
-      "score": 11.85
-    },
-    {
       "id": 315,
       "name": "Fatawu",
       "club": "Ipswich Town",
@@ -3262,6 +3187,36 @@
       "score": 11.74
     },
     {
+      "id": 584,
+      "name": "Hamer",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 5.3,
+      "form": 0.8,
+      "xgi_per90": 0.42,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 11.68
+    },
+    {
+      "id": 465,
+      "name": "Osula",
+      "club": "Newcastle",
+      "position": 4,
+      "price": 5.8,
+      "form": 3.2,
+      "xgi_per90": 0.25,
+      "fixture": "Arsenal",
+      "home": true,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 11.67
+    },
+    {
       "id": 17,
       "name": "Merino",
       "club": "Arsenal",
@@ -3275,6 +3230,21 @@
       "status": "a",
       "news": "",
       "score": 11.63
+    },
+    {
+      "id": 110,
+      "name": "Rushworth",
+      "club": "Coventry City",
+      "position": 1,
+      "price": 4.5,
+      "form": 1.8,
+      "xgi_per90": 0.0,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 11.62
     },
     {
       "id": 250,
@@ -3305,6 +3275,21 @@
       "status": "a",
       "news": "",
       "score": 11.59
+    },
+    {
+      "id": 656,
+      "name": "Mfuni",
+      "club": "Coventry City",
+      "position": 2,
+      "price": 4.0,
+      "form": 1.5,
+      "xgi_per90": 0.11,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 11.57
     },
     {
       "id": 25,
@@ -3350,21 +3335,6 @@
       "status": "a",
       "news": "",
       "score": 11.47
-    },
-    {
-      "id": 184,
-      "name": "Grimes",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 4.8,
-      "form": 1.6,
-      "xgi_per90": 0.05,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 11.46
     },
     {
       "id": 279,
@@ -3427,19 +3397,19 @@
       "score": 11.3
     },
     {
-      "id": 584,
-      "name": "Hamer",
+      "id": 184,
+      "name": "Grimes",
       "club": "Coventry City",
       "position": 3,
-      "price": 5.3,
-      "form": 0.6,
-      "xgi_per90": 0.42,
+      "price": 4.8,
+      "form": 1.5,
+      "xgi_per90": 0.05,
       "fixture": "Crystal Palace",
       "home": true,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 11.28
+      "score": 11.26
     },
     {
       "id": 12,
@@ -3472,19 +3442,19 @@
       "score": 11.25
     },
     {
-      "id": 186,
-      "name": "Mason-Clark",
+      "id": 575,
+      "name": "Yirenkyi",
       "club": "Coventry City",
       "position": 3,
-      "price": 5.3,
-      "form": 1.0,
-      "xgi_per90": 0.24,
+      "price": 4.8,
+      "form": 1.5,
+      "xgi_per90": 0.05,
       "fixture": "Crystal Palace",
       "home": true,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 11.21
+      "score": 11.24
     },
     {
       "id": 81,
@@ -3515,6 +3485,21 @@
       "status": "d",
       "news": "Hamstring injury - 50% chance of playing",
       "score": 11.16
+    },
+    {
+      "id": 599,
+      "name": "Cherif",
+      "club": "Coventry City",
+      "position": 4,
+      "price": 5.0,
+      "form": 1.2,
+      "xgi_per90": 0.15,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 11.13
     },
     {
       "id": 480,
@@ -3560,6 +3545,21 @@
       "status": "a",
       "news": "",
       "score": 11.08
+    },
+    {
+      "id": 176,
+      "name": "Dasilva",
+      "club": "Coventry City",
+      "position": 2,
+      "price": 4.0,
+      "form": 1.2,
+      "xgi_per90": 0.13,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 11.05
     },
     {
       "id": 286,
@@ -3667,21 +3667,6 @@
       "score": 10.92
     },
     {
-      "id": 465,
-      "name": "Osula",
-      "club": "Newcastle",
-      "position": 4,
-      "price": 5.8,
-      "form": 2.8,
-      "xgi_per90": 0.25,
-      "fixture": "Arsenal",
-      "home": true,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 10.87
-    },
-    {
       "id": 201,
       "name": "Muñoz",
       "club": "Nott'm Forest",
@@ -3742,21 +3727,6 @@
       "score": 10.82
     },
     {
-      "id": 593,
-      "name": "Dedić",
-      "club": "Newcastle",
-      "position": 2,
-      "price": 4.4,
-      "form": 3.2,
-      "xgi_per90": 0.08,
-      "fixture": "Arsenal",
-      "home": true,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 10.81
-    },
-    {
       "id": 152,
       "name": "Palestra",
       "club": "Chelsea",
@@ -3770,21 +3740,6 @@
       "status": "a",
       "news": "",
       "score": 10.78
-    },
-    {
-      "id": 449,
-      "name": "Hall",
-      "club": "Newcastle",
-      "position": 2,
-      "price": 5.2,
-      "form": 3.0,
-      "xgi_per90": 0.15,
-      "fixture": "Arsenal",
-      "home": true,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 10.76
     },
     {
       "id": 391,
@@ -3862,6 +3817,21 @@
       "score": 10.66
     },
     {
+      "id": 173,
+      "name": "Thomas",
+      "club": "Coventry City",
+      "position": 2,
+      "price": 4.0,
+      "form": 1.0,
+      "xgi_per90": 0.13,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "d",
+      "news": "Calf injury - 50% chance of playing",
+      "score": 10.65
+    },
+    {
       "id": 650,
       "name": "Affengruber",
       "club": "Fulham",
@@ -3922,6 +3892,21 @@
       "score": 10.58
     },
     {
+      "id": 405,
+      "name": "N.Gonzalez",
+      "club": "Newcastle",
+      "position": 3,
+      "price": 5.5,
+      "form": 3.0,
+      "xgi_per90": 0.11,
+      "fixture": "Arsenal",
+      "home": true,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 10.56
+    },
+    {
       "id": 226,
       "name": "Pickford",
       "club": "Everton",
@@ -3935,6 +3920,21 @@
       "status": "a",
       "news": "",
       "score": 10.42
+    },
+    {
+      "id": 448,
+      "name": "Burn",
+      "club": "Newcastle",
+      "position": 2,
+      "price": 4.8,
+      "form": 3.0,
+      "xgi_per90": 0.08,
+      "fixture": "Arsenal",
+      "home": true,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 10.41
     },
     {
       "id": 560,
@@ -3992,21 +3992,6 @@
       "fixture": "Fulham",
       "home": true,
       "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 10.4
-    },
-    {
-      "id": 567,
-      "name": "Horníček",
-      "club": "Newcastle",
-      "position": 1,
-      "price": 5.0,
-      "form": 3.2,
-      "xgi_per90": 0.0,
-      "fixture": "Arsenal",
-      "home": true,
-      "difficulty": 4,
       "status": "a",
       "news": "",
       "score": 10.4
@@ -4100,6 +4085,21 @@
       "status": "a",
       "news": "",
       "score": 10.24
+    },
+    {
+      "id": 186,
+      "name": "Mason-Clark",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 5.3,
+      "form": 0.5,
+      "xgi_per90": 0.24,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 10.21
     },
     {
       "id": 428,
@@ -4447,21 +4447,6 @@
       "score": 9.62
     },
     {
-      "id": 448,
-      "name": "Burn",
-      "club": "Newcastle",
-      "position": 2,
-      "price": 4.8,
-      "form": 2.6,
-      "xgi_per90": 0.08,
-      "fixture": "Arsenal",
-      "home": true,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 9.61
-    },
-    {
       "id": 190,
       "name": "Tchaouna",
       "club": "Coventry City",
@@ -4469,6 +4454,21 @@
       "price": 5.3,
       "form": 0.2,
       "xgi_per90": 0.24,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 9.59
+    },
+    {
+      "id": 195,
+      "name": "Simms",
+      "club": "Coventry City",
+      "position": 4,
+      "price": 4.9,
+      "form": 0.0,
+      "xgi_per90": 0.32,
       "fixture": "Crystal Palace",
       "home": true,
       "difficulty": 2,
@@ -4505,21 +4505,6 @@
       "status": "a",
       "news": "",
       "score": 9.55
-    },
-    {
-      "id": 104,
-      "name": "Onyeka",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 4.8,
-      "form": 0.6,
-      "xgi_per90": 0.07,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "d",
-      "news": "Groin injury - 50% chance of playing",
-      "score": 9.54
     },
     {
       "id": 122,
@@ -4655,6 +4640,36 @@
       "status": "a",
       "news": "",
       "score": 9.35
+    },
+    {
+      "id": 104,
+      "name": "Onyeka",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 4.8,
+      "form": 0.5,
+      "xgi_per90": 0.07,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "d",
+      "news": "Groin injury - 50% chance of playing",
+      "score": 9.34
+    },
+    {
+      "id": 446,
+      "name": "Schär",
+      "club": "Newcastle",
+      "position": 2,
+      "price": 4.9,
+      "form": 2.5,
+      "xgi_per90": 0.07,
+      "fixture": "Arsenal",
+      "home": true,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 9.34
     },
     {
       "id": 395,
@@ -4867,21 +4882,6 @@
       "score": 9.11
     },
     {
-      "id": 464,
-      "name": "Wissa",
-      "club": "Newcastle",
-      "position": 4,
-      "price": 5.9,
-      "form": 1.4,
-      "xgi_per90": 0.46,
-      "fixture": "Arsenal",
-      "home": true,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 9.09
-    },
-    {
       "id": 568,
       "name": "Barco",
       "club": "Chelsea",
@@ -4955,6 +4955,21 @@
       "status": "a",
       "news": "",
       "score": 8.98
+    },
+    {
+      "id": 460,
+      "name": "Willock",
+      "club": "Newcastle",
+      "position": 3,
+      "price": 5.0,
+      "form": 1.8,
+      "xgi_per90": 0.27,
+      "fixture": "Arsenal",
+      "home": true,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 8.95
     },
     {
       "id": 328,
@@ -5062,19 +5077,19 @@
       "score": 8.71
     },
     {
-      "id": 447,
-      "name": "Botman",
+      "id": 464,
+      "name": "Wissa",
       "club": "Newcastle",
-      "position": 2,
-      "price": 5.0,
-      "form": 2.2,
-      "xgi_per90": 0.06,
+      "position": 4,
+      "price": 5.9,
+      "form": 1.2,
+      "xgi_per90": 0.46,
       "fixture": "Arsenal",
       "home": true,
       "difficulty": 4,
       "status": "a",
       "news": "",
-      "score": 8.71
+      "score": 8.69
     },
     {
       "id": 569,
@@ -5105,21 +5120,6 @@
       "status": "a",
       "news": "",
       "score": 8.61
-    },
-    {
-      "id": 460,
-      "name": "Willock",
-      "club": "Newcastle",
-      "position": 3,
-      "price": 5.0,
-      "form": 1.6,
-      "xgi_per90": 0.27,
-      "fixture": "Arsenal",
-      "home": true,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 8.55
     },
     {
       "id": 203,
@@ -5345,21 +5345,6 @@
       "status": "a",
       "news": "",
       "score": 8.37
-    },
-    {
-      "id": 446,
-      "name": "Schär",
-      "club": "Newcastle",
-      "position": 2,
-      "price": 4.9,
-      "form": 2.0,
-      "xgi_per90": 0.07,
-      "fixture": "Arsenal",
-      "home": true,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 8.34
     },
     {
       "id": 208,
@@ -6352,21 +6337,6 @@
       "score": 7.7
     },
     {
-      "id": 461,
-      "name": "Touré",
-      "club": "Newcastle",
-      "position": 3,
-      "price": 5.7,
-      "form": 0.6,
-      "xgi_per90": 0.5,
-      "fixture": "Arsenal",
-      "home": true,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 7.68
-    },
-    {
       "id": 162,
       "name": "Andrey Santos",
       "club": "Man Utd",
@@ -6380,6 +6350,21 @@
       "status": "a",
       "news": "",
       "score": 7.67
+    },
+    {
+      "id": 454,
+      "name": "Elanga",
+      "club": "Newcastle",
+      "position": 3,
+      "price": 6.0,
+      "form": 1.0,
+      "xgi_per90": 0.33,
+      "fixture": "Arsenal",
+      "home": true,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 7.65
     },
     {
       "id": 633,
@@ -6457,6 +6442,21 @@
       "score": 7.54
     },
     {
+      "id": 461,
+      "name": "Touré",
+      "club": "Newcastle",
+      "position": 3,
+      "price": 5.7,
+      "form": 0.5,
+      "xgi_per90": 0.5,
+      "fixture": "Arsenal",
+      "home": true,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 7.48
+    },
+    {
       "id": 608,
       "name": "Jebbison",
       "club": "Bournemouth",
@@ -6485,6 +6485,21 @@
       "status": "a",
       "news": "",
       "score": 7.45
+    },
+    {
+      "id": 458,
+      "name": "Joelinton",
+      "club": "Newcastle",
+      "position": 3,
+      "price": 5.4,
+      "form": 1.5,
+      "xgi_per90": 0.09,
+      "fixture": "Arsenal",
+      "home": true,
+      "difficulty": 4,
+      "status": "i",
+      "news": "Unspecified injury - Unknown return date",
+      "score": 7.44
     },
     {
       "id": 335,
@@ -6527,21 +6542,6 @@
       "fixture": "Man City",
       "home": false,
       "difficulty": 5,
-      "status": "a",
-      "news": "",
-      "score": 7.25
-    },
-    {
-      "id": 454,
-      "name": "Elanga",
-      "club": "Newcastle",
-      "position": 3,
-      "price": 6.0,
-      "form": 0.8,
-      "xgi_per90": 0.33,
-      "fixture": "Arsenal",
-      "home": true,
-      "difficulty": 4,
       "status": "a",
       "news": "",
       "score": 7.25
@@ -6682,36 +6682,6 @@
       "score": 6.9
     },
     {
-      "id": 458,
-      "name": "Joelinton",
-      "club": "Newcastle",
-      "position": 3,
-      "price": 5.4,
-      "form": 1.2,
-      "xgi_per90": 0.09,
-      "fixture": "Arsenal",
-      "home": true,
-      "difficulty": 4,
-      "status": "i",
-      "news": "Unspecified injury - Unknown return date",
-      "score": 6.84
-    },
-    {
-      "id": 634,
-      "name": "Fernandez-Pardo",
-      "club": "Newcastle",
-      "position": 4,
-      "price": 5.8,
-      "form": 0.8,
-      "xgi_per90": 0.25,
-      "fixture": "Arsenal",
-      "home": true,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 6.83
-    },
-    {
       "id": 550,
       "name": "Jocelin.T",
       "club": "Sunderland",
@@ -6770,6 +6740,21 @@
       "status": "a",
       "news": "",
       "score": 6.73
+    },
+    {
+      "id": 462,
+      "name": "Steur",
+      "club": "Newcastle",
+      "position": 3,
+      "price": 4.8,
+      "form": 1.2,
+      "xgi_per90": 0.05,
+      "fixture": "Arsenal",
+      "home": true,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 6.65
     },
     {
       "id": 576,
@@ -7057,19 +7042,19 @@
       "score": 6.26
     },
     {
-      "id": 462,
-      "name": "Steur",
+      "id": 634,
+      "name": "Fernandez-Pardo",
       "club": "Newcastle",
-      "position": 3,
-      "price": 4.8,
-      "form": 1.0,
-      "xgi_per90": 0.05,
+      "position": 4,
+      "price": 5.8,
+      "form": 0.5,
+      "xgi_per90": 0.25,
       "fixture": "Arsenal",
       "home": true,
       "difficulty": 4,
       "status": "a",
       "news": "",
-      "score": 6.25
+      "score": 6.23
     },
     {
       "id": 102,
@@ -7100,6 +7085,21 @@
       "status": "a",
       "news": "",
       "score": 6.17
+    },
+    {
+      "id": 445,
+      "name": "Thiaw",
+      "club": "Newcastle",
+      "position": 2,
+      "price": 4.9,
+      "form": 1.0,
+      "xgi_per90": 0.02,
+      "fixture": "Arsenal",
+      "home": true,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 6.1
     },
     {
       "id": 535,
@@ -7852,6 +7852,21 @@
       "score": 6.0
     },
     {
+      "id": 447,
+      "name": "Botman",
+      "club": "Newcastle",
+      "position": 2,
+      "price": 5.0,
+      "form": 0.8,
+      "xgi_per90": 0.06,
+      "fixture": "Arsenal",
+      "home": true,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 5.91
+    },
+    {
       "id": 635,
       "name": "Larsson",
       "club": "Fulham",
@@ -7865,21 +7880,6 @@
       "status": "a",
       "news": "",
       "score": 5.84
-    },
-    {
-      "id": 445,
-      "name": "Thiaw",
-      "club": "Newcastle",
-      "position": 2,
-      "price": 4.9,
-      "form": 0.8,
-      "xgi_per90": 0.02,
-      "fixture": "Arsenal",
-      "home": true,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 5.7
     },
     {
       "id": 487,
