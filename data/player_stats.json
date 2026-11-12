@@ -795,9 +795,9 @@
     "expected_goals": "1.67",
     "expected_assists": "0.87",
     "minutes": 461,
-    "status": "a",
-    "news": "",
-    "chance_next_round": 100
+    "status": "d",
+    "news": "Calf injury - 75% chance of playing",
+    "chance_next_round": 75
   },
   {
     "id": 54,

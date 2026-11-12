@@ -311,22 +311,6 @@
       "club_full": false
     },
     {
-      "id": 53,
-      "name": "Manzambi",
-      "club": "Aston Villa",
-      "club_id": 2,
-      "position": 3,
-      "price": 6.2,
-      "minutes": 461,
-      "form": 5.2,
-      "xgi_per90": 0.5,
-      "average_fixture_difficulty": 2.2,
-      "fixtures_evaluated": 5,
-      "score": 20.48,
-      "already_owned": false,
-      "club_full": false
-    },
-    {
       "id": 334,
       "name": "Muharemović",
       "club": "Leeds",
@@ -835,6 +819,22 @@
       "average_fixture_difficulty": 2.8,
       "fixtures_evaluated": 5,
       "score": 15.52,
+      "already_owned": false,
+      "club_full": false
+    },
+    {
+      "id": 37,
+      "name": "Lindelöf",
+      "club": "Aston Villa",
+      "club_id": 2,
+      "position": 2,
+      "price": 4.5,
+      "minutes": 900,
+      "form": 3.8,
+      "xgi_per90": 0.06,
+      "average_fixture_difficulty": 2.2,
+      "fixtures_evaluated": 5,
+      "score": 15.51,
       "already_owned": false,
       "club_full": false
     }

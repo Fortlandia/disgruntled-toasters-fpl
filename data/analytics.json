@@ -275,21 +275,6 @@
       "score": 21.05
     },
     {
-      "id": 53,
-      "name": "Manzambi",
-      "club": "Aston Villa",
-      "position": 3,
-      "price": 6.2,
-      "form": 5.2,
-      "xgi_per90": 0.5,
-      "fixture": "Sunderland",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 20.88
-    },
-    {
       "id": 366,
       "name": "Wirtz",
       "club": "Liverpool",
@@ -573,6 +558,21 @@
       "status": "a",
       "news": "",
       "score": 18.28
+    },
+    {
+      "id": 334,
+      "name": "Muharemović",
+      "club": "Leeds",
+      "position": 2,
+      "price": 5.1,
+      "form": 6.8,
+      "xgi_per90": 0.09,
+      "fixture": "Chelsea",
+      "home": false,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 18.05
     }
   ],
   "all_players": [
@@ -857,8 +857,8 @@
       "fixture": "Sunderland",
       "home": true,
       "difficulty": 2,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Calf injury - 75% chance of playing",
       "score": 20.88
     },
     {
