@@ -2507,9 +2507,9 @@
     "expected_goals": "0.15",
     "expected_assists": "0.00",
     "minutes": 37,
-    "status": "a",
-    "news": "",
-    "chance_next_round": null
+    "status": "d",
+    "news": "Unspecified injury - 75% chance of playing",
+    "chance_next_round": 75
   },
   {
     "id": 624,
@@ -2539,9 +2539,9 @@
     "expected_goals": "0.54",
     "expected_assists": "0.31",
     "minutes": 450,
-    "status": "a",
-    "news": "",
-    "chance_next_round": 100
+    "status": "d",
+    "news": "Hip injury - 75% chance of playing",
+    "chance_next_round": 75
   },
   {
     "id": 652,
@@ -8155,9 +8155,9 @@
     "expected_goals": "1.13",
     "expected_assists": "0.25",
     "minutes": 195,
-    "status": "a",
-    "news": "",
-    "chance_next_round": 100
+    "status": "d",
+    "news": "Hamstring injury - 75% chance of playing",
+    "chance_next_round": 75
   },
   {
     "id": 416,

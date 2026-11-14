@@ -2537,8 +2537,8 @@
       "fixture": "Liverpool",
       "home": false,
       "difficulty": 4,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Hamstring injury - 75% chance of playing",
       "score": 12.78
     },
     {
@@ -3437,8 +3437,8 @@
       "fixture": "Hull City",
       "home": false,
       "difficulty": 2,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Hip injury - 75% chance of playing",
       "score": 11.25
     },
     {
@@ -3722,8 +3722,8 @@
       "fixture": "Hull City",
       "home": false,
       "difficulty": 2,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Unspecified injury - 75% chance of playing",
       "score": 10.82
     },
     {
