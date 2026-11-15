@@ -9563,9 +9563,9 @@
     "expected_goals": "0.37",
     "expected_assists": "0.41",
     "minutes": 756,
-    "status": "a",
-    "news": "",
-    "chance_next_round": null
+    "status": "d",
+    "news": "Thigh injury - 75% chance of playing",
+    "chance_next_round": 75
   },
   {
     "id": 581,
