@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-16T06:27:22.580337+00:00",
+  "updated_utc": "2026-11-16T19:36:05.564538+00:00",
   "team": "Disgruntled Toasters",
   "next_gameweek": 11,
   "league_position": 5,
@@ -80,7 +80,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 52,
-      "form": "3.5",
+      "form": "4.0",
       "status": "a",
       "news": ""
     },
@@ -102,7 +102,7 @@
       "captain": true,
       "vice_captain": false,
       "total_points": 70,
-      "form": "6.2",
+      "form": "4.0",
       "status": "a",
       "news": ""
     },
@@ -124,7 +124,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 54,
-      "form": "8.8",
+      "form": "11.0",
       "status": "a",
       "news": ""
     },
@@ -147,8 +147,8 @@
       "vice_captain": false,
       "total_points": 34,
       "form": "3.5",
-      "status": "a",
-      "news": ""
+      "status": "d",
+      "news": "Ankle injury - 75% chance of playing"
     },
     {
       "name": "Janelt",
@@ -157,7 +157,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 37,
-      "form": "1.5",
+      "form": "2.3",
       "status": "a",
       "news": ""
     },

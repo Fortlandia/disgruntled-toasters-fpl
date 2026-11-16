@@ -102,6 +102,22 @@
         "club_full": false
       },
       {
+        "id": 40,
+        "name": "Rogers",
+        "club": "Chelsea",
+        "club_id": 6,
+        "position": 3,
+        "price": 8.2,
+        "minutes": 880,
+        "form": 4.0,
+        "xgi_per90": 0.47,
+        "average_fixture_difficulty": 3.2,
+        "fixtures_evaluated": 5,
+        "score": 15.93,
+        "already_owned": true,
+        "club_full": false
+      },
+      {
         "id": 427,
         "name": "Mbeumo",
         "club": "Man Utd",
@@ -118,22 +134,6 @@
         "club_full": false
       },
       {
-        "id": 40,
-        "name": "Rogers",
-        "club": "Chelsea",
-        "club_id": 6,
-        "position": 3,
-        "price": 8.2,
-        "minutes": 880,
-        "form": 3.5,
-        "xgi_per90": 0.47,
-        "average_fixture_difficulty": 3.2,
-        "fixtures_evaluated": 5,
-        "score": 14.93,
-        "already_owned": true,
-        "club_full": false
-      },
-      {
         "id": 166,
         "name": "N.Jackson",
         "club": "Aston Villa",
@@ -141,11 +141,11 @@
         "position": 4,
         "price": 7.1,
         "minutes": 722,
-        "form": 8.8,
+        "form": 11.0,
         "xgi_per90": 0.54,
         "average_fixture_difficulty": 2.2,
         "fixtures_evaluated": 5,
-        "score": 27.92,
+        "score": 32.32,
         "already_owned": true,
         "club_full": false
       },
@@ -173,34 +173,18 @@
         "position": 4,
         "price": 15.8,
         "minutes": 889,
-        "form": 6.2,
+        "form": 4.0,
         "xgi_per90": 0.8,
         "average_fixture_difficulty": 3.6,
         "fixtures_evaluated": 5,
-        "score": 21.21,
+        "score": 16.81,
         "already_owned": true,
         "club_full": false
       }
     ],
-    "score": 225.19
+    "score": 226.19
   },
   "bench": [
-    {
-      "id": 469,
-      "name": "N.Williams",
-      "club": "Nott'm Forest",
-      "club_id": 18,
-      "position": 2,
-      "price": 4.9,
-      "minutes": 893,
-      "form": 3.5,
-      "xgi_per90": 0.21,
-      "average_fixture_difficulty": 3.4,
-      "fixtures_evaluated": 5,
-      "score": 13.27,
-      "already_owned": true,
-      "club_full": false
-    },
     {
       "id": 98,
       "name": "Janelt",
@@ -209,11 +193,11 @@
       "position": 3,
       "price": 5.0,
       "minutes": 810,
-      "form": 1.5,
+      "form": 2.3,
       "xgi_per90": 0.13,
       "average_fixture_difficulty": 3.4,
       "fixtures_evaluated": 5,
-      "score": 8.84,
+      "score": 10.44,
       "already_owned": true,
       "club_full": false
     },
@@ -242,11 +226,11 @@
     "position": 4,
     "price": 7.1,
     "minutes": 722,
-    "form": 8.8,
+    "form": 11.0,
     "xgi_per90": 0.54,
     "average_fixture_difficulty": 2.2,
     "fixtures_evaluated": 5,
-    "score": 27.92,
+    "score": 32.32,
     "already_owned": true,
     "club_full": false
   },
