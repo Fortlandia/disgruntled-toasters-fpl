@@ -17,15 +17,15 @@
         "expected_minutes": 90,
         "xg90": 0.0,
         "xa90": 0.001,
-        "projected_points": 3.62,
+        "projected_points": 3.52,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 3.68,
+        "strength_adjusted_points": 3.58,
         "opponent_adjustment": 0.06,
         "opponent_league_position": 12,
         "opponent_attack_index": 0.97,
         "opponent_defensive_vulnerability_index": 1.108,
-        "v3_points": 3.68,
+        "v3_points": 3.58,
         "original_expected_minutes": 90,
         "recent_expected_minutes": 90,
         "minutes_adjustment_factor": 1.0,
@@ -37,7 +37,7 @@
           90,
           90
         ],
-        "minutes_adjusted_points": 3.68
+        "minutes_adjusted_points": 3.58
       },
       {
         "id": 115,
@@ -51,15 +51,15 @@
         "expected_minutes": 82.2,
         "xg90": 0.267,
         "xa90": 0.16,
-        "projected_points": 5.71,
+        "projected_points": 5.69,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 5.58,
+        "strength_adjusted_points": 5.57,
         "opponent_adjustment": 0.0,
         "opponent_league_position": 13,
         "opponent_attack_index": 0.879,
         "opponent_defensive_vulnerability_index": 0.879,
-        "v3_points": 5.71,
+        "v3_points": 5.69,
         "original_expected_minutes": 82.2,
         "recent_expected_minutes": 80.4,
         "minutes_adjustment_factor": 0.978,
@@ -71,7 +71,7 @@
           71,
           81
         ],
-        "minutes_adjusted_points": 5.58
+        "minutes_adjusted_points": 5.57
       },
       {
         "id": 31,
@@ -85,15 +85,15 @@
         "expected_minutes": 90,
         "xg90": 0.079,
         "xa90": 0.005,
-        "projected_points": 4.51,
+        "projected_points": 4.52,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 4.59,
+        "strength_adjusted_points": 4.6,
         "opponent_adjustment": 0.08,
         "opponent_league_position": 12,
         "opponent_attack_index": 0.97,
         "opponent_defensive_vulnerability_index": 1.108,
-        "v3_points": 4.59,
+        "v3_points": 4.6,
         "original_expected_minutes": 90,
         "recent_expected_minutes": 90,
         "minutes_adjustment_factor": 1.0,
@@ -105,7 +105,7 @@
           90,
           90
         ],
-        "minutes_adjusted_points": 4.59
+        "minutes_adjusted_points": 4.6
       },
       {
         "id": 8,
@@ -119,15 +119,15 @@
         "expected_minutes": 85.2,
         "xg90": 0.143,
         "xa90": 0.119,
-        "projected_points": 4.35,
+        "projected_points": 4.29,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 3.56,
-        "opponent_adjustment": 0.08,
+        "strength_adjusted_points": 3.51,
+        "opponent_adjustment": 0.07,
         "opponent_league_position": 12,
         "opponent_attack_index": 0.97,
         "opponent_defensive_vulnerability_index": 1.108,
-        "v3_points": 4.43,
+        "v3_points": 4.36,
         "original_expected_minutes": 85.2,
         "recent_expected_minutes": 68.5,
         "minutes_adjustment_factor": 0.804,
@@ -139,7 +139,7 @@
           90,
           68
         ],
-        "minutes_adjusted_points": 3.56
+        "minutes_adjusted_points": 3.51
       },
       {
         "id": 68,
@@ -153,15 +153,15 @@
         "expected_minutes": 84.0,
         "xg90": 0.451,
         "xa90": 0.155,
-        "projected_points": 4.99,
+        "projected_points": 4.85,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 5.08,
+        "strength_adjusted_points": 4.94,
         "opponent_adjustment": -0.05,
         "opponent_league_position": 16,
         "opponent_attack_index": 0.787,
         "opponent_defensive_vulnerability_index": 0.97,
-        "v3_points": 4.94,
+        "v3_points": 4.8,
         "original_expected_minutes": 84.0,
         "recent_expected_minutes": 86.4,
         "minutes_adjustment_factor": 1.029,
@@ -173,7 +173,7 @@
           90,
           90
         ],
-        "minutes_adjusted_points": 5.08
+        "minutes_adjusted_points": 4.94
       },
       {
         "id": 124,
@@ -187,15 +187,15 @@
         "expected_minutes": 88.0,
         "xg90": 0.31,
         "xa90": 0.227,
-        "projected_points": 4.9,
+        "projected_points": 4.87,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 4.65,
+        "strength_adjusted_points": 4.62,
         "opponent_adjustment": -0.21,
         "opponent_league_position": 13,
         "opponent_attack_index": 0.879,
         "opponent_defensive_vulnerability_index": 0.879,
-        "v3_points": 4.69,
+        "v3_points": 4.66,
         "original_expected_minutes": 88.0,
         "recent_expected_minutes": 87.3,
         "minutes_adjustment_factor": 0.992,
@@ -207,41 +207,7 @@
           90,
           90
         ],
-        "minutes_adjusted_points": 4.65
-      },
-      {
-        "id": 427,
-        "name": "Mbeumo",
-        "club": "Man Utd",
-        "position": 3,
-        "price": 7.9,
-        "opponent": "Liverpool",
-        "home": false,
-        "difficulty": 4,
-        "expected_minutes": 89.2,
-        "xg90": 0.467,
-        "xa90": 0.13,
-        "projected_points": 4.4,
-        "status": "a",
-        "news": "",
-        "strength_adjusted_points": 4.05,
-        "opponent_adjustment": -0.26,
-        "opponent_league_position": 4,
-        "opponent_attack_index": 1.016,
-        "opponent_defensive_vulnerability_index": 0.833,
-        "v3_points": 4.14,
-        "original_expected_minutes": 89.2,
-        "recent_expected_minutes": 87.3,
-        "minutes_adjustment_factor": 0.979,
-        "rotation_risk": "Low",
-        "recent_minutes": [
-          90,
-          90,
-          90,
-          90,
-          82
-        ],
-        "minutes_adjusted_points": 4.05
+        "minutes_adjusted_points": 4.62
       },
       {
         "id": 40,
@@ -276,6 +242,40 @@
           90
         ],
         "minutes_adjusted_points": 3.94
+      },
+      {
+        "id": 427,
+        "name": "Mbeumo",
+        "club": "Man Utd",
+        "position": 3,
+        "price": 7.9,
+        "opponent": "Liverpool",
+        "home": false,
+        "difficulty": 4,
+        "expected_minutes": 89.2,
+        "xg90": 0.467,
+        "xa90": 0.13,
+        "projected_points": 4.22,
+        "status": "a",
+        "news": "",
+        "strength_adjusted_points": 3.89,
+        "opponent_adjustment": -0.25,
+        "opponent_league_position": 4,
+        "opponent_attack_index": 1.016,
+        "opponent_defensive_vulnerability_index": 0.833,
+        "v3_points": 3.97,
+        "original_expected_minutes": 89.2,
+        "recent_expected_minutes": 87.3,
+        "minutes_adjustment_factor": 0.979,
+        "rotation_risk": "Low",
+        "recent_minutes": [
+          90,
+          90,
+          90,
+          90,
+          82
+        ],
+        "minutes_adjusted_points": 3.89
       },
       {
         "id": 411,
@@ -357,15 +357,15 @@
         "expected_minutes": 83.7,
         "xg90": 0.478,
         "xa90": 0.113,
-        "projected_points": 4.51,
+        "projected_points": 4.4,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 4.35,
+        "strength_adjusted_points": 4.24,
         "opponent_adjustment": -0.05,
         "opponent_league_position": 16,
         "opponent_attack_index": 0.787,
         "opponent_defensive_vulnerability_index": 0.97,
-        "v3_points": 4.46,
+        "v3_points": 4.35,
         "original_expected_minutes": 83.7,
         "recent_expected_minutes": 81.6,
         "minutes_adjustment_factor": 0.975,
@@ -377,10 +377,10 @@
           75,
           84
         ],
-        "minutes_adjusted_points": 4.35
+        "minutes_adjusted_points": 4.24
       }
     ],
-    "projected_points": 50.05
+    "projected_points": 49.46
   },
   "bench": [
     {
@@ -395,15 +395,15 @@
       "expected_minutes": 67.0,
       "xg90": 0.097,
       "xa90": 0.117,
-      "projected_points": 2.69,
+      "projected_points": 2.71,
       "status": "d",
       "news": "Ankle injury - 75% chance of playing",
-      "strength_adjusted_points": 2.64,
+      "strength_adjusted_points": 2.66,
       "opponent_adjustment": -0.03,
       "opponent_league_position": 7,
       "opponent_attack_index": 1.108,
       "opponent_defensive_vulnerability_index": 1.016,
-      "v3_points": 2.66,
+      "v3_points": 2.68,
       "original_expected_minutes": 67.0,
       "recent_expected_minutes": 66.4,
       "minutes_adjustment_factor": 0.991,
@@ -415,7 +415,7 @@
         90,
         90
       ],
-      "minutes_adjusted_points": 2.64
+      "minutes_adjusted_points": 2.66
     },
     {
       "id": 98,
@@ -497,15 +497,15 @@
       "expected_minutes": 90,
       "xg90": 0.0,
       "xa90": 0.0,
-      "projected_points": 3.42,
+      "projected_points": 3.4,
       "status": "a",
       "news": "",
-      "strength_adjusted_points": 3.5,
+      "strength_adjusted_points": 3.48,
       "opponent_adjustment": 0.08,
       "opponent_league_position": 16,
       "opponent_attack_index": 0.787,
       "opponent_defensive_vulnerability_index": 0.97,
-      "v3_points": 3.5,
+      "v3_points": 3.48,
       "original_expected_minutes": 90,
       "recent_expected_minutes": 90,
       "minutes_adjustment_factor": 1.0,
@@ -517,7 +517,7 @@
         90,
         90
       ],
-      "minutes_adjusted_points": 3.5
+      "minutes_adjusted_points": 3.48
     }
   ],
   "captain": {
@@ -532,15 +532,15 @@
     "expected_minutes": 82.2,
     "xg90": 0.267,
     "xa90": 0.16,
-    "projected_points": 5.71,
+    "projected_points": 5.69,
     "status": "a",
     "news": "",
-    "strength_adjusted_points": 5.58,
+    "strength_adjusted_points": 5.57,
     "opponent_adjustment": 0.0,
     "opponent_league_position": 13,
     "opponent_attack_index": 0.879,
     "opponent_defensive_vulnerability_index": 0.879,
-    "v3_points": 5.71,
+    "v3_points": 5.69,
     "original_expected_minutes": 82.2,
     "recent_expected_minutes": 80.4,
     "minutes_adjustment_factor": 0.978,
@@ -552,7 +552,7 @@
       71,
       81
     ],
-    "minutes_adjusted_points": 5.58
+    "minutes_adjusted_points": 5.57
   },
   "vice_captain": {
     "id": 411,
@@ -588,12 +588,12 @@
     ],
     "minutes_adjusted_points": 5.39
   },
-  "captain_adjusted_total": 55.63,
+  "captain_adjusted_total": 55.03,
   "comparison_to_v3": {
     "previous_formation": "3-4-3",
     "new_formation": "3-4-3",
-    "previous_projected_points": 50.68,
-    "new_projected_points": 50.05,
+    "previous_projected_points": 50.05,
+    "new_projected_points": 49.46,
     "players_added": [],
     "players_removed": [],
     "captain_changed": false,
@@ -602,8 +602,8 @@
   "player_adjustments": [
     {
       "name": "De Cuyper",
-      "v3_points": 5.71,
-      "v4_points": 5.58,
+      "v3_points": 5.69,
+      "v4_points": 5.57,
       "original_expected_minutes": 82.2,
       "recent_expected_minutes": 80.4,
       "adjustment_factor": 0.978,
@@ -620,8 +620,8 @@
     },
     {
       "name": "Tavernier",
-      "v3_points": 4.94,
-      "v4_points": 5.08,
+      "v3_points": 4.8,
+      "v4_points": 4.94,
       "original_expected_minutes": 84.0,
       "recent_expected_minutes": 86.4,
       "adjustment_factor": 1.029,
@@ -638,8 +638,8 @@
     },
     {
       "name": "Groß",
-      "v3_points": 4.69,
-      "v4_points": 4.65,
+      "v3_points": 4.66,
+      "v4_points": 4.62,
       "original_expected_minutes": 88.0,
       "recent_expected_minutes": 87.3,
       "adjustment_factor": 0.992,
@@ -647,35 +647,35 @@
     },
     {
       "name": "Konsa",
-      "v3_points": 4.59,
-      "v4_points": 4.59,
+      "v3_points": 4.6,
+      "v4_points": 4.6,
       "original_expected_minutes": 90,
       "recent_expected_minutes": 90,
       "adjustment_factor": 1.0,
       "rotation_risk": "Low"
     },
     {
-      "name": "Evanilson",
-      "v3_points": 4.46,
-      "v4_points": 4.35,
-      "original_expected_minutes": 83.7,
-      "recent_expected_minutes": 81.6,
-      "adjustment_factor": 0.975,
-      "rotation_risk": "Low"
-    },
-    {
       "name": "Calafiori",
-      "v3_points": 4.43,
-      "v4_points": 3.56,
+      "v3_points": 4.36,
+      "v4_points": 3.51,
       "original_expected_minutes": 85.2,
       "recent_expected_minutes": 68.5,
       "adjustment_factor": 0.804,
       "rotation_risk": "Low"
     },
     {
+      "name": "Evanilson",
+      "v3_points": 4.35,
+      "v4_points": 4.24,
+      "original_expected_minutes": 83.7,
+      "recent_expected_minutes": 81.6,
+      "adjustment_factor": 0.975,
+      "rotation_risk": "Low"
+    },
+    {
       "name": "Mbeumo",
-      "v3_points": 4.14,
-      "v4_points": 4.05,
+      "v3_points": 3.97,
+      "v4_points": 3.89,
       "original_expected_minutes": 89.2,
       "recent_expected_minutes": 87.3,
       "adjustment_factor": 0.979,
@@ -692,8 +692,8 @@
     },
     {
       "name": "Raya",
-      "v3_points": 3.68,
-      "v4_points": 3.68,
+      "v3_points": 3.58,
+      "v4_points": 3.58,
       "original_expected_minutes": 90,
       "recent_expected_minutes": 90,
       "adjustment_factor": 1.0,
@@ -701,8 +701,8 @@
     },
     {
       "name": "Petrović",
-      "v3_points": 3.5,
-      "v4_points": 3.5,
+      "v3_points": 3.48,
+      "v4_points": 3.48,
       "original_expected_minutes": 90,
       "recent_expected_minutes": 90,
       "adjustment_factor": 1.0,
@@ -710,8 +710,8 @@
     },
     {
       "name": "N.Williams",
-      "v3_points": 2.66,
-      "v4_points": 2.64,
+      "v3_points": 2.68,
+      "v4_points": 2.66,
       "original_expected_minutes": 67.0,
       "recent_expected_minutes": 66.4,
       "adjustment_factor": 0.991,

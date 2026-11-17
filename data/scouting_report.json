@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-17T03:53:05.099247+00:00",
+  "updated_utc": "2026-11-17T15:59:19.011438+00:00",
   "team": "Disgruntled Toasters",
   "next_gameweek": 11,
   "league_position": 5,
@@ -14,7 +14,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 60,
-      "form": "6.8",
+      "form": "6.0",
       "status": "a",
       "news": ""
     },
@@ -25,7 +25,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 57,
-      "form": "4.8",
+      "form": "4.3",
       "status": "a",
       "news": ""
     },
@@ -36,7 +36,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 57,
-      "form": "10.2",
+      "form": "10.7",
       "status": "a",
       "news": ""
     },
@@ -47,7 +47,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 75,
-      "form": "5.5",
+      "form": "5.3",
       "status": "a",
       "news": ""
     },
@@ -58,7 +58,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 46,
-      "form": "3.2",
+      "form": "1.7",
       "status": "a",
       "news": ""
     },
@@ -69,7 +69,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 70,
-      "form": "4.2",
+      "form": "4.0",
       "status": "a",
       "news": ""
     },
@@ -91,7 +91,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 58,
-      "form": "6.5",
+      "form": "5.3",
       "status": "a",
       "news": ""
     },
@@ -113,7 +113,7 @@
       "captain": false,
       "vice_captain": true,
       "total_points": 61,
-      "form": "9.0",
+      "form": "8.0",
       "status": "a",
       "news": ""
     },
@@ -135,7 +135,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 30,
-      "form": "5.2",
+      "form": "5.0",
       "status": "a",
       "news": ""
     },
@@ -146,7 +146,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 34,
-      "form": "3.5",
+      "form": "3.7",
       "status": "d",
       "news": "Ankle injury - 75% chance of playing"
     },
