@@ -130,14 +130,14 @@
       "club": "Spurs",
       "position": 3,
       "price": 4.4,
-      "form": 0.5,
+      "form": 0.7,
       "xgi_per90": 4.2,
       "fixture": "Ipswich Town",
       "home": true,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 30.0
+      "score": 30.4
     },
     {
       "id": 4,
@@ -153,6 +153,21 @@
       "status": "a",
       "news": "",
       "score": 27.46
+    },
+    {
+      "id": 112,
+      "name": "Van Hecke",
+      "club": "Spurs",
+      "position": 2,
+      "price": 5.1,
+      "form": 8.7,
+      "xgi_per90": 0.24,
+      "fixture": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 26.61
     },
     {
       "id": 249,
@@ -183,21 +198,6 @@
       "status": "a",
       "news": "",
       "score": 24.6
-    },
-    {
-      "id": 112,
-      "name": "Van Hecke",
-      "club": "Spurs",
-      "position": 2,
-      "price": 5.1,
-      "form": 7.5,
-      "xgi_per90": 0.24,
-      "fixture": "Ipswich Town",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 24.21
     },
     {
       "id": 542,
@@ -380,21 +380,6 @@
       "score": 20.07
     },
     {
-      "id": 183,
-      "name": "Rudoni",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 4.9,
-      "form": 4.8,
-      "xgi_per90": 0.48,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 20.01
-    },
-    {
       "id": 295,
       "name": "McBurnie",
       "club": "Hull City",
@@ -415,14 +400,14 @@
       "club": "Spurs",
       "position": 2,
       "price": 4.3,
-      "form": 5.2,
+      "form": 5.3,
       "xgi_per90": 0.23,
       "fixture": "Ipswich Town",
       "home": true,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 19.57
+      "score": 19.77
     },
     {
       "id": 129,
@@ -455,6 +440,21 @@
       "score": 19.43
     },
     {
+      "id": 496,
+      "name": "Kinsky",
+      "club": "Spurs",
+      "position": 1,
+      "price": 4.4,
+      "form": 5.7,
+      "xgi_per90": 0.0,
+      "fixture": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 19.4
+    },
+    {
       "id": 95,
       "name": "O.Dango",
       "club": "Brentford",
@@ -468,6 +468,21 @@
       "status": "a",
       "news": "",
       "score": 19.27
+    },
+    {
+      "id": 525,
+      "name": "Fernandes",
+      "club": "Spurs",
+      "position": 3,
+      "price": 5.6,
+      "form": 5.0,
+      "xgi_per90": 0.23,
+      "fixture": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 19.15
     },
     {
       "id": 334,
@@ -485,19 +500,19 @@
       "score": 19.05
     },
     {
-      "id": 512,
-      "name": "Kudus",
-      "club": "Spurs",
+      "id": 183,
+      "name": "Rudoni",
+      "club": "Coventry City",
       "position": 3,
-      "price": 6.6,
-      "form": 4.5,
-      "xgi_per90": 0.36,
-      "fixture": "Ipswich Town",
+      "price": 4.9,
+      "form": 4.3,
+      "xgi_per90": 0.48,
+      "fixture": "Crystal Palace",
       "home": true,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 18.79
+      "score": 19.01
     },
     {
       "id": 127,
@@ -558,21 +573,6 @@
       "status": "a",
       "news": "",
       "score": 18.61
-    },
-    {
-      "id": 61,
-      "name": "Truffert",
-      "club": "Bournemouth",
-      "position": 2,
-      "price": 5.4,
-      "form": 6.0,
-      "xgi_per90": 0.12,
-      "fixture": "Nott'm Forest",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 18.6
     }
   ],
   "all_players": [
@@ -627,14 +627,14 @@
       "club": "Spurs",
       "position": 3,
       "price": 4.4,
-      "form": 0.5,
+      "form": 0.7,
       "xgi_per90": 4.2,
       "fixture": "Ipswich Town",
       "home": true,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 30.0
+      "score": 30.4
     },
     {
       "id": 31,
@@ -665,6 +665,21 @@
       "status": "a",
       "news": "",
       "score": 27.46
+    },
+    {
+      "id": 112,
+      "name": "Van Hecke",
+      "club": "Spurs",
+      "position": 2,
+      "price": 5.1,
+      "form": 8.7,
+      "xgi_per90": 0.24,
+      "fixture": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 26.61
     },
     {
       "id": 249,
@@ -710,21 +725,6 @@
       "status": "a",
       "news": "",
       "score": 24.6
-    },
-    {
-      "id": 112,
-      "name": "Van Hecke",
-      "club": "Spurs",
-      "position": 2,
-      "price": 5.1,
-      "form": 7.5,
-      "xgi_per90": 0.24,
-      "fixture": "Ipswich Town",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 24.21
     },
     {
       "id": 542,
@@ -922,21 +922,6 @@
       "score": 20.07
     },
     {
-      "id": 183,
-      "name": "Rudoni",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 4.9,
-      "form": 4.8,
-      "xgi_per90": 0.48,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 20.01
-    },
-    {
       "id": 411,
       "name": "Haaland",
       "club": "Man City",
@@ -967,6 +952,21 @@
       "score": 19.86
     },
     {
+      "id": 502,
+      "name": "Robertson",
+      "club": "Spurs",
+      "position": 2,
+      "price": 4.3,
+      "form": 5.3,
+      "xgi_per90": 0.23,
+      "fixture": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 19.77
+    },
+    {
       "id": 68,
       "name": "Tavernier",
       "club": "Bournemouth",
@@ -980,21 +980,6 @@
       "status": "a",
       "news": "",
       "score": 19.63
-    },
-    {
-      "id": 502,
-      "name": "Robertson",
-      "club": "Spurs",
-      "position": 2,
-      "price": 4.3,
-      "form": 5.2,
-      "xgi_per90": 0.23,
-      "fixture": "Ipswich Town",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 19.57
     },
     {
       "id": 129,
@@ -1027,6 +1012,21 @@
       "score": 19.43
     },
     {
+      "id": 496,
+      "name": "Kinsky",
+      "club": "Spurs",
+      "position": 1,
+      "price": 4.4,
+      "form": 5.7,
+      "xgi_per90": 0.0,
+      "fixture": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 19.4
+    },
+    {
       "id": 95,
       "name": "O.Dango",
       "club": "Brentford",
@@ -1040,6 +1040,36 @@
       "status": "a",
       "news": "",
       "score": 19.27
+    },
+    {
+      "id": 525,
+      "name": "Fernandes",
+      "club": "Spurs",
+      "position": 3,
+      "price": 5.6,
+      "form": 5.0,
+      "xgi_per90": 0.23,
+      "fixture": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 19.15
+    },
+    {
+      "id": 514,
+      "name": "Tel",
+      "club": "Spurs",
+      "position": 3,
+      "price": 5.6,
+      "form": 5.0,
+      "xgi_per90": 0.22,
+      "fixture": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "status": "d",
+      "news": "Ankle injury - 75% chance of playing",
+      "score": 19.12
     },
     {
       "id": 334,
@@ -1057,19 +1087,19 @@
       "score": 19.05
     },
     {
-      "id": 512,
-      "name": "Kudus",
-      "club": "Spurs",
+      "id": 183,
+      "name": "Rudoni",
+      "club": "Coventry City",
       "position": 3,
-      "price": 6.6,
-      "form": 4.5,
-      "xgi_per90": 0.36,
-      "fixture": "Ipswich Town",
+      "price": 4.9,
+      "form": 4.3,
+      "xgi_per90": 0.48,
+      "fixture": "Crystal Palace",
       "home": true,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 18.79
+      "score": 19.01
     },
     {
       "id": 127,
@@ -1177,6 +1207,21 @@
       "score": 18.58
     },
     {
+      "id": 492,
+      "name": "Awoniyi",
+      "club": "Coventry City",
+      "position": 4,
+      "price": 5.4,
+      "form": 4.0,
+      "xgi_per90": 0.41,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 18.03
+    },
+    {
       "id": 1,
       "name": "Raya",
       "club": "Arsenal",
@@ -1190,6 +1235,21 @@
       "status": "a",
       "news": "",
       "score": 18.01
+    },
+    {
+      "id": 512,
+      "name": "Kudus",
+      "club": "Spurs",
+      "position": 3,
+      "price": 6.6,
+      "form": 4.0,
+      "xgi_per90": 0.36,
+      "fixture": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 17.79
     },
     {
       "id": 167,
@@ -1235,21 +1295,6 @@
       "status": "a",
       "news": "",
       "score": 17.63
-    },
-    {
-      "id": 496,
-      "name": "Kinsky",
-      "club": "Spurs",
-      "position": 1,
-      "price": 4.4,
-      "form": 4.8,
-      "xgi_per90": 0.0,
-      "fixture": "Ipswich Town",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 17.6
     },
     {
       "id": 70,
@@ -1310,36 +1355,6 @@
       "status": "a",
       "news": "",
       "score": 17.17
-    },
-    {
-      "id": 525,
-      "name": "Fernandes",
-      "club": "Spurs",
-      "position": 3,
-      "price": 5.6,
-      "form": 4.0,
-      "xgi_per90": 0.23,
-      "fixture": "Ipswich Town",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 17.15
-    },
-    {
-      "id": 514,
-      "name": "Tel",
-      "club": "Spurs",
-      "position": 3,
-      "price": 5.6,
-      "form": 4.0,
-      "xgi_per90": 0.22,
-      "fixture": "Ipswich Town",
-      "home": true,
-      "difficulty": 2,
-      "status": "d",
-      "news": "Ankle injury - 75% chance of playing",
-      "score": 17.12
     },
     {
       "id": 53,
@@ -1417,34 +1432,19 @@
       "score": 16.83
     },
     {
-      "id": 401,
-      "name": "Marmoush",
+      "id": 503,
+      "name": "Van de Ven",
       "club": "Spurs",
-      "position": 4,
-      "price": 7.0,
-      "form": 3.8,
-      "xgi_per90": 0.19,
+      "position": 2,
+      "price": 5.0,
+      "form": 4.0,
+      "xgi_per90": 0.1,
       "fixture": "Ipswich Town",
       "home": true,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 16.54
-    },
-    {
-      "id": 492,
-      "name": "Awoniyi",
-      "club": "Coventry City",
-      "position": 4,
-      "price": 5.4,
-      "form": 3.2,
-      "xgi_per90": 0.41,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 16.43
+      "score": 16.52
     },
     {
       "id": 40,
@@ -1672,6 +1672,21 @@
       "score": 15.69
     },
     {
+      "id": 91,
+      "name": "Pinnock",
+      "club": "Coventry City",
+      "position": 2,
+      "price": 4.5,
+      "form": 3.7,
+      "xgi_per90": 0.05,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 15.63
+    },
+    {
       "id": 236,
       "name": "Dewsbury-Hall",
       "club": "Everton",
@@ -1687,19 +1702,19 @@
       "score": 15.59
     },
     {
-      "id": 503,
-      "name": "Van de Ven",
-      "club": "Spurs",
-      "position": 2,
-      "price": 5.0,
-      "form": 3.5,
-      "xgi_per90": 0.1,
-      "fixture": "Ipswich Town",
+      "id": 655,
+      "name": "Gboho",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 5.5,
+      "form": 3.3,
+      "xgi_per90": 0.2,
+      "fixture": "Crystal Palace",
       "home": true,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 15.52
+      "score": 15.58
     },
     {
       "id": 647,
@@ -1732,19 +1747,19 @@
       "score": 15.39
     },
     {
-      "id": 455,
-      "name": "Tonali",
-      "club": "Spurs",
+      "id": 185,
+      "name": "Sakamoto",
+      "club": "Coventry City",
       "position": 3,
-      "price": 5.3,
-      "form": 3.2,
-      "xgi_per90": 0.18,
-      "fixture": "Ipswich Town",
+      "price": 4.8,
+      "form": 3.3,
+      "xgi_per90": 0.14,
+      "fixture": "Crystal Palace",
       "home": true,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 15.3
+      "score": 15.31
     },
     {
       "id": 114,
@@ -1822,6 +1837,21 @@
       "score": 15.12
     },
     {
+      "id": 522,
+      "name": "Gray",
+      "club": "Spurs",
+      "position": 3,
+      "price": 4.9,
+      "form": 3.3,
+      "xgi_per90": 0.09,
+      "fixture": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 15.06
+    },
+    {
       "id": 593,
       "name": "Dedić",
       "club": "Newcastle",
@@ -1867,6 +1897,21 @@
       "score": 14.91
     },
     {
+      "id": 455,
+      "name": "Tonali",
+      "club": "Spurs",
+      "position": 3,
+      "price": 5.3,
+      "form": 3.0,
+      "xgi_per90": 0.18,
+      "fixture": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 14.9
+    },
+    {
       "id": 47,
       "name": "Kamara",
       "club": "Aston Villa",
@@ -1895,21 +1940,6 @@
       "status": "a",
       "news": "",
       "score": 14.79
-    },
-    {
-      "id": 185,
-      "name": "Sakamoto",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 4.8,
-      "form": 3.0,
-      "xgi_per90": 0.14,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 14.71
     },
     {
       "id": 415,
@@ -1942,19 +1972,19 @@
       "score": 14.56
     },
     {
-      "id": 522,
-      "name": "Gray",
-      "club": "Spurs",
+      "id": 188,
+      "name": "Torp",
+      "club": "Coventry City",
       "position": 3,
-      "price": 4.9,
-      "form": 3.0,
-      "xgi_per90": 0.09,
-      "fixture": "Ipswich Town",
+      "price": 5.3,
+      "form": 2.7,
+      "xgi_per90": 0.22,
+      "fixture": "Crystal Palace",
       "home": true,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 14.46
+      "score": 14.51
     },
     {
       "id": 153,
@@ -2032,21 +2062,6 @@
       "score": 14.28
     },
     {
-      "id": 91,
-      "name": "Pinnock",
-      "club": "Coventry City",
-      "position": 2,
-      "price": 4.5,
-      "form": 3.0,
-      "xgi_per90": 0.05,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 14.23
-    },
-    {
       "id": 536,
       "name": "Reinildo",
       "club": "Sunderland",
@@ -2122,21 +2137,6 @@
       "score": 14.01
     },
     {
-      "id": 655,
-      "name": "Gboho",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 5.5,
-      "form": 2.5,
-      "xgi_per90": 0.2,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 13.98
-    },
-    {
       "id": 154,
       "name": "Palmer",
       "club": "Chelsea",
@@ -2150,21 +2150,6 @@
       "status": "a",
       "news": "",
       "score": 13.91
-    },
-    {
-      "id": 526,
-      "name": "Solanke",
-      "club": "Spurs",
-      "position": 4,
-      "price": 5.8,
-      "form": 2.0,
-      "xgi_per90": 0.38,
-      "fixture": "Ipswich Town",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 13.89
     },
     {
       "id": 368,
@@ -2210,6 +2195,21 @@
       "status": "a",
       "news": "",
       "score": 13.85
+    },
+    {
+      "id": 499,
+      "name": "Pedro Porro",
+      "club": "Spurs",
+      "position": 2,
+      "price": 5.3,
+      "form": 2.3,
+      "xgi_per90": 0.24,
+      "fixture": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 13.78
     },
     {
       "id": 367,
@@ -2285,21 +2285,6 @@
       "status": "a",
       "news": "",
       "score": 13.63
-    },
-    {
-      "id": 515,
-      "name": "Maddison",
-      "club": "Spurs",
-      "position": 3,
-      "price": 6.2,
-      "form": 2.5,
-      "xgi_per90": 0.12,
-      "fixture": "Ipswich Town",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 13.61
     },
     {
       "id": 481,
@@ -2467,36 +2452,6 @@
       "score": 13.13
     },
     {
-      "id": 188,
-      "name": "Torp",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 5.3,
-      "form": 2.0,
-      "xgi_per90": 0.22,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 13.11
-    },
-    {
-      "id": 194,
-      "name": "Thomas-Asante",
-      "club": "Coventry City",
-      "position": 4,
-      "price": 5.0,
-      "form": 2.2,
-      "xgi_per90": 0.13,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 13.05
-    },
-    {
       "id": 545,
       "name": "Sadiki",
       "club": "Sunderland",
@@ -2525,6 +2480,36 @@
       "status": "a",
       "news": "",
       "score": 13.0
+    },
+    {
+      "id": 401,
+      "name": "Marmoush",
+      "club": "Spurs",
+      "position": 4,
+      "price": 7.0,
+      "form": 2.0,
+      "xgi_per90": 0.19,
+      "fixture": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 12.94
+    },
+    {
+      "id": 175,
+      "name": "van Ewijk",
+      "club": "Coventry City",
+      "position": 2,
+      "price": 3.9,
+      "form": 2.3,
+      "xgi_per90": 0.07,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 12.93
     },
     {
       "id": 320,
@@ -2557,21 +2542,6 @@
       "score": 12.91
     },
     {
-      "id": 508,
-      "name": "Davies",
-      "club": "Spurs",
-      "position": 2,
-      "price": 3.9,
-      "form": 2.0,
-      "xgi_per90": 0.16,
-      "fixture": "Ipswich Town",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 12.82
-    },
-    {
       "id": 73,
       "name": "Adams",
       "club": "Bournemouth",
@@ -2597,21 +2567,6 @@
       "fixture": "Nott'm Forest",
       "home": true,
       "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 12.78
-    },
-    {
-      "id": 499,
-      "name": "Pedro Porro",
-      "club": "Spurs",
-      "position": 2,
-      "price": 5.3,
-      "form": 1.8,
-      "xgi_per90": 0.24,
-      "fixture": "Ipswich Town",
-      "home": true,
-      "difficulty": 2,
       "status": "a",
       "news": "",
       "score": 12.78
@@ -2660,6 +2615,36 @@
       "status": "d",
       "news": "Unspecified injury - 75% chance of playing",
       "score": 12.7
+    },
+    {
+      "id": 656,
+      "name": "Mfuni",
+      "club": "Coventry City",
+      "position": 2,
+      "price": 4.0,
+      "form": 2.0,
+      "xgi_per90": 0.11,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 12.57
+    },
+    {
+      "id": 526,
+      "name": "Solanke",
+      "club": "Spurs",
+      "position": 4,
+      "price": 5.8,
+      "form": 1.3,
+      "xgi_per90": 0.38,
+      "fixture": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 12.49
     },
     {
       "id": 544,
@@ -2782,21 +2767,6 @@
       "score": 12.34
     },
     {
-      "id": 175,
-      "name": "van Ewijk",
-      "club": "Coventry City",
-      "position": 2,
-      "price": 3.9,
-      "form": 2.0,
-      "xgi_per90": 0.07,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 12.33
-    },
-    {
       "id": 230,
       "name": "Branthwaite",
       "club": "Everton",
@@ -2887,6 +2857,21 @@
       "score": 12.28
     },
     {
+      "id": 575,
+      "name": "Yirenkyi",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 4.8,
+      "form": 2.0,
+      "xgi_per90": 0.05,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 12.24
+    },
+    {
       "id": 241,
       "name": "McNeil",
       "club": "Crystal Palace",
@@ -2962,6 +2947,21 @@
       "score": 12.08
     },
     {
+      "id": 176,
+      "name": "Dasilva",
+      "club": "Coventry City",
+      "position": 2,
+      "price": 4.0,
+      "form": 1.7,
+      "xgi_per90": 0.13,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 12.05
+    },
+    {
       "id": 17,
       "name": "Merino",
       "club": "Arsenal",
@@ -2992,6 +2992,21 @@
       "score": 12.03
     },
     {
+      "id": 110,
+      "name": "Rushworth",
+      "club": "Coventry City",
+      "position": 1,
+      "price": 4.5,
+      "form": 2.0,
+      "xgi_per90": 0.0,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 12.02
+    },
+    {
       "id": 387,
       "name": "O'Reilly",
       "club": "Man City",
@@ -3005,21 +3020,6 @@
       "status": "a",
       "news": "",
       "score": 11.98
-    },
-    {
-      "id": 519,
-      "name": "Gallagher",
-      "club": "Spurs",
-      "position": 3,
-      "price": 5.3,
-      "form": 0.8,
-      "xgi_per90": 0.46,
-      "fixture": "Ipswich Town",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 11.92
     },
     {
       "id": 71,
@@ -3112,34 +3112,19 @@
       "score": 11.75
     },
     {
-      "id": 584,
-      "name": "Hamer",
-      "club": "Coventry City",
+      "id": 519,
+      "name": "Gallagher",
+      "club": "Spurs",
       "position": 3,
-      "price": 5.2,
-      "form": 0.8,
-      "xgi_per90": 0.42,
-      "fixture": "Crystal Palace",
+      "price": 5.3,
+      "form": 0.7,
+      "xgi_per90": 0.46,
+      "fixture": "Ipswich Town",
       "home": true,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 11.68
-    },
-    {
-      "id": 110,
-      "name": "Rushworth",
-      "club": "Coventry City",
-      "position": 1,
-      "price": 4.5,
-      "form": 1.8,
-      "xgi_per90": 0.0,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 11.62
+      "score": 11.72
     },
     {
       "id": 94,
@@ -3155,21 +3140,6 @@
       "status": "a",
       "news": "",
       "score": 11.61
-    },
-    {
-      "id": 656,
-      "name": "Mfuni",
-      "club": "Coventry City",
-      "position": 2,
-      "price": 4.0,
-      "form": 1.5,
-      "xgi_per90": 0.11,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 11.57
     },
     {
       "id": 345,
@@ -3200,6 +3170,21 @@
       "status": "a",
       "news": "",
       "score": 11.54
+    },
+    {
+      "id": 584,
+      "name": "Hamer",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 5.2,
+      "form": 0.7,
+      "xgi_per90": 0.42,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 11.48
     },
     {
       "id": 452,
@@ -3337,6 +3322,21 @@
       "score": 11.34
     },
     {
+      "id": 599,
+      "name": "Cherif",
+      "club": "Coventry City",
+      "position": 4,
+      "price": 5.0,
+      "form": 1.3,
+      "xgi_per90": 0.15,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 11.33
+    },
+    {
       "id": 553,
       "name": "Isidor",
       "club": "Sunderland",
@@ -3397,21 +3397,6 @@
       "score": 11.28
     },
     {
-      "id": 184,
-      "name": "Grimes",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 4.8,
-      "form": 1.5,
-      "xgi_per90": 0.05,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 11.26
-    },
-    {
       "id": 201,
       "name": "Muñoz",
       "club": "Nott'm Forest",
@@ -3427,6 +3412,21 @@
       "score": 11.26
     },
     {
+      "id": 194,
+      "name": "Thomas-Asante",
+      "club": "Coventry City",
+      "position": 4,
+      "price": 5.0,
+      "form": 1.3,
+      "xgi_per90": 0.13,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 11.25
+    },
+    {
       "id": 98,
       "name": "Janelt",
       "club": "Brentford",
@@ -3437,21 +3437,6 @@
       "fixture": "Everton",
       "home": true,
       "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 11.24
-    },
-    {
-      "id": 575,
-      "name": "Yirenkyi",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 4.8,
-      "form": 1.5,
-      "xgi_per90": 0.05,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
       "status": "a",
       "news": "",
       "score": 11.24
@@ -3562,21 +3547,6 @@
       "score": 11.15
     },
     {
-      "id": 599,
-      "name": "Cherif",
-      "club": "Coventry City",
-      "position": 4,
-      "price": 5.0,
-      "form": 1.2,
-      "xgi_per90": 0.15,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 11.13
-    },
-    {
       "id": 549,
       "name": "Talbi",
       "club": "Sunderland",
@@ -3590,21 +3560,6 @@
       "status": "a",
       "news": "",
       "score": 11.09
-    },
-    {
-      "id": 176,
-      "name": "Dasilva",
-      "club": "Coventry City",
-      "position": 2,
-      "price": 4.0,
-      "form": 1.2,
-      "xgi_per90": 0.13,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 11.05
     },
     {
       "id": 97,
@@ -3712,6 +3667,21 @@
       "score": 10.89
     },
     {
+      "id": 184,
+      "name": "Grimes",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 4.8,
+      "form": 1.3,
+      "xgi_per90": 0.05,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 10.86
+    },
+    {
       "id": 271,
       "name": "Muniz",
       "club": "Fulham",
@@ -3815,21 +3785,6 @@
       "status": "a",
       "news": "",
       "score": 10.73
-    },
-    {
-      "id": 173,
-      "name": "Thomas",
-      "club": "Coventry City",
-      "position": 2,
-      "price": 4.0,
-      "form": 1.0,
-      "xgi_per90": 0.13,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "d",
-      "news": "Calf injury - 50% chance of playing",
-      "score": 10.65
     },
     {
       "id": 588,
@@ -4102,21 +4057,6 @@
       "score": 10.22
     },
     {
-      "id": 186,
-      "name": "Mason-Clark",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 5.3,
-      "form": 0.5,
-      "xgi_per90": 0.24,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 10.21
-    },
-    {
       "id": 41,
       "name": "Buendía",
       "club": "Aston Villa",
@@ -4250,6 +4190,36 @@
       "status": "a",
       "news": "",
       "score": 9.87
+    },
+    {
+      "id": 186,
+      "name": "Mason-Clark",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 5.3,
+      "form": 0.3,
+      "xgi_per90": 0.24,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 9.81
+    },
+    {
+      "id": 190,
+      "name": "Tchaouna",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 5.3,
+      "form": 0.3,
+      "xgi_per90": 0.24,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 9.79
     },
     {
       "id": 338,
@@ -4447,21 +4417,6 @@
       "score": 9.6
     },
     {
-      "id": 190,
-      "name": "Tchaouna",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 5.3,
-      "form": 0.2,
-      "xgi_per90": 0.24,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 9.59
-    },
-    {
       "id": 195,
       "name": "Simms",
       "club": "Coventry City",
@@ -4567,6 +4522,21 @@
       "score": 9.45
     },
     {
+      "id": 508,
+      "name": "Davies",
+      "club": "Spurs",
+      "position": 2,
+      "price": 3.9,
+      "form": 0.3,
+      "xgi_per90": 0.16,
+      "fixture": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 9.42
+    },
+    {
       "id": 310,
       "name": "Matusiwa",
       "club": "Ipswich Town",
@@ -4580,6 +4550,21 @@
       "status": "a",
       "news": "",
       "score": 9.4
+    },
+    {
+      "id": 506,
+      "name": "Udogie",
+      "club": "Spurs",
+      "position": 2,
+      "price": 4.4,
+      "form": 0.3,
+      "xgi_per90": 0.15,
+      "fixture": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 9.36
     },
     {
       "id": 600,
@@ -4612,21 +4597,6 @@
       "score": 9.35
     },
     {
-      "id": 104,
-      "name": "Onyeka",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 4.8,
-      "form": 0.5,
-      "xgi_per90": 0.07,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "d",
-      "news": "Groin injury - 50% chance of playing",
-      "score": 9.34
-    },
-    {
       "id": 483,
       "name": "Ndoye",
       "club": "Nott'm Forest",
@@ -4655,6 +4625,21 @@
       "status": "i",
       "news": "Knee injury - Unknown return date",
       "score": 9.29
+    },
+    {
+      "id": 173,
+      "name": "Thomas",
+      "club": "Coventry City",
+      "position": 2,
+      "price": 4.0,
+      "form": 0.3,
+      "xgi_per90": 0.13,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "d",
+      "news": "Calf injury - 50% chance of playing",
+      "score": 9.25
     },
     {
       "id": 644,
@@ -4702,19 +4687,34 @@
       "score": 9.21
     },
     {
-      "id": 506,
-      "name": "Udogie",
+      "id": 515,
+      "name": "Maddison",
       "club": "Spurs",
-      "position": 2,
-      "price": 4.4,
-      "form": 0.2,
-      "xgi_per90": 0.15,
+      "position": 3,
+      "price": 6.2,
+      "form": 0.3,
+      "xgi_per90": 0.12,
       "fixture": "Ipswich Town",
       "home": true,
       "difficulty": 2,
       "status": "a",
       "news": "",
-      "score": 9.16
+      "score": 9.21
+    },
+    {
+      "id": 516,
+      "name": "Bentancur",
+      "club": "Spurs",
+      "position": 3,
+      "price": 5.4,
+      "form": 0.3,
+      "xgi_per90": 0.12,
+      "fixture": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 9.18
     },
     {
       "id": 388,
@@ -4744,21 +4744,6 @@
       "difficulty": 2,
       "status": "i",
       "news": "Unspecified injury - Expected back 22 Nov",
-      "score": 9.12
-    },
-    {
-      "id": 147,
-      "name": "Tosin",
-      "club": "Spurs",
-      "position": 2,
-      "price": 4.3,
-      "form": 0.5,
-      "xgi_per90": 0.02,
-      "fixture": "Ipswich Town",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
       "score": 9.12
     },
     {
@@ -4837,21 +4822,6 @@
       "score": 9.0
     },
     {
-      "id": 516,
-      "name": "Bentancur",
-      "club": "Spurs",
-      "position": 3,
-      "price": 5.4,
-      "form": 0.2,
-      "xgi_per90": 0.12,
-      "fixture": "Ipswich Town",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 8.98
-    },
-    {
       "id": 51,
       "name": "George Hemmings",
       "club": "Aston Villa",
@@ -4894,6 +4864,21 @@
       "difficulty": 2,
       "status": "i",
       "news": "Hamstring injury - Expected back 8 Nov",
+      "score": 8.94
+    },
+    {
+      "id": 104,
+      "name": "Onyeka",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 4.8,
+      "form": 0.3,
+      "xgi_per90": 0.07,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "d",
+      "news": "Groin injury - 50% chance of playing",
       "score": 8.94
     },
     {
@@ -5317,21 +5302,6 @@
       "score": 8.44
     },
     {
-      "id": 177,
-      "name": "Kesler-Hayden",
-      "club": "Coventry City",
-      "position": 2,
-      "price": 3.9,
-      "form": 0.2,
-      "xgi_per90": 0.0,
-      "fixture": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "status": "a",
-      "news": "",
-      "score": 8.4
-    },
-    {
       "id": 321,
       "name": "Walle Egeli",
       "club": "Ipswich Town",
@@ -5507,6 +5477,21 @@
       "fixture": "Man Utd",
       "home": true,
       "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 8.12
+    },
+    {
+      "id": 147,
+      "name": "Tosin",
+      "club": "Spurs",
+      "position": 2,
+      "price": 4.3,
+      "form": 0.0,
+      "xgi_per90": 0.02,
+      "fixture": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
       "status": "a",
       "news": "",
       "score": 8.12
@@ -5849,6 +5834,21 @@
       "price": 4.4,
       "form": 0.0,
       "xgi_per90": 0,
+      "fixture": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "status": "a",
+      "news": "",
+      "score": 8.0
+    },
+    {
+      "id": 177,
+      "name": "Kesler-Hayden",
+      "club": "Coventry City",
+      "position": 2,
+      "price": 3.9,
+      "form": 0.0,
+      "xgi_per90": 0.0,
       "fixture": "Crystal Palace",
       "home": true,
       "difficulty": 2,

@@ -239,7 +239,7 @@
       "expected_minutes": 42.2,
       "xg90": 0.08,
       "xa90": 0.049,
-      "projected_points": 1.9,
+      "projected_points": 1.86,
       "status": "d",
       "news": "Calf injury - 50% chance of playing"
     }
@@ -326,6 +326,22 @@
       "news": ""
     },
     {
+      "id": 112,
+      "name": "Van Hecke",
+      "club": "Spurs",
+      "position": 2,
+      "price": 5.1,
+      "opponent": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "expected_minutes": 90,
+      "xg90": 0.17,
+      "xa90": 0.072,
+      "projected_points": 5.67,
+      "status": "a",
+      "news": ""
+    },
+    {
       "id": 224,
       "name": "Nketiah",
       "club": "Crystal Palace",
@@ -369,22 +385,6 @@
       "expected_minutes": 88.9,
       "xg90": 0.715,
       "xa90": 0.088,
-      "projected_points": 5.52,
-      "status": "a",
-      "news": ""
-    },
-    {
-      "id": 112,
-      "name": "Van Hecke",
-      "club": "Spurs",
-      "position": 2,
-      "price": 5.1,
-      "opponent": "Ipswich Town",
-      "home": true,
-      "difficulty": 2,
-      "expected_minutes": 90,
-      "xg90": 0.17,
-      "xa90": 0.072,
       "projected_points": 5.52,
       "status": "a",
       "news": ""
@@ -646,22 +646,6 @@
       "news": ""
     },
     {
-      "id": 519,
-      "name": "Gallagher",
-      "club": "Spurs",
-      "position": 3,
-      "price": 5.3,
-      "opponent": "Ipswich Town",
-      "home": true,
-      "difficulty": 2,
-      "expected_minutes": 90,
-      "xg90": 0.407,
-      "xa90": 0.057,
-      "projected_points": 4.57,
-      "status": "a",
-      "news": ""
-    },
-    {
       "id": 166,
       "name": "N.Jackson",
       "club": "Aston Villa",
@@ -673,6 +657,22 @@
       "expected_minutes": 80.2,
       "xg90": 0.431,
       "xa90": 0.112,
+      "projected_points": 4.56,
+      "status": "a",
+      "news": ""
+    },
+    {
+      "id": 519,
+      "name": "Gallagher",
+      "club": "Spurs",
+      "position": 3,
+      "price": 5.3,
+      "opponent": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "expected_minutes": 90,
+      "xg90": 0.407,
+      "xa90": 0.057,
       "projected_points": 4.56,
       "status": "a",
       "news": ""
@@ -726,6 +726,22 @@
       "news": ""
     },
     {
+      "id": 499,
+      "name": "Pedro Porro",
+      "club": "Spurs",
+      "position": 2,
+      "price": 5.3,
+      "opponent": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "expected_minutes": 83.0,
+      "xg90": 0.152,
+      "xa90": 0.084,
+      "projected_points": 4.44,
+      "status": "a",
+      "news": ""
+    },
+    {
       "id": 79,
       "name": "Evanilson",
       "club": "Bournemouth",
@@ -742,22 +758,6 @@
       "news": ""
     },
     {
-      "id": 499,
-      "name": "Pedro Porro",
-      "club": "Spurs",
-      "position": 2,
-      "price": 5.3,
-      "opponent": "Ipswich Town",
-      "home": true,
-      "difficulty": 2,
-      "expected_minutes": 83.0,
-      "xg90": 0.152,
-      "xa90": 0.084,
-      "projected_points": 4.38,
-      "status": "a",
-      "news": ""
-    },
-    {
       "id": 502,
       "name": "Robertson",
       "club": "Spurs",
@@ -769,7 +769,7 @@
       "expected_minutes": 83.0,
       "xg90": 0.037,
       "xa90": 0.197,
-      "projected_points": 4.38,
+      "projected_points": 4.4,
       "status": "a",
       "news": ""
     },
@@ -838,22 +838,6 @@
       "news": ""
     },
     {
-      "id": 183,
-      "name": "Rudoni",
-      "club": "Coventry City",
-      "position": 3,
-      "price": 4.9,
-      "opponent": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "expected_minutes": 81.1,
-      "xg90": 0.275,
-      "xa90": 0.207,
-      "projected_points": 4.34,
-      "status": "a",
-      "news": ""
-    },
-    {
       "id": 430,
       "name": "Mount",
       "club": "Man Utd",
@@ -870,6 +854,22 @@
       "news": ""
     },
     {
+      "id": 503,
+      "name": "Van de Ven",
+      "club": "Spurs",
+      "position": 2,
+      "price": 5.0,
+      "opponent": "Ipswich Town",
+      "home": true,
+      "difficulty": 2,
+      "expected_minutes": 90,
+      "xg90": 0.082,
+      "xa90": 0.022,
+      "projected_points": 4.32,
+      "status": "a",
+      "news": ""
+    },
+    {
       "id": 8,
       "name": "Calafiori",
       "club": "Arsenal",
@@ -882,6 +882,22 @@
       "xg90": 0.143,
       "xa90": 0.119,
       "projected_points": 4.29,
+      "status": "a",
+      "news": ""
+    },
+    {
+      "id": 183,
+      "name": "Rudoni",
+      "club": "Coventry City",
+      "position": 3,
+      "price": 4.9,
+      "opponent": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "expected_minutes": 81.1,
+      "xg90": 0.275,
+      "xa90": 0.207,
+      "projected_points": 4.28,
       "status": "a",
       "news": ""
     },
@@ -913,22 +929,6 @@
       "expected_minutes": 90,
       "xg90": 0.219,
       "xa90": 0.238,
-      "projected_points": 4.26,
-      "status": "a",
-      "news": ""
-    },
-    {
-      "id": 503,
-      "name": "Van de Ven",
-      "club": "Spurs",
-      "position": 2,
-      "price": 5.0,
-      "opponent": "Ipswich Town",
-      "home": true,
-      "difficulty": 2,
-      "expected_minutes": 90,
-      "xg90": 0.082,
-      "xa90": 0.022,
       "projected_points": 4.26,
       "status": "a",
       "news": ""
@@ -998,18 +998,18 @@
       "news": ""
     },
     {
-      "id": 512,
-      "name": "Kudus",
-      "club": "Spurs",
-      "position": 3,
-      "price": 6.6,
-      "opponent": "Ipswich Town",
+      "id": 656,
+      "name": "Mfuni",
+      "club": "Coventry City",
+      "position": 2,
+      "price": 4.0,
+      "opponent": "Crystal Palace",
       "home": true,
       "difficulty": 2,
       "expected_minutes": 90,
-      "xg90": 0.214,
-      "xa90": 0.145,
-      "projected_points": 4.21,
+      "xg90": 0.106,
+      "xa90": 0.009,
+      "projected_points": 4.2,
       "status": "a",
       "news": ""
     },
