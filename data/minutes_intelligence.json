@@ -848,14 +848,14 @@
       "missing_history_records": 0,
       "average_minutes": 47.8,
       "weighted_minutes": 29.8,
-      "expected_minutes": 14.9,
+      "expected_minutes": 22.4,
       "appearance_rate": 0.6,
       "sixty_minute_rate": 0.4,
       "minutes_trend": -70.3,
       "missed_recently": true,
       "rotation_risk": "High",
       "status": "d",
-      "news": "Calf injury - 50% chance of playing"
+      "news": "Calf injury - 75% chance of playing"
     }
   ],
   "failed_players": []

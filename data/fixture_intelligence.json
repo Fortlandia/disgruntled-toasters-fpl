@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-19T11:39:02.336357+00:00",
+  "generated_utc": "2026-11-19T20:36:13.668046+00:00",
   "source": "Official FPL API via fetch_fpl.py; optional manually maintained football_calendar.json",
   "current_gameweek": 11,
   "squad_source_gameweek": 10,
@@ -2131,7 +2131,218 @@
     }
   ],
   "unassigned_fixtures": [],
-  "fixture_changes_since_previous_run": [],
+  "fixture_changes_since_previous_run": [
+    {
+      "fixture_id": 205,
+      "home": "Coventry City",
+      "away": "Everton",
+      "previous_gameweek": 21,
+      "new_gameweek": 21,
+      "previous_kickoff": "2027-01-16T15:00:00Z",
+      "new_kickoff": "2027-01-16T12:30:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    },
+    {
+      "fixture_id": 201,
+      "home": "Aston Villa",
+      "away": "Man Utd",
+      "previous_gameweek": 21,
+      "new_gameweek": 21,
+      "previous_kickoff": "2027-01-16T15:00:00Z",
+      "new_kickoff": "2027-01-16T17:30:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    },
+    {
+      "fixture_id": 202,
+      "home": "Bournemouth",
+      "away": "Ipswich Town",
+      "previous_gameweek": 21,
+      "new_gameweek": 21,
+      "previous_kickoff": "2027-01-16T15:00:00Z",
+      "new_kickoff": "2027-01-17T14:00:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    },
+    {
+      "fixture_id": 210,
+      "home": "Spurs",
+      "away": "Leeds",
+      "previous_gameweek": 21,
+      "new_gameweek": 21,
+      "previous_kickoff": "2027-01-16T15:00:00Z",
+      "new_kickoff": "2027-01-17T16:30:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    },
+    {
+      "fixture_id": 203,
+      "home": "Brentford",
+      "away": "Brighton",
+      "previous_gameweek": 21,
+      "new_gameweek": 21,
+      "previous_kickoff": "2027-01-16T15:00:00Z",
+      "new_kickoff": "2027-01-18T20:00:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    },
+    {
+      "fixture_id": 211,
+      "home": "Arsenal",
+      "away": "Newcastle",
+      "previous_gameweek": 22,
+      "new_gameweek": 22,
+      "previous_kickoff": "2027-01-23T15:00:00Z",
+      "new_kickoff": "2027-01-23T17:30:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    },
+    {
+      "fixture_id": 212,
+      "home": "Brighton",
+      "away": "Man City",
+      "previous_gameweek": 22,
+      "new_gameweek": 22,
+      "previous_kickoff": "2027-01-23T15:00:00Z",
+      "new_kickoff": "2027-01-23T20:00:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    },
+    {
+      "fixture_id": 213,
+      "home": "Crystal Palace",
+      "away": "Spurs",
+      "previous_gameweek": 22,
+      "new_gameweek": 22,
+      "previous_kickoff": "2027-01-23T15:00:00Z",
+      "new_kickoff": "2027-01-24T14:00:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    },
+    {
+      "fixture_id": 214,
+      "home": "Everton",
+      "away": "Brentford",
+      "previous_gameweek": 22,
+      "new_gameweek": 22,
+      "previous_kickoff": "2027-01-23T15:00:00Z",
+      "new_kickoff": "2027-01-24T14:00:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    },
+    {
+      "fixture_id": 219,
+      "home": "Nott'm Forest",
+      "away": "Bournemouth",
+      "previous_gameweek": 22,
+      "new_gameweek": 22,
+      "previous_kickoff": "2027-01-23T15:00:00Z",
+      "new_kickoff": "2027-01-24T14:00:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    },
+    {
+      "fixture_id": 220,
+      "home": "Sunderland",
+      "away": "Coventry City",
+      "previous_gameweek": 22,
+      "new_gameweek": 22,
+      "previous_kickoff": "2027-01-23T15:00:00Z",
+      "new_kickoff": "2027-01-24T14:00:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    },
+    {
+      "fixture_id": 218,
+      "home": "Man Utd",
+      "away": "Liverpool",
+      "previous_gameweek": 22,
+      "new_gameweek": 22,
+      "previous_kickoff": "2027-01-23T15:00:00Z",
+      "new_kickoff": "2027-01-24T16:30:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    },
+    {
+      "fixture_id": 217,
+      "home": "Leeds",
+      "away": "Chelsea",
+      "previous_gameweek": 22,
+      "new_gameweek": 22,
+      "previous_kickoff": "2027-01-23T15:00:00Z",
+      "new_kickoff": "2027-01-25T20:00:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    },
+    {
+      "fixture_id": 227,
+      "home": "Liverpool",
+      "away": "Everton",
+      "previous_gameweek": 23,
+      "new_gameweek": 23,
+      "previous_kickoff": "2027-01-30T15:00:00Z",
+      "new_kickoff": "2027-01-30T12:30:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    },
+    {
+      "fixture_id": 224,
+      "home": "Chelsea",
+      "away": "Nott'm Forest",
+      "previous_gameweek": 23,
+      "new_gameweek": 23,
+      "previous_kickoff": "2027-01-30T15:00:00Z",
+      "new_kickoff": "2027-01-30T17:30:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    },
+    {
+      "fixture_id": 222,
+      "home": "Bournemouth",
+      "away": "Fulham",
+      "previous_gameweek": 23,
+      "new_gameweek": 23,
+      "previous_kickoff": "2027-01-30T15:00:00Z",
+      "new_kickoff": "2027-01-31T14:00:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    },
+    {
+      "fixture_id": 225,
+      "home": "Coventry City",
+      "away": "Leeds",
+      "previous_gameweek": 23,
+      "new_gameweek": 23,
+      "previous_kickoff": "2027-01-30T15:00:00Z",
+      "new_kickoff": "2027-01-31T14:00:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    },
+    {
+      "fixture_id": 226,
+      "home": "Hull City",
+      "away": "Crystal Palace",
+      "previous_gameweek": 23,
+      "new_gameweek": 23,
+      "previous_kickoff": "2027-01-30T15:00:00Z",
+      "new_kickoff": "2027-01-31T14:00:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    },
+    {
+      "fixture_id": 230,
+      "home": "Spurs",
+      "away": "Sunderland",
+      "previous_gameweek": 23,
+      "new_gameweek": 23,
+      "previous_kickoff": "2027-01-30T15:00:00Z",
+      "new_kickoff": "2027-01-31T14:00:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    },
+    {
+      "fixture_id": 228,
+      "home": "Man City",
+      "away": "Arsenal",
+      "previous_gameweek": 23,
+      "new_gameweek": 23,
+      "previous_kickoff": "2027-01-30T15:00:00Z",
+      "new_kickoff": "2027-01-31T16:30:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    },
+    {
+      "fixture_id": 223,
+      "home": "Brentford",
+      "away": "Man Utd",
+      "previous_gameweek": 23,
+      "new_gameweek": 23,
+      "previous_kickoff": "2027-01-30T15:00:00Z",
+      "new_kickoff": "2027-02-01T20:00:00Z",
+      "note": "FPL fixture record changed; check official confirmation"
+    }
+  ],
   "calendar_events": [
     {
       "date": "2026-11-24",

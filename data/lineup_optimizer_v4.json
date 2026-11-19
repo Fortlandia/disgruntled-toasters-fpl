@@ -418,6 +418,40 @@
       "minutes_adjusted_points": 2.66
     },
     {
+      "id": 173,
+      "name": "Thomas",
+      "club": "Coventry City",
+      "position": 2,
+      "price": 4.0,
+      "opponent": "Crystal Palace",
+      "home": true,
+      "difficulty": 2,
+      "expected_minutes": 63.4,
+      "xg90": 0.08,
+      "xa90": 0.049,
+      "projected_points": 2.79,
+      "status": "d",
+      "news": "Calf injury - 75% chance of playing",
+      "strength_adjusted_points": 2.35,
+      "opponent_adjustment": 0.15,
+      "opponent_league_position": 20,
+      "opponent_attack_index": 0.833,
+      "opponent_defensive_vulnerability_index": 1.474,
+      "v3_points": 2.94,
+      "original_expected_minutes": 63.4,
+      "recent_expected_minutes": 22.4,
+      "minutes_adjustment_factor": 0.8,
+      "rotation_risk": "High",
+      "recent_minutes": [
+        90,
+        90,
+        59,
+        0,
+        0
+      ],
+      "minutes_adjusted_points": 2.35
+    },
+    {
       "id": 98,
       "name": "Janelt",
       "club": "Brentford",
@@ -450,40 +484,6 @@
         90
       ],
       "minutes_adjusted_points": 1.98
-    },
-    {
-      "id": 173,
-      "name": "Thomas",
-      "club": "Coventry City",
-      "position": 2,
-      "price": 4.0,
-      "opponent": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "expected_minutes": 42.2,
-      "xg90": 0.08,
-      "xa90": 0.049,
-      "projected_points": 1.86,
-      "status": "d",
-      "news": "Calf injury - 50% chance of playing",
-      "strength_adjusted_points": 1.57,
-      "opponent_adjustment": 0.1,
-      "opponent_league_position": 20,
-      "opponent_attack_index": 0.833,
-      "opponent_defensive_vulnerability_index": 1.474,
-      "v3_points": 1.96,
-      "original_expected_minutes": 42.2,
-      "recent_expected_minutes": 14.9,
-      "minutes_adjustment_factor": 0.8,
-      "rotation_risk": "High",
-      "recent_minutes": [
-        90,
-        90,
-        59,
-        0,
-        0
-      ],
-      "minutes_adjusted_points": 1.57
     },
     {
       "id": 57,
@@ -709,6 +709,15 @@
       "rotation_risk": "Low"
     },
     {
+      "name": "Thomas",
+      "v3_points": 2.94,
+      "v4_points": 2.35,
+      "original_expected_minutes": 63.4,
+      "recent_expected_minutes": 22.4,
+      "adjustment_factor": 0.8,
+      "rotation_risk": "High"
+    },
+    {
       "name": "N.Williams",
       "v3_points": 2.68,
       "v4_points": 2.66,
@@ -725,15 +734,6 @@
       "recent_expected_minutes": 72.0,
       "adjustment_factor": 0.8,
       "rotation_risk": "Medium"
-    },
-    {
-      "name": "Thomas",
-      "v3_points": 1.96,
-      "v4_points": 1.57,
-      "original_expected_minutes": 42.2,
-      "recent_expected_minutes": 14.9,
-      "adjustment_factor": 0.8,
-      "rotation_risk": "High"
     }
   ]
 }

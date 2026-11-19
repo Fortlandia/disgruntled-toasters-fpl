@@ -1967,8 +1967,8 @@
       "fixture": "Aston Villa",
       "home": false,
       "difficulty": 3,
-      "status": "d",
-      "news": "Muscular injury - 75% chance of playing",
+      "status": "i",
+      "news": "Muscular injury - Unknown return date",
       "score": 14.56
     },
     {
@@ -2657,8 +2657,8 @@
       "fixture": "Aston Villa",
       "home": false,
       "difficulty": 3,
-      "status": "d",
-      "news": "Calf injury - 75% chance of playing",
+      "status": "i",
+      "news": "Calf injury - Unknown return date",
       "score": 12.49
     },
     {
@@ -2867,8 +2867,8 @@
       "fixture": "Crystal Palace",
       "home": true,
       "difficulty": 2,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Unspecified injury - 75% chance of playing",
       "score": 12.24
     },
     {
@@ -3167,8 +3167,8 @@
       "fixture": "Leeds",
       "home": true,
       "difficulty": 3,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Unspecified injury - 75% chance of playing",
       "score": 11.54
     },
     {
@@ -4022,8 +4022,8 @@
       "fixture": "Chelsea",
       "home": false,
       "difficulty": 4,
-      "status": "d",
-      "news": "Hamstring injury - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 10.28
     },
     {
@@ -4202,8 +4202,8 @@
       "fixture": "Crystal Palace",
       "home": true,
       "difficulty": 2,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Knee injury - 75% chance of playing",
       "score": 9.81
     },
     {
@@ -4638,7 +4638,7 @@
       "home": true,
       "difficulty": 2,
       "status": "d",
-      "news": "Calf injury - 50% chance of playing",
+      "news": "Calf injury - 75% chance of playing",
       "score": 9.25
     },
     {
@@ -4878,7 +4878,7 @@
       "home": true,
       "difficulty": 2,
       "status": "d",
-      "news": "Groin injury - 50% chance of playing",
+      "news": "Groin injury - 75% chance of playing",
       "score": 8.94
     },
     {
@@ -5943,7 +5943,7 @@
       "home": true,
       "difficulty": 2,
       "status": "i",
-      "news": "Thigh injury - Unknown return date",
+      "news": "Lack of match fitness - Unknown return date",
       "score": 8.0
     },
     {
@@ -6722,8 +6722,8 @@
       "fixture": "Chelsea",
       "home": false,
       "difficulty": 4,
-      "status": "d",
-      "news": "Foot injury - 50% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 6.75
     },
     {
@@ -6902,8 +6902,8 @@
       "fixture": "Bournemouth",
       "home": false,
       "difficulty": 4,
-      "status": "a",
-      "news": "",
+      "status": "i",
+      "news": "Unspecified injury - Unknown return date",
       "score": 6.5
     },
     {
