@@ -602,8 +602,8 @@
       "fixture": "Everton",
       "home": true,
       "difficulty": 3,
-      "status": "i",
-      "news": "Knock - Expected back 23 Nov",
+      "status": "d",
+      "news": "Knock - 75% chance of playing",
       "score": 70.5
     },
     {
@@ -1067,8 +1067,8 @@
       "fixture": "Ipswich Town",
       "home": true,
       "difficulty": 2,
-      "status": "d",
-      "news": "Ankle injury - 75% chance of playing",
+      "status": "i",
+      "news": "Ankle injury - Expected back 6 Dec",
       "score": 19.12
     },
     {
@@ -1367,8 +1367,8 @@
       "fixture": "Sunderland",
       "home": true,
       "difficulty": 2,
-      "status": "d",
-      "news": "Calf injury - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 17.08
     },
     {
@@ -1652,8 +1652,8 @@
       "fixture": "Man Utd",
       "home": true,
       "difficulty": 3,
-      "status": "d",
-      "news": "Unspecified injury - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 15.77
     },
     {
@@ -2252,8 +2252,8 @@
       "fixture": "Fulham",
       "home": true,
       "difficulty": 2,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Unspecified injury - 50% chance of playing",
       "score": 13.73
     },
     {
@@ -2612,8 +2612,8 @@
       "fixture": "Leeds",
       "home": true,
       "difficulty": 3,
-      "status": "d",
-      "news": "Unspecified injury - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 12.7
     },
     {
@@ -3167,8 +3167,8 @@
       "fixture": "Leeds",
       "home": true,
       "difficulty": 3,
-      "status": "d",
-      "news": "Unspecified injury - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 11.54
     },
     {
@@ -3212,8 +3212,8 @@
       "fixture": "Brighton",
       "home": true,
       "difficulty": 4,
-      "status": "d",
-      "news": "Hamstring injury - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 11.44
     },
     {
@@ -3542,8 +3542,8 @@
       "fixture": "Fulham",
       "home": true,
       "difficulty": 2,
-      "status": "d",
-      "news": "Unspecified injury - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 11.15
     },
     {
@@ -3662,8 +3662,8 @@
       "fixture": "Sunderland",
       "home": true,
       "difficulty": 2,
-      "status": "d",
-      "news": "Concussion - 75% chance of playing",
+      "status": "i",
+      "news": "Concussion - Expected back 28 Nov",
       "score": 10.89
     },
     {
@@ -3827,8 +3827,8 @@
       "fixture": "Fulham",
       "home": true,
       "difficulty": 2,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Unspecified injury - 50% chance of playing",
       "score": 10.64
     },
     {
@@ -4038,7 +4038,7 @@
       "home": true,
       "difficulty": 3,
       "status": "i",
-      "news": "Unspecified injury - Unknown return date",
+      "news": "Back injury - Unknown return date",
       "score": 10.26
     },
     {
@@ -4157,8 +4157,8 @@
       "fixture": "Ipswich Town",
       "home": true,
       "difficulty": 2,
-      "status": "i",
-      "news": "Muscular injury - Expected back 21 Nov",
+      "status": "a",
+      "news": "",
       "score": 10.03
     },
     {
@@ -4622,8 +4622,8 @@
       "fixture": "Ipswich Town",
       "home": true,
       "difficulty": 2,
-      "status": "i",
-      "news": "Knee injury - Unknown return date",
+      "status": "a",
+      "news": "",
       "score": 9.29
     },
     {
@@ -4728,7 +4728,7 @@
       "home": true,
       "difficulty": 2,
       "status": "d",
-      "news": "Unspecified injury - 75% chance of playing",
+      "news": "Hip injury - 75% chance of playing",
       "score": 9.13
     },
     {
@@ -4862,8 +4862,8 @@
       "fixture": "Hull City",
       "home": false,
       "difficulty": 2,
-      "status": "i",
-      "news": "Hamstring injury - Expected back 8 Nov",
+      "status": "a",
+      "news": "",
       "score": 8.94
     },
     {
@@ -5222,8 +5222,8 @@
       "fixture": "Brighton",
       "home": true,
       "difficulty": 4,
-      "status": "d",
-      "news": "Knee injury - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 8.54
     },
     {
@@ -5402,8 +5402,8 @@
       "fixture": "Sunderland",
       "home": true,
       "difficulty": 2,
-      "status": "d",
-      "news": "Hamstring injury - 50% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 8.16
     },
     {
@@ -5492,8 +5492,8 @@
       "fixture": "Ipswich Town",
       "home": true,
       "difficulty": 2,
-      "status": "a",
-      "news": "",
+      "status": "i",
+      "news": "Calf injury - Expected back 29 Nov",
       "score": 8.12
     },
     {
@@ -5748,7 +5748,7 @@
       "home": false,
       "difficulty": 2,
       "status": "i",
-      "news": "Hamstring injury - Expected back 22 Nov",
+      "news": "Hamstring injury - Expected back 2 Dec",
       "score": 8.0
     },
     {
@@ -6347,8 +6347,8 @@
       "fixture": "Everton",
       "home": true,
       "difficulty": 3,
-      "status": "d",
-      "news": "Knee injury - 75% chance of playing",
+      "status": "i",
+      "news": "Knee injury - Expected back 2 Dec",
       "score": 7.65
     },
     {
@@ -6407,8 +6407,8 @@
       "fixture": "Everton",
       "home": true,
       "difficulty": 3,
-      "status": "d",
-      "news": "Hamstring injury - 75% chance of playing",
+      "status": "i",
+      "news": "Hamstring injury - Expected back 2 Dec",
       "score": 7.61
     },
     {
@@ -6872,8 +6872,8 @@
       "fixture": "Man Utd",
       "home": true,
       "difficulty": 3,
-      "status": "i",
-      "news": "Hamstring injury - Unknown return date",
+      "status": "d",
+      "news": "Hamstring injury - 75% chance of playing",
       "score": 6.57
     },
     {
@@ -7097,8 +7097,8 @@
       "fixture": "Leeds",
       "home": true,
       "difficulty": 3,
-      "status": "d",
-      "news": "Head injury - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 6.01
     },
     {
@@ -7337,8 +7337,8 @@
       "fixture": "Everton",
       "home": true,
       "difficulty": 3,
-      "status": "d",
-      "news": "Hamstring injury - 25% chance of playing",
+      "status": "i",
+      "news": "Hamstring injury - Unknown return date",
       "score": 6.0
     },
     {
@@ -8192,8 +8192,8 @@
       "fixture": "Liverpool",
       "home": false,
       "difficulty": 4,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Unspecified injury - 75% chance of playing",
       "score": 4.32
     },
     {
@@ -8627,8 +8627,8 @@
       "fixture": "Liverpool",
       "home": false,
       "difficulty": 4,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Unspecified injury - 75% chance of playing",
       "score": 4.0
     },
     {

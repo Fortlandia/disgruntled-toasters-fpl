@@ -507,9 +507,9 @@
     "expected_goals": "0.21",
     "expected_assists": "0.22",
     "minutes": 656,
-    "status": "d",
-    "news": "Concussion - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "i",
+    "news": "Concussion - Expected back 28 Nov",
+    "chance_next_round": 0
   },
   {
     "id": 33,
@@ -795,9 +795,9 @@
     "expected_goals": "1.67",
     "expected_assists": "0.87",
     "minutes": 461,
-    "status": "d",
-    "news": "Calf injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 54,
@@ -971,9 +971,9 @@
     "expected_goals": "0.00",
     "expected_assists": "0.10",
     "minutes": 273,
-    "status": "d",
-    "news": "Hamstring injury - 50% chance of playing",
-    "chance_next_round": 50
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 618,
@@ -1563,9 +1563,9 @@
     "expected_goals": "0.51",
     "expected_assists": "0.05",
     "minutes": 241,
-    "status": "d",
-    "news": "Knee injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "i",
+    "news": "Knee injury - Expected back 2 Dec",
+    "chance_next_round": 0
   },
   {
     "id": 85,
@@ -1659,9 +1659,9 @@
     "expected_goals": "0.08",
     "expected_assists": "0.08",
     "minutes": 350,
-    "status": "d",
-    "news": "Hamstring injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "i",
+    "news": "Hamstring injury - Expected back 2 Dec",
+    "chance_next_round": 0
   },
   {
     "id": 92,
@@ -1803,9 +1803,9 @@
     "expected_goals": "0.43",
     "expected_assists": "0.00",
     "minutes": 3,
-    "status": "i",
-    "news": "Knock - Expected back 23 Nov",
-    "chance_next_round": 0
+    "status": "d",
+    "news": "Knock - 75% chance of playing",
+    "chance_next_round": 75
   },
   {
     "id": 102,
@@ -1835,9 +1835,9 @@
     "expected_goals": "0.00",
     "expected_assists": "0.00",
     "minutes": 0,
-    "status": "d",
-    "news": "Hamstring injury - 25% chance of playing",
-    "chance_next_round": 25
+    "status": "i",
+    "news": "Hamstring injury - Unknown return date",
+    "chance_next_round": 0
   },
   {
     "id": 105,
@@ -2156,7 +2156,7 @@
     "expected_assists": "0.00",
     "minutes": 0,
     "status": "i",
-    "news": "Hamstring injury - Expected back 22 Nov",
+    "news": "Hamstring injury - Expected back 2 Dec",
     "chance_next_round": 0
   },
   {
@@ -2427,9 +2427,9 @@
     "expected_goals": "0.31",
     "expected_assists": "0.01",
     "minutes": 154,
-    "status": "i",
-    "news": "Hamstring injury - Expected back 8 Nov",
-    "chance_next_round": 0
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 504,
@@ -2587,9 +2587,9 @@
     "expected_goals": "0.00",
     "expected_assists": "0.01",
     "minutes": 524,
-    "status": "d",
-    "news": "Head injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 40,
@@ -2764,7 +2764,7 @@
     "expected_assists": "0.23",
     "minutes": 412,
     "status": "i",
-    "news": "Unspecified injury - Unknown return date",
+    "news": "Back injury - Unknown return date",
     "chance_next_round": 0
   },
   {
@@ -2811,9 +2811,9 @@
     "expected_goals": "0.06",
     "expected_assists": "0.07",
     "minutes": 581,
-    "status": "d",
-    "news": "Unspecified injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 152,
@@ -2907,9 +2907,9 @@
     "expected_goals": "0.05",
     "expected_assists": "0.09",
     "minutes": 440,
-    "status": "d",
-    "news": "Unspecified injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 161,
@@ -5403,9 +5403,9 @@
     "expected_goals": "1.29",
     "expected_assists": "0.90",
     "minutes": 685,
-    "status": "d",
-    "news": "Hamstring injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 287,
@@ -5739,9 +5739,9 @@
     "expected_goals": "0.62",
     "expected_assists": "0.00",
     "minutes": 519,
-    "status": "d",
-    "news": "Knee injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 589,
@@ -7035,9 +7035,9 @@
     "expected_goals": "0.42",
     "expected_assists": "0.32",
     "minutes": 900,
-    "status": "d",
-    "news": "Unspecified injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 357,
@@ -7051,9 +7051,9 @@
     "expected_goals": "0.01",
     "expected_assists": "0.24",
     "minutes": 199,
-    "status": "i",
-    "news": "Hamstring injury - Unknown return date",
-    "chance_next_round": 0
+    "status": "d",
+    "news": "Hamstring injury - 75% chance of playing",
+    "chance_next_round": 75
   },
   {
     "id": 358,
@@ -7596,7 +7596,7 @@
     "expected_assists": "0.86",
     "minutes": 720,
     "status": "d",
-    "news": "Unspecified injury - 75% chance of playing",
+    "news": "Hip injury - 75% chance of playing",
     "chance_next_round": 75
   },
   {
@@ -7611,9 +7611,9 @@
     "expected_goals": "0.15",
     "expected_assists": "0.58",
     "minutes": 513,
-    "status": "a",
-    "news": "",
-    "chance_next_round": 100
+    "status": "d",
+    "news": "Unspecified injury - 50% chance of playing",
+    "chance_next_round": 50
   },
   {
     "id": 390,
@@ -7643,9 +7643,9 @@
     "expected_goals": "0.80",
     "expected_assists": "0.99",
     "minutes": 700,
-    "status": "d",
-    "news": "Unspecified injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 392,
@@ -7675,9 +7675,9 @@
     "expected_goals": "0.08",
     "expected_assists": "0.33",
     "minutes": 552,
-    "status": "a",
-    "news": "",
-    "chance_next_round": null
+    "status": "d",
+    "news": "Unspecified injury - 50% chance of playing",
+    "chance_next_round": 50
   },
   {
     "id": 394,
@@ -8091,9 +8091,9 @@
     "expected_goals": "0.00",
     "expected_assists": "0.00",
     "minutes": 0,
-    "status": "a",
-    "news": "",
-    "chance_next_round": 100
+    "status": "d",
+    "news": "Unspecified injury - 75% chance of playing",
+    "chance_next_round": 75
   },
   {
     "id": 412,
@@ -8251,9 +8251,9 @@
     "expected_goals": "0.12",
     "expected_assists": "0.04",
     "minutes": 224,
-    "status": "a",
-    "news": "",
-    "chance_next_round": 100
+    "status": "d",
+    "news": "Unspecified injury - 75% chance of playing",
+    "chance_next_round": 75
   },
   {
     "id": 422,
@@ -9627,9 +9627,9 @@
     "expected_goals": "0.00",
     "expected_assists": "0.02",
     "minutes": 75,
-    "status": "a",
-    "news": "",
-    "chance_next_round": 100
+    "status": "i",
+    "news": "Calf injury - Expected back 29 Nov",
+    "chance_next_round": 0
   },
   {
     "id": 401,
@@ -9659,9 +9659,9 @@
     "expected_goals": "0.54",
     "expected_assists": "0.95",
     "minutes": 330,
-    "status": "i",
-    "news": "Muscular injury - Expected back 21 Nov",
-    "chance_next_round": 0
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 455,
@@ -9979,9 +9979,9 @@
     "expected_goals": "0.66",
     "expected_assists": "0.53",
     "minutes": 477,
-    "status": "d",
-    "news": "Ankle injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "i",
+    "news": "Ankle injury - Expected back 6 Dec",
+    "chance_next_round": 0
   },
   {
     "id": 515,
@@ -10075,9 +10075,9 @@
     "expected_goals": "0.12",
     "expected_assists": "0.29",
     "minutes": 143,
-    "status": "i",
-    "news": "Knee injury - Unknown return date",
-    "chance_next_round": 0
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 521,

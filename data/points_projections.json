@@ -838,6 +838,22 @@
       "news": ""
     },
     {
+      "id": 391,
+      "name": "Gvardiol",
+      "club": "Man City",
+      "position": 2,
+      "price": 5.6,
+      "opponent": "Fulham",
+      "home": true,
+      "difficulty": 2,
+      "expected_minutes": 87.5,
+      "xg90": 0.103,
+      "xa90": 0.127,
+      "projected_points": 4.34,
+      "status": "a",
+      "news": ""
+    },
+    {
       "id": 430,
       "name": "Mount",
       "club": "Man Utd",
@@ -1026,22 +1042,6 @@
       "xg90": 0.143,
       "xa90": 0.019,
       "projected_points": 4.19,
-      "status": "a",
-      "news": ""
-    },
-    {
-      "id": 125,
-      "name": "Georginio",
-      "club": "Brighton",
-      "position": 4,
-      "price": 5.2,
-      "opponent": "Hull City",
-      "home": false,
-      "difficulty": 2,
-      "expected_minutes": 90,
-      "xg90": 0.146,
-      "xa90": 0.538,
-      "projected_points": 4.17,
       "status": "a",
       "news": ""
     }
