@@ -868,7 +868,7 @@
     "name": "N.Jackson",
     "club": "Aston Villa",
     "position": 4,
-    "price": 7.1,
+    "price": 7.2,
     "total_points": 54,
     "form": "11.0",
     "points_per_game": "6.0",
@@ -3844,7 +3844,7 @@
     "name": "Mitchell",
     "club": "Crystal Palace",
     "position": 2,
-    "price": 4.5,
+    "price": 4.4,
     "total_points": 33,
     "form": "1.7",
     "points_per_game": "3.3",
@@ -3916,7 +3916,7 @@
     "expected_assists": "0.01",
     "minutes": 15,
     "status": "i",
-    "news": "Groin injury - Expected back 21 Nov",
+    "news": "Groin injury - Expected back 29 Nov",
     "chance_next_round": 0
   },
   {
@@ -4220,7 +4220,7 @@
     "expected_assists": "0.03",
     "minutes": 189,
     "status": "i",
-    "news": "Calf injury - Expected back 21 Nov",
+    "news": "Calf injury - Expected back 29 Nov",
     "chance_next_round": 0
   },
   {
@@ -5060,7 +5060,7 @@
     "name": "Palacios",
     "club": "Fulham",
     "position": 3,
-    "price": 5.3,
+    "price": 5.2,
     "total_points": 19,
     "form": "2.0",
     "points_per_game": "2.4",
@@ -6228,7 +6228,7 @@
     "name": "Walle Egeli",
     "club": "Ipswich Town",
     "position": 4,
-    "price": 4.5,
+    "price": 4.4,
     "total_points": 2,
     "form": "0.0",
     "points_per_game": "1.0",

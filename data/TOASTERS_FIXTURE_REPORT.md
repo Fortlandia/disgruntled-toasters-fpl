@@ -1,6 +1,6 @@
 # 🍞 Disgruntled Toasters — Fixture Command Center
 
-Updated (UTC): 2026-11-19T20:36:13.668046+00:00
+Updated (UTC): 2026-11-20T02:19:26.623044+00:00
 **Next unfinished GW:** 11 · **Squad snapshot:** GW10
 
 ## Six-gameweek fixture watch
@@ -16,27 +16,7 @@ Updated (UTC): 2026-11-19T20:36:13.668046+00:00
 
 ## Fixture changes since previous run
 
-- **Coventry City vs Everton**: GW 21 → GW 21; kickoff 2027-01-16T15:00:00Z → 2027-01-16T12:30:00Z.
-- **Aston Villa vs Man Utd**: GW 21 → GW 21; kickoff 2027-01-16T15:00:00Z → 2027-01-16T17:30:00Z.
-- **Bournemouth vs Ipswich Town**: GW 21 → GW 21; kickoff 2027-01-16T15:00:00Z → 2027-01-17T14:00:00Z.
-- **Spurs vs Leeds**: GW 21 → GW 21; kickoff 2027-01-16T15:00:00Z → 2027-01-17T16:30:00Z.
-- **Brentford vs Brighton**: GW 21 → GW 21; kickoff 2027-01-16T15:00:00Z → 2027-01-18T20:00:00Z.
-- **Arsenal vs Newcastle**: GW 22 → GW 22; kickoff 2027-01-23T15:00:00Z → 2027-01-23T17:30:00Z.
-- **Brighton vs Man City**: GW 22 → GW 22; kickoff 2027-01-23T15:00:00Z → 2027-01-23T20:00:00Z.
-- **Crystal Palace vs Spurs**: GW 22 → GW 22; kickoff 2027-01-23T15:00:00Z → 2027-01-24T14:00:00Z.
-- **Everton vs Brentford**: GW 22 → GW 22; kickoff 2027-01-23T15:00:00Z → 2027-01-24T14:00:00Z.
-- **Nott'm Forest vs Bournemouth**: GW 22 → GW 22; kickoff 2027-01-23T15:00:00Z → 2027-01-24T14:00:00Z.
-- **Sunderland vs Coventry City**: GW 22 → GW 22; kickoff 2027-01-23T15:00:00Z → 2027-01-24T14:00:00Z.
-- **Man Utd vs Liverpool**: GW 22 → GW 22; kickoff 2027-01-23T15:00:00Z → 2027-01-24T16:30:00Z.
-- **Leeds vs Chelsea**: GW 22 → GW 22; kickoff 2027-01-23T15:00:00Z → 2027-01-25T20:00:00Z.
-- **Liverpool vs Everton**: GW 23 → GW 23; kickoff 2027-01-30T15:00:00Z → 2027-01-30T12:30:00Z.
-- **Chelsea vs Nott'm Forest**: GW 23 → GW 23; kickoff 2027-01-30T15:00:00Z → 2027-01-30T17:30:00Z.
-- **Bournemouth vs Fulham**: GW 23 → GW 23; kickoff 2027-01-30T15:00:00Z → 2027-01-31T14:00:00Z.
-- **Coventry City vs Leeds**: GW 23 → GW 23; kickoff 2027-01-30T15:00:00Z → 2027-01-31T14:00:00Z.
-- **Hull City vs Crystal Palace**: GW 23 → GW 23; kickoff 2027-01-30T15:00:00Z → 2027-01-31T14:00:00Z.
-- **Spurs vs Sunderland**: GW 23 → GW 23; kickoff 2027-01-30T15:00:00Z → 2027-01-31T14:00:00Z.
-- **Man City vs Arsenal**: GW 23 → GW 23; kickoff 2027-01-30T15:00:00Z → 2027-01-31T16:30:00Z.
-- **Brentford vs Man Utd**: GW 23 → GW 23; kickoff 2027-01-30T15:00:00Z → 2027-02-01T20:00:00Z.
+No changes detected (or this is the first run).
 
 ## Fixtures awaiting gameweek assignment
 
