@@ -188,7 +188,7 @@
     "expected_assists": "1.20",
     "minutes": 596,
     "status": "i",
-    "news": "Thigh injury - Unknown return date",
+    "news": "Thigh injury - Expected back 20 Dec",
     "chance_next_round": 0
   },
   {
@@ -299,9 +299,9 @@
     "expected_goals": "0.21",
     "expected_assists": "0.05",
     "minutes": 100,
-    "status": "d",
-    "news": "Hamstring injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "i",
+    "news": "Hamstring injury - Unknown return date",
+    "chance_next_round": 0
   },
   {
     "id": 20,
@@ -2364,7 +2364,7 @@
     "expected_assists": "0.03",
     "minutes": 12,
     "status": "i",
-    "news": "Unspecified injury - Expected back 22 Nov",
+    "news": "Unspecified injury - Unknown return date",
     "chance_next_round": 0
   },
   {
@@ -2539,9 +2539,9 @@
     "expected_goals": "0.54",
     "expected_assists": "0.31",
     "minutes": 450,
-    "status": "d",
-    "news": "Hip injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 652,
@@ -2555,9 +2555,9 @@
     "expected_goals": "0.00",
     "expected_assists": "0.00",
     "minutes": 0,
-    "status": "i",
-    "news": "Hamstring injury - Expected back 8 Nov",
-    "chance_next_round": 0
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 658,
@@ -4747,9 +4747,9 @@
     "expected_goals": "0.00",
     "expected_assists": "0.00",
     "minutes": 0,
-    "status": "a",
-    "news": "",
-    "chance_next_round": null
+    "status": "i",
+    "news": "Achilles injury - Unknown return date",
+    "chance_next_round": 0
   },
   {
     "id": 252,
@@ -4891,9 +4891,9 @@
     "expected_goals": "0.06",
     "expected_assists": "0.02",
     "minutes": 41,
-    "status": "a",
-    "news": "",
-    "chance_next_round": 100
+    "status": "i",
+    "news": "Hip injury - Expected back 29 Nov",
+    "chance_next_round": 0
   },
   {
     "id": 263,
@@ -4955,9 +4955,9 @@
     "expected_goals": "0.03",
     "expected_assists": "0.07",
     "minutes": 36,
-    "status": "i",
-    "news": "Knee injury - Expected back 21 Nov",
-    "chance_next_round": 0
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 268,

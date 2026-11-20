@@ -3722,8 +3722,8 @@
       "fixture": "Hull City",
       "home": false,
       "difficulty": 2,
-      "status": "d",
-      "news": "Hip injury - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 10.85
     },
     {
@@ -4353,7 +4353,7 @@
       "home": false,
       "difficulty": 3,
       "status": "i",
-      "news": "Thigh injury - Unknown return date",
+      "news": "Thigh injury - Expected back 20 Dec",
       "score": 9.65
     },
     {
@@ -4743,7 +4743,7 @@
       "home": false,
       "difficulty": 2,
       "status": "i",
-      "news": "Unspecified injury - Expected back 22 Nov",
+      "news": "Unspecified injury - Unknown return date",
       "score": 9.12
     },
     {
@@ -5162,8 +5162,8 @@
       "fixture": "Newcastle",
       "home": false,
       "difficulty": 3,
-      "status": "d",
-      "news": "Hamstring injury - 75% chance of playing",
+      "status": "i",
+      "news": "Hamstring injury - Unknown return date",
       "score": 8.57
     },
     {
@@ -5807,8 +5807,8 @@
       "fixture": "Hull City",
       "home": false,
       "difficulty": 2,
-      "status": "i",
-      "news": "Hamstring injury - Expected back 8 Nov",
+      "status": "a",
+      "news": "",
       "score": 8.0
     },
     {
@@ -8942,8 +8942,8 @@
       "fixture": "Man City",
       "home": false,
       "difficulty": 5,
-      "status": "i",
-      "news": "Knee injury - Expected back 21 Nov",
+      "status": "a",
+      "news": "",
       "score": 3.85
     },
     {
@@ -8957,8 +8957,8 @@
       "fixture": "Man City",
       "home": false,
       "difficulty": 5,
-      "status": "a",
-      "news": "",
+      "status": "i",
+      "news": "Hip injury - Expected back 29 Nov",
       "score": 2.88
     },
     {
@@ -9002,8 +9002,8 @@
       "fixture": "Man City",
       "home": false,
       "difficulty": 5,
-      "status": "a",
-      "news": "",
+      "status": "i",
+      "news": "Achilles injury - Unknown return date",
       "score": 2.0
     },
     {
