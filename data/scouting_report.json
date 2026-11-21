@@ -1,11 +1,11 @@
 {
-  "updated_utc": "2026-11-21T10:59:38.591199+00:00",
+  "updated_utc": "2026-11-21T19:14:51.011257+00:00",
   "team": "Disgruntled Toasters",
   "next_gameweek": 11,
   "league_position": 5,
-  "total_points": 610,
+  "total_points": 638,
   "bank_millions": 3.6,
-  "my_squad_gameweek": 10,
+  "my_squad_gameweek": 11,
   "my_squad": [
     {
       "name": "Raya",
@@ -13,10 +13,10 @@
       "position": 1,
       "captain": false,
       "vice_captain": false,
-      "total_points": 60,
-      "form": "6.0",
-      "status": "a",
-      "news": ""
+      "total_points": 61,
+      "form": "4.8",
+      "status": "d",
+      "news": "Unspecified injury - 75% chance of playing"
     },
     {
       "name": "Calafiori",
@@ -24,8 +24,8 @@
       "position": 2,
       "captain": false,
       "vice_captain": false,
-      "total_points": 57,
-      "form": "4.3",
+      "total_points": 58,
+      "form": "3.5",
       "status": "a",
       "news": ""
     },
@@ -35,8 +35,8 @@
       "position": 3,
       "captain": false,
       "vice_captain": false,
-      "total_points": 57,
-      "form": "10.7",
+      "total_points": 58,
+      "form": "8.2",
       "status": "a",
       "news": ""
     },
@@ -47,7 +47,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 75,
-      "form": "5.3",
+      "form": "4.0",
       "status": "a",
       "news": ""
     },
@@ -58,7 +58,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 46,
-      "form": "1.7",
+      "form": "1.2",
       "status": "a",
       "news": ""
     },
@@ -69,7 +69,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 70,
-      "form": "4.0",
+      "form": "3.0",
       "status": "a",
       "news": ""
     },
@@ -79,8 +79,8 @@
       "position": 7,
       "captain": false,
       "vice_captain": false,
-      "total_points": 52,
-      "form": "4.0",
+      "total_points": 57,
+      "form": "4.2",
       "status": "a",
       "news": ""
     },
@@ -90,8 +90,8 @@
       "position": 8,
       "captain": false,
       "vice_captain": false,
-      "total_points": 58,
-      "form": "5.3",
+      "total_points": 66,
+      "form": "6.0",
       "status": "a",
       "news": ""
     },
@@ -99,10 +99,10 @@
       "name": "Haaland",
       "club": "Man City",
       "position": 9,
-      "captain": true,
-      "vice_captain": false,
-      "total_points": 70,
-      "form": "4.0",
+      "captain": false,
+      "vice_captain": true,
+      "total_points": 72,
+      "form": "3.5",
       "status": "a",
       "news": ""
     },
@@ -111,9 +111,9 @@
       "club": "Bournemouth",
       "position": 10,
       "captain": false,
-      "vice_captain": true,
-      "total_points": 61,
-      "form": "8.0",
+      "vice_captain": false,
+      "total_points": 67,
+      "form": "7.5",
       "status": "a",
       "news": ""
     },
@@ -121,10 +121,10 @@
       "name": "N.Jackson",
       "club": "Aston Villa",
       "position": 11,
-      "captain": false,
+      "captain": true,
       "vice_captain": false,
-      "total_points": 54,
-      "form": "11.0",
+      "total_points": 56,
+      "form": "8.8",
       "status": "a",
       "news": ""
     },
@@ -134,30 +134,30 @@
       "position": 12,
       "captain": false,
       "vice_captain": false,
-      "total_points": 30,
-      "form": "5.0",
+      "total_points": 36,
+      "form": "5.2",
+      "status": "a",
+      "news": ""
+    },
+    {
+      "name": "Janelt",
+      "club": "Brentford",
+      "position": 13,
+      "captain": false,
+      "vice_captain": false,
+      "total_points": 37,
+      "form": "1.8",
       "status": "a",
       "news": ""
     },
     {
       "name": "N.Williams",
       "club": "Nott'm Forest",
-      "position": 13,
-      "captain": false,
-      "vice_captain": false,
-      "total_points": 34,
-      "form": "3.7",
-      "status": "d",
-      "news": "Ankle injury - 75% chance of playing"
-    },
-    {
-      "name": "Janelt",
-      "club": "Brentford",
       "position": 14,
       "captain": false,
       "vice_captain": false,
-      "total_points": 37,
-      "form": "2.3",
+      "total_points": 35,
+      "form": "3.0",
       "status": "a",
       "news": ""
     },
@@ -167,10 +167,10 @@
       "position": 15,
       "captain": false,
       "vice_captain": false,
-      "total_points": 32,
-      "form": "0.3",
-      "status": "d",
-      "news": "Calf injury - 75% chance of playing"
+      "total_points": 35,
+      "form": "1.0",
+      "status": "a",
+      "news": ""
     }
   ],
   "opponent": {

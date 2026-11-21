@@ -1,7 +1,7 @@
 # 🍞 Disgruntled Toasters — Fixture Command Center
 
-Updated (UTC): 2026-11-21T10:59:43.792884+00:00
-**Next unfinished GW:** 11 · **Squad snapshot:** GW10
+Updated (UTC): 2026-11-21T19:14:56.590989+00:00
+**Next unfinished GW:** 11 · **Squad snapshot:** GW11
 
 ## Six-gameweek fixture watch
 
