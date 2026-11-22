@@ -48,21 +48,21 @@
         "opponent": "Hull City",
         "home": false,
         "difficulty": 2,
-        "expected_minutes": 82.2,
-        "xg90": 0.267,
-        "xa90": 0.16,
-        "projected_points": 5.55,
+        "expected_minutes": 82.9,
+        "xg90": 0.241,
+        "xa90": 0.188,
+        "projected_points": 5.54,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 5.43,
+        "strength_adjusted_points": 5.37,
         "opponent_adjustment": 0.0,
         "opponent_league_position": 13,
         "opponent_attack_index": 0.879,
         "opponent_defensive_vulnerability_index": 0.879,
-        "v3_points": 5.55,
-        "original_expected_minutes": 82.2,
+        "v3_points": 5.54,
+        "original_expected_minutes": 82.9,
         "recent_expected_minutes": 80.4,
-        "minutes_adjustment_factor": 0.978,
+        "minutes_adjustment_factor": 0.97,
         "rotation_risk": "Low",
         "recent_minutes": [
           67,
@@ -71,7 +71,7 @@
           71,
           81
         ],
-        "minutes_adjusted_points": 5.43
+        "minutes_adjusted_points": 5.37
       },
       {
         "id": 31,
@@ -108,38 +108,38 @@
         "minutes_adjusted_points": 4.29
       },
       {
-        "id": 469,
-        "name": "N.Williams",
-        "club": "Nott'm Forest",
+        "id": 8,
+        "name": "Calafiori",
+        "club": "Arsenal",
         "position": 2,
-        "price": 4.9,
-        "opponent": "Bournemouth",
+        "price": 5.9,
+        "opponent": "Newcastle",
         "home": false,
-        "difficulty": 4,
-        "expected_minutes": 87.6,
-        "xg90": 0.095,
+        "difficulty": 3,
+        "expected_minutes": 85.7,
+        "xg90": 0.132,
         "xa90": 0.109,
-        "projected_points": 3.43,
+        "projected_points": 4.13,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 3.43,
-        "opponent_adjustment": -0.04,
-        "opponent_league_position": 7,
-        "opponent_attack_index": 1.108,
-        "opponent_defensive_vulnerability_index": 1.016,
-        "v3_points": 3.39,
-        "original_expected_minutes": 87.6,
-        "recent_expected_minutes": 88.6,
-        "minutes_adjustment_factor": 1.011,
+        "strength_adjusted_points": 3.36,
+        "opponent_adjustment": 0.07,
+        "opponent_league_position": 12,
+        "opponent_attack_index": 0.97,
+        "opponent_defensive_vulnerability_index": 1.108,
+        "v3_points": 4.2,
+        "original_expected_minutes": 85.7,
+        "recent_expected_minutes": 68.5,
+        "minutes_adjustment_factor": 0.8,
         "rotation_risk": "Low",
         "recent_minutes": [
+          81,
           90,
+          22,
           90,
-          83,
-          90,
-          90
+          68
         ],
-        "minutes_adjusted_points": 3.43
+        "minutes_adjusted_points": 3.36
       },
       {
         "id": 68,
@@ -184,21 +184,21 @@
         "opponent": "Hull City",
         "home": false,
         "difficulty": 2,
-        "expected_minutes": 88.0,
-        "xg90": 0.31,
-        "xa90": 0.227,
-        "projected_points": 4.76,
+        "expected_minutes": 88.2,
+        "xg90": 0.285,
+        "xa90": 0.243,
+        "projected_points": 4.8,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 4.52,
+        "strength_adjusted_points": 4.55,
         "opponent_adjustment": -0.2,
         "opponent_league_position": 13,
         "opponent_attack_index": 0.879,
         "opponent_defensive_vulnerability_index": 0.879,
-        "v3_points": 4.56,
-        "original_expected_minutes": 88.0,
+        "v3_points": 4.6,
+        "original_expected_minutes": 88.2,
         "recent_expected_minutes": 87.3,
-        "minutes_adjustment_factor": 0.992,
+        "minutes_adjustment_factor": 0.99,
         "rotation_risk": "Low",
         "recent_minutes": [
           90,
@@ -207,7 +207,7 @@
           90,
           90
         ],
-        "minutes_adjusted_points": 4.52
+        "minutes_adjusted_points": 4.55
       },
       {
         "id": 40,
@@ -252,21 +252,21 @@
         "opponent": "Liverpool",
         "home": false,
         "difficulty": 4,
-        "expected_minutes": 89.2,
-        "xg90": 0.467,
-        "xa90": 0.13,
-        "projected_points": 4.16,
+        "expected_minutes": 83.0,
+        "xg90": 0.456,
+        "xa90": 0.127,
+        "projected_points": 3.86,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 3.84,
-        "opponent_adjustment": -0.24,
+        "strength_adjusted_points": 3.82,
+        "opponent_adjustment": -0.23,
         "opponent_league_position": 4,
         "opponent_attack_index": 1.016,
         "opponent_defensive_vulnerability_index": 0.833,
-        "v3_points": 3.92,
-        "original_expected_minutes": 89.2,
+        "v3_points": 3.63,
+        "original_expected_minutes": 83.0,
         "recent_expected_minutes": 87.3,
-        "minutes_adjustment_factor": 0.979,
+        "minutes_adjustment_factor": 1.052,
         "rotation_risk": "Low",
         "recent_minutes": [
           90,
@@ -275,7 +275,7 @@
           90,
           82
         ],
-        "minutes_adjusted_points": 3.84
+        "minutes_adjusted_points": 3.82
       },
       {
         "id": 411,
@@ -380,43 +380,9 @@
         "minutes_adjusted_points": 4.38
       }
     ],
-    "projected_points": 48.72
+    "projected_points": 48.6
   },
   "bench": [
-    {
-      "id": 8,
-      "name": "Calafiori",
-      "club": "Arsenal",
-      "position": 2,
-      "price": 5.9,
-      "opponent": "Newcastle",
-      "home": false,
-      "difficulty": 3,
-      "expected_minutes": 85.7,
-      "xg90": 0.132,
-      "xa90": 0.109,
-      "projected_points": 4.13,
-      "status": "a",
-      "news": "",
-      "strength_adjusted_points": 3.36,
-      "opponent_adjustment": 0.07,
-      "opponent_league_position": 12,
-      "opponent_attack_index": 0.97,
-      "opponent_defensive_vulnerability_index": 1.108,
-      "v3_points": 4.2,
-      "original_expected_minutes": 85.7,
-      "recent_expected_minutes": 68.5,
-      "minutes_adjustment_factor": 0.8,
-      "rotation_risk": "Low",
-      "recent_minutes": [
-        81,
-        90,
-        22,
-        90,
-        68
-      ],
-      "minutes_adjusted_points": 3.36
-    },
     {
       "id": 173,
       "name": "Thomas",
@@ -450,6 +416,40 @@
         0
       ],
       "minutes_adjusted_points": 3.28
+    },
+    {
+      "id": 469,
+      "name": "N.Williams",
+      "club": "Nott'm Forest",
+      "position": 2,
+      "price": 4.9,
+      "opponent": "Bournemouth",
+      "home": false,
+      "difficulty": 4,
+      "expected_minutes": 87.6,
+      "xg90": 0.095,
+      "xa90": 0.109,
+      "projected_points": 3.23,
+      "status": "a",
+      "news": "",
+      "strength_adjusted_points": 3.23,
+      "opponent_adjustment": -0.04,
+      "opponent_league_position": 7,
+      "opponent_attack_index": 1.108,
+      "opponent_defensive_vulnerability_index": 1.016,
+      "v3_points": 3.19,
+      "original_expected_minutes": 87.6,
+      "recent_expected_minutes": 88.6,
+      "minutes_adjustment_factor": 1.011,
+      "rotation_risk": "Low",
+      "recent_minutes": [
+        90,
+        90,
+        83,
+        90,
+        90
+      ],
+      "minutes_adjusted_points": 3.23
     },
     {
       "id": 98,
@@ -563,21 +563,21 @@
     "opponent": "Hull City",
     "home": false,
     "difficulty": 2,
-    "expected_minutes": 82.2,
-    "xg90": 0.267,
-    "xa90": 0.16,
-    "projected_points": 5.55,
+    "expected_minutes": 82.9,
+    "xg90": 0.241,
+    "xa90": 0.188,
+    "projected_points": 5.54,
     "status": "a",
     "news": "",
-    "strength_adjusted_points": 5.43,
+    "strength_adjusted_points": 5.37,
     "opponent_adjustment": 0.0,
     "opponent_league_position": 13,
     "opponent_attack_index": 0.879,
     "opponent_defensive_vulnerability_index": 0.879,
-    "v3_points": 5.55,
-    "original_expected_minutes": 82.2,
+    "v3_points": 5.54,
+    "original_expected_minutes": 82.9,
     "recent_expected_minutes": 80.4,
-    "minutes_adjustment_factor": 0.978,
+    "minutes_adjustment_factor": 0.97,
     "rotation_risk": "Low",
     "recent_minutes": [
       67,
@@ -586,20 +586,18 @@
       71,
       81
     ],
-    "minutes_adjusted_points": 5.43
+    "minutes_adjusted_points": 5.37
   },
-  "captain_adjusted_total": 54.18,
+  "captain_adjusted_total": 54.06,
   "comparison_to_v3": {
     "previous_formation": "4-3-3",
     "new_formation": "3-4-3",
-    "previous_projected_points": 49.56,
-    "new_projected_points": 48.72,
+    "previous_projected_points": 49.49,
+    "new_projected_points": 48.6,
     "players_added": [
-      "Rogers",
-      "N.Williams"
+      "Mbeumo"
     ],
     "players_removed": [
-      "Calafiori",
       "Thomas"
     ],
     "captain_changed": true,
@@ -608,11 +606,11 @@
   "player_adjustments": [
     {
       "name": "De Cuyper",
-      "v3_points": 5.55,
-      "v4_points": 5.43,
-      "original_expected_minutes": 82.2,
+      "v3_points": 5.54,
+      "v4_points": 5.37,
+      "original_expected_minutes": 82.9,
       "recent_expected_minutes": 80.4,
-      "adjustment_factor": 0.978,
+      "adjustment_factor": 0.97,
       "rotation_risk": "Low"
     },
     {
@@ -635,11 +633,11 @@
     },
     {
       "name": "Groß",
-      "v3_points": 4.56,
-      "v4_points": 4.52,
-      "original_expected_minutes": 88.0,
+      "v3_points": 4.6,
+      "v4_points": 4.55,
+      "original_expected_minutes": 88.2,
       "recent_expected_minutes": 87.3,
-      "adjustment_factor": 0.992,
+      "adjustment_factor": 0.99,
       "rotation_risk": "Low"
     },
     {
@@ -688,21 +686,21 @@
       "rotation_risk": "High"
     },
     {
-      "name": "Mbeumo",
-      "v3_points": 3.92,
-      "v4_points": 3.84,
-      "original_expected_minutes": 89.2,
-      "recent_expected_minutes": 87.3,
-      "adjustment_factor": 0.979,
-      "rotation_risk": "Low"
-    },
-    {
       "name": "Rogers",
       "v3_points": 3.82,
       "v4_points": 3.88,
       "original_expected_minutes": 88.2,
       "recent_expected_minutes": 89.5,
       "adjustment_factor": 1.015,
+      "rotation_risk": "Low"
+    },
+    {
+      "name": "Mbeumo",
+      "v3_points": 3.63,
+      "v4_points": 3.82,
+      "original_expected_minutes": 83.0,
+      "recent_expected_minutes": 87.3,
+      "adjustment_factor": 1.052,
       "rotation_risk": "Low"
     },
     {
@@ -716,8 +714,8 @@
     },
     {
       "name": "N.Williams",
-      "v3_points": 3.39,
-      "v4_points": 3.43,
+      "v3_points": 3.19,
+      "v4_points": 3.23,
       "original_expected_minutes": 87.6,
       "recent_expected_minutes": 88.6,
       "adjustment_factor": 1.011,

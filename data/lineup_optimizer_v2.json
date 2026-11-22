@@ -3,7 +3,7 @@
   "squad_source_gameweek": 11,
   "methodology": "GW-specific experimental points projections. Not backtested. Uses latest published squad.",
   "recommended_lineup": {
-    "formation": "3-4-3",
+    "formation": "4-3-3",
     "players": [
       {
         "id": 57,
@@ -30,10 +30,10 @@
         "opponent": "Hull City",
         "home": false,
         "difficulty": 2,
-        "expected_minutes": 82.2,
-        "xg90": 0.267,
-        "xa90": 0.16,
-        "projected_points": 5.55,
+        "expected_minutes": 82.9,
+        "xg90": 0.241,
+        "xa90": 0.188,
+        "projected_points": 5.54,
         "status": "a",
         "news": ""
       },
@@ -70,6 +70,22 @@
         "news": ""
       },
       {
+        "id": 173,
+        "name": "Thomas",
+        "club": "Coventry City",
+        "position": 2,
+        "price": 4.0,
+        "opponent": "Crystal Palace",
+        "home": true,
+        "difficulty": 2,
+        "expected_minutes": 85.1,
+        "xg90": 0.07,
+        "xa90": 0.093,
+        "projected_points": 3.9,
+        "status": "a",
+        "news": ""
+      },
+      {
         "id": 68,
         "name": "Tavernier",
         "club": "Bournemouth",
@@ -94,10 +110,10 @@
         "opponent": "Hull City",
         "home": false,
         "difficulty": 2,
-        "expected_minutes": 88.0,
-        "xg90": 0.31,
-        "xa90": 0.227,
-        "projected_points": 4.76,
+        "expected_minutes": 88.2,
+        "xg90": 0.285,
+        "xa90": 0.243,
+        "projected_points": 4.8,
         "status": "a",
         "news": ""
       },
@@ -114,22 +130,6 @@
         "xg90": 0.302,
         "xa90": 0.143,
         "projected_points": 4.19,
-        "status": "a",
-        "news": ""
-      },
-      {
-        "id": 427,
-        "name": "Mbeumo",
-        "club": "Man Utd",
-        "position": 3,
-        "price": 7.8,
-        "opponent": "Liverpool",
-        "home": false,
-        "difficulty": 4,
-        "expected_minutes": 89.2,
-        "xg90": 0.467,
-        "xa90": 0.13,
-        "projected_points": 4.16,
         "status": "a",
         "news": ""
       },
@@ -182,22 +182,22 @@
         "news": ""
       }
     ],
-    "projected_points": 49.89
+    "projected_points": 49.66
   },
   "bench": [
     {
-      "id": 173,
-      "name": "Thomas",
-      "club": "Coventry City",
-      "position": 2,
-      "price": 4.0,
-      "opponent": "Crystal Palace",
-      "home": true,
-      "difficulty": 2,
-      "expected_minutes": 85.1,
-      "xg90": 0.07,
-      "xa90": 0.093,
-      "projected_points": 3.9,
+      "id": 427,
+      "name": "Mbeumo",
+      "club": "Man Utd",
+      "position": 3,
+      "price": 7.8,
+      "opponent": "Liverpool",
+      "home": false,
+      "difficulty": 4,
+      "expected_minutes": 83.0,
+      "xg90": 0.456,
+      "xa90": 0.127,
+      "projected_points": 3.86,
       "status": "a",
       "news": ""
     },
@@ -213,7 +213,7 @@
       "expected_minutes": 87.6,
       "xg90": 0.095,
       "xa90": 0.109,
-      "projected_points": 3.43,
+      "projected_points": 3.23,
       "status": "a",
       "news": ""
     },
@@ -275,10 +275,10 @@
     "opponent": "Hull City",
     "home": false,
     "difficulty": 2,
-    "expected_minutes": 82.2,
-    "xg90": 0.267,
-    "xa90": 0.16,
-    "projected_points": 5.55,
+    "expected_minutes": 82.9,
+    "xg90": 0.241,
+    "xa90": 0.188,
+    "projected_points": 5.54,
     "status": "a",
     "news": ""
   }

@@ -3,7 +3,7 @@
   "squad_source_gameweek": 11,
   "methodology": "Formation optimization using five-week heuristic scouting scores. Not projected FPL points. Players excluded from the rankings due to availability or minimum minutes are not considered. Results require manual review.",
   "recommended_lineup": {
-    "formation": "4-3-3",
+    "formation": "3-4-3",
     "players": [
       {
         "id": 57,
@@ -44,12 +44,12 @@
         "club_id": 5,
         "position": 2,
         "price": 5.5,
-        "minutes": 822,
-        "form": 4.0,
+        "minutes": 912,
+        "form": 4.2,
         "xgi_per90": 0.43,
         "average_fixture_difficulty": 2.8,
         "fixtures_evaluated": 5,
-        "score": 16.54,
+        "score": 16.95,
         "already_owned": true,
         "club_full": false
       },
@@ -70,22 +70,6 @@
         "club_full": true
       },
       {
-        "id": 469,
-        "name": "N.Williams",
-        "club": "Nott'm Forest",
-        "club_id": 18,
-        "position": 2,
-        "price": 4.9,
-        "minutes": 964,
-        "form": 3.0,
-        "xgi_per90": 0.2,
-        "average_fixture_difficulty": 3.4,
-        "fixtures_evaluated": 5,
-        "score": 12.22,
-        "already_owned": true,
-        "club_full": false
-      },
-      {
         "id": 68,
         "name": "Tavernier",
         "club": "Bournemouth",
@@ -100,6 +84,22 @@
         "score": 20.41,
         "already_owned": true,
         "club_full": true
+      },
+      {
+        "id": 124,
+        "name": "Groß",
+        "club": "Brighton",
+        "club_id": 5,
+        "position": 3,
+        "price": 6.3,
+        "minutes": 970,
+        "form": 4.0,
+        "xgi_per90": 0.53,
+        "average_fixture_difficulty": 2.8,
+        "fixtures_evaluated": 5,
+        "score": 17.04,
+        "already_owned": true,
+        "club_full": false
       },
       {
         "id": 40,
@@ -118,18 +118,18 @@
         "club_full": false
       },
       {
-        "id": 124,
-        "name": "Groß",
-        "club": "Brighton",
-        "club_id": 5,
+        "id": 427,
+        "name": "Mbeumo",
+        "club": "Man Utd",
+        "club_id": 16,
         "position": 3,
-        "price": 6.3,
-        "minutes": 880,
-        "form": 3.0,
-        "xgi_per90": 0.54,
+        "price": 7.8,
+        "minutes": 913,
+        "form": 1.5,
+        "xgi_per90": 0.58,
         "average_fixture_difficulty": 2.8,
         "fixtures_evaluated": 5,
-        "score": 15.08,
+        "score": 12.32,
         "already_owned": true,
         "club_full": false
       },
@@ -182,25 +182,9 @@
         "club_full": false
       }
     ],
-    "score": 198.68
+    "score": 201.15
   },
   "bench": [
-    {
-      "id": 427,
-      "name": "Mbeumo",
-      "club": "Man Utd",
-      "club_id": 16,
-      "position": 3,
-      "price": 7.8,
-      "minutes": 892,
-      "form": 1.2,
-      "xgi_per90": 0.6,
-      "average_fixture_difficulty": 2.8,
-      "fixtures_evaluated": 5,
-      "score": 11.79,
-      "already_owned": true,
-      "club_full": false
-    },
     {
       "id": 173,
       "name": "Thomas",
@@ -230,6 +214,22 @@
       "average_fixture_difficulty": 3.4,
       "fixtures_evaluated": 5,
       "score": 9.44,
+      "already_owned": true,
+      "club_full": false
+    },
+    {
+      "id": 469,
+      "name": "N.Williams",
+      "club": "Nott'm Forest",
+      "club_id": 18,
+      "position": 2,
+      "price": 4.9,
+      "minutes": 964,
+      "form": 1.3,
+      "xgi_per90": 0.2,
+      "average_fixture_difficulty": 3.4,
+      "fixtures_evaluated": 5,
+      "score": 8.82,
       "already_owned": true,
       "club_full": false
     }
