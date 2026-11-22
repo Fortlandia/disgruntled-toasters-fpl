@@ -28,7 +28,7 @@
         "club_id": 1,
         "position": 2,
         "price": 4.9,
-        "minutes": 813,
+        "minutes": 821,
         "form": 8.2,
         "xgi_per90": 0.08,
         "average_fixture_difficulty": 3.4,
@@ -60,7 +60,7 @@
         "club_id": 1,
         "position": 2,
         "price": 5.9,
-        "minutes": 849,
+        "minutes": 857,
         "form": 3.5,
         "xgi_per90": 0.24,
         "average_fixture_difficulty": 3.4,
@@ -81,7 +81,7 @@
         "xgi_per90": 0.2,
         "average_fixture_difficulty": 3.4,
         "fixtures_evaluated": 5,
-        "score": 12.21,
+        "score": 12.22,
         "already_owned": true,
         "club_full": false
       },
@@ -107,13 +107,13 @@
         "club": "Chelsea",
         "club_id": 6,
         "position": 3,
-        "price": 8.2,
+        "price": 8.3,
         "minutes": 970,
         "form": 4.2,
         "xgi_per90": 0.44,
         "average_fixture_difficulty": 3.2,
         "fixtures_evaluated": 5,
-        "score": 16.2,
+        "score": 16.22,
         "already_owned": true,
         "club_full": false
       },
@@ -142,10 +142,10 @@
         "price": 7.2,
         "minutes": 794,
         "form": 8.8,
-        "xgi_per90": 0.54,
+        "xgi_per90": 0.53,
         "average_fixture_difficulty": 2.2,
         "fixtures_evaluated": 5,
-        "score": 27.89,
+        "score": 27.86,
         "already_owned": true,
         "club_full": false
       },
@@ -155,13 +155,13 @@
         "club": "Bournemouth",
         "club_id": 3,
         "position": 4,
-        "price": 6.5,
+        "price": 6.6,
         "minutes": 927,
         "form": 7.5,
-        "xgi_per90": 0.63,
+        "xgi_per90": 0.64,
         "average_fixture_difficulty": 3.4,
         "fixtures_evaluated": 5,
-        "score": 23.37,
+        "score": 23.42,
         "already_owned": true,
         "club_full": true
       },
@@ -182,7 +182,7 @@
         "club_full": false
       }
     ],
-    "score": 198.63
+    "score": 198.68
   },
   "bench": [
     {
@@ -213,7 +213,7 @@
       "xgi_per90": 0.16,
       "average_fixture_difficulty": 2.6,
       "fixtures_evaluated": 5,
-      "score": 9.61,
+      "score": 9.62,
       "already_owned": true,
       "club_full": false
     },
@@ -243,10 +243,10 @@
     "price": 7.2,
     "minutes": 794,
     "form": 8.8,
-    "xgi_per90": 0.54,
+    "xgi_per90": 0.53,
     "average_fixture_difficulty": 2.2,
     "fixtures_evaluated": 5,
-    "score": 27.89,
+    "score": 27.86,
     "already_owned": true,
     "club_full": false
   },
@@ -256,13 +256,13 @@
     "club": "Bournemouth",
     "club_id": 3,
     "position": 4,
-    "price": 6.5,
+    "price": 6.6,
     "minutes": 927,
     "form": 7.5,
-    "xgi_per90": 0.63,
+    "xgi_per90": 0.64,
     "average_fixture_difficulty": 3.4,
     "fixtures_evaluated": 5,
-    "score": 23.37,
+    "score": 23.42,
     "already_owned": true,
     "club_full": true
   }

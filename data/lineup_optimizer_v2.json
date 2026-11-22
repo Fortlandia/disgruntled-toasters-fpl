@@ -47,9 +47,9 @@
         "home": false,
         "difficulty": 3,
         "expected_minutes": 90,
-        "xg90": 0.071,
-        "xa90": 0.006,
-        "projected_points": 4.23,
+        "xg90": 0.07,
+        "xa90": 0.005,
+        "projected_points": 4.22,
         "status": "a",
         "news": ""
       },
@@ -62,10 +62,10 @@
         "opponent": "Newcastle",
         "home": false,
         "difficulty": 3,
-        "expected_minutes": 84.9,
-        "xg90": 0.134,
-        "xa90": 0.108,
-        "projected_points": 4.1,
+        "expected_minutes": 85.7,
+        "xg90": 0.132,
+        "xa90": 0.109,
+        "projected_points": 4.13,
         "status": "a",
         "news": ""
       },
@@ -80,7 +80,7 @@
         "difficulty": 3,
         "expected_minutes": 84.5,
         "xg90": 0.413,
-        "xa90": 0.229,
+        "xa90": 0.228,
         "projected_points": 4.99,
         "status": "a",
         "news": ""
@@ -106,14 +106,14 @@
         "name": "Rogers",
         "club": "Chelsea",
         "position": 3,
-        "price": 8.2,
+        "price": 8.3,
         "opponent": "Leeds",
         "home": true,
         "difficulty": 3,
         "expected_minutes": 88.2,
-        "xg90": 0.298,
+        "xg90": 0.302,
         "xa90": 0.143,
-        "projected_points": 4.18,
+        "projected_points": 4.19,
         "status": "a",
         "news": ""
       },
@@ -154,14 +154,14 @@
         "name": "Evanilson",
         "club": "Bournemouth",
         "position": 4,
-        "price": 6.5,
+        "price": 6.6,
         "opponent": "Nott'm Forest",
         "home": true,
         "difficulty": 3,
         "expected_minutes": 84.3,
-        "xg90": 0.53,
-        "xa90": 0.105,
-        "projected_points": 4.55,
+        "xg90": 0.541,
+        "xa90": 0.104,
+        "projected_points": 4.58,
         "status": "a",
         "news": ""
       },
@@ -175,14 +175,14 @@
         "home": true,
         "difficulty": 2,
         "expected_minutes": 79.4,
-        "xg90": 0.409,
+        "xg90": 0.404,
         "xa90": 0.128,
-        "projected_points": 4.32,
+        "projected_points": 4.3,
         "status": "a",
         "news": ""
       }
     ],
-    "projected_points": 49.85
+    "projected_points": 49.89
   },
   "bench": [
     {
@@ -196,7 +196,7 @@
       "difficulty": 2,
       "expected_minutes": 85.1,
       "xg90": 0.07,
-      "xa90": 0.092,
+      "xa90": 0.093,
       "projected_points": 3.9,
       "status": "a",
       "news": ""
@@ -211,9 +211,9 @@
       "home": false,
       "difficulty": 4,
       "expected_minutes": 87.6,
-      "xg90": 0.093,
+      "xg90": 0.095,
       "xa90": 0.109,
-      "projected_points": 3.42,
+      "projected_points": 3.43,
       "status": "a",
       "news": ""
     },
@@ -247,7 +247,7 @@
       "xa90": 0.001,
       "projected_points": 2.48,
       "status": "d",
-      "news": "Unspecified injury - 75% chance of playing"
+      "news": "Shoulder injury - 75% chance of playing"
     }
   ],
   "captain": {
