@@ -347,7 +347,7 @@
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 19.61
+      "score": 19.62
     },
     {
       "id": 16,
@@ -362,7 +362,7 @@
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 18.91
+      "score": 18.92
     },
     {
       "id": 499,
@@ -889,7 +889,7 @@
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 19.61
+      "score": 19.62
     },
     {
       "id": 411,
@@ -918,7 +918,7 @@
       "home": true,
       "difficulty": 2,
       "status": "d",
-      "news": "Leg injury - 75% chance of playing",
+      "news": "Ankle injury - 75% chance of playing",
       "score": 19.13
     },
     {
@@ -934,7 +934,7 @@
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 18.91
+      "score": 18.92
     },
     {
       "id": 499,
@@ -1507,6 +1507,21 @@
       "score": 15.95
     },
     {
+      "id": 13,
+      "name": "Rice",
+      "club": "Arsenal",
+      "position": 3,
+      "price": 7.5,
+      "form": 4.2,
+      "xgi_per90": 0.3,
+      "fixture": "Newcastle",
+      "home": false,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 15.91
+    },
+    {
       "id": 336,
       "name": "Okafor",
       "club": "Leeds",
@@ -1700,21 +1715,6 @@
       "status": "a",
       "news": "",
       "score": 15.17
-    },
-    {
-      "id": 13,
-      "name": "Rice",
-      "club": "Arsenal",
-      "position": 3,
-      "price": 7.5,
-      "form": 3.8,
-      "xgi_per90": 0.3,
-      "fixture": "Newcastle",
-      "home": false,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 15.11
     },
     {
       "id": 647,
@@ -3109,7 +3109,7 @@
       "difficulty": 4,
       "status": "a",
       "news": "",
-      "score": 11.38
+      "score": 11.4
     },
     {
       "id": 37,
@@ -3214,7 +3214,7 @@
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 11.17
+      "score": 11.14
     },
     {
       "id": 391,
@@ -3813,7 +3813,7 @@
       "home": true,
       "difficulty": 2,
       "status": "d",
-      "news": "Unspecified injury - 75% chance of playing",
+      "news": "Hamstring injury - 75% chance of playing",
       "score": 10.35
     },
     {
@@ -4567,21 +4567,6 @@
       "score": 9.29
     },
     {
-      "id": 445,
-      "name": "Thiaw",
-      "club": "Newcastle",
-      "position": 2,
-      "price": 4.9,
-      "form": 2.5,
-      "xgi_per90": 0.05,
-      "fixture": "Arsenal",
-      "home": true,
-      "difficulty": 4,
-      "status": "a",
-      "news": "",
-      "score": 9.27
-    },
-    {
       "id": 148,
       "name": "Hato",
       "club": "Chelsea",
@@ -4621,6 +4606,21 @@
       "xgi_per90": 0.17,
       "fixture": "Brentford",
       "home": false,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 9.25
+    },
+    {
+      "id": 445,
+      "name": "Thiaw",
+      "club": "Newcastle",
+      "position": 2,
+      "price": 4.9,
+      "form": 2.5,
+      "xgi_per90": 0.05,
+      "fixture": "Arsenal",
+      "home": true,
       "difficulty": 4,
       "status": "a",
       "news": "",
@@ -5028,7 +5028,7 @@
       "home": false,
       "difficulty": 3,
       "status": "d",
-      "news": "Unspecified injury - 75% chance of playing",
+      "news": "Calf injury - 75% chance of playing",
       "score": 8.68
     },
     {
