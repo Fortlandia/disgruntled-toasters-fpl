@@ -145,7 +145,7 @@
         "expected_minutes": 89.0,
         "xg90": 0.744,
         "xa90": 0.085,
-        "projected_points": 5.59,
+        "projected_points": 5.41,
         "status": "a",
         "news": ""
       },
@@ -177,12 +177,12 @@
         "expected_minutes": 79.4,
         "xg90": 0.404,
         "xa90": 0.128,
-        "projected_points": 4.3,
+        "projected_points": 4.14,
         "status": "a",
         "news": ""
       }
     ],
-    "projected_points": 49.66
+    "projected_points": 49.32
   },
   "bench": [
     {
@@ -251,22 +251,6 @@
     }
   ],
   "captain": {
-    "id": 411,
-    "name": "Haaland",
-    "club": "Man City",
-    "position": 4,
-    "price": 15.8,
-    "opponent": "Fulham",
-    "home": true,
-    "difficulty": 2,
-    "expected_minutes": 89.0,
-    "xg90": 0.744,
-    "xa90": 0.085,
-    "projected_points": 5.59,
-    "status": "a",
-    "news": ""
-  },
-  "vice_captain": {
     "id": 115,
     "name": "De Cuyper",
     "club": "Brighton",
@@ -279,6 +263,22 @@
     "xg90": 0.241,
     "xa90": 0.188,
     "projected_points": 5.54,
+    "status": "a",
+    "news": ""
+  },
+  "vice_captain": {
+    "id": 411,
+    "name": "Haaland",
+    "club": "Man City",
+    "position": 4,
+    "price": 15.8,
+    "opponent": "Fulham",
+    "home": true,
+    "difficulty": 2,
+    "expected_minutes": 89.0,
+    "xg90": 0.744,
+    "xa90": 0.085,
+    "projected_points": 5.41,
     "status": "a",
     "news": ""
   }

@@ -184,11 +184,11 @@
         "expected_minutes": 89.0,
         "xg90": 0.744,
         "xa90": 0.085,
-        "projected_points": 5.59,
+        "projected_points": 5.41,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 5.44,
-        "opponent_adjustment": -0.15,
+        "strength_adjusted_points": 5.27,
+        "opponent_adjustment": -0.14,
         "opponent_league_position": 15,
         "opponent_attack_index": 0.833,
         "opponent_defensive_vulnerability_index": 0.924
@@ -226,17 +226,17 @@
         "expected_minutes": 79.4,
         "xg90": 0.404,
         "xa90": 0.128,
-        "projected_points": 4.3,
+        "projected_points": 4.14,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 4.53,
-        "opponent_adjustment": 0.23,
+        "strength_adjusted_points": 4.36,
+        "opponent_adjustment": 0.22,
         "opponent_league_position": 19,
         "opponent_attack_index": 0.741,
         "opponent_defensive_vulnerability_index": 1.153
       }
     ],
-    "projected_points": 49.49
+    "projected_points": 49.15
   },
   "bench": [
     {
@@ -357,24 +357,24 @@
     "expected_minutes": 89.0,
     "xg90": 0.744,
     "xa90": 0.085,
-    "projected_points": 5.59,
+    "projected_points": 5.41,
     "status": "a",
     "news": "",
-    "strength_adjusted_points": 5.44,
-    "opponent_adjustment": -0.15,
+    "strength_adjusted_points": 5.27,
+    "opponent_adjustment": -0.14,
     "opponent_league_position": 15,
     "opponent_attack_index": 0.833,
     "opponent_defensive_vulnerability_index": 0.924
   },
-  "captain_adjusted_total": 55.03,
+  "captain_adjusted_total": 54.69,
   "comparison_to_v2": {
     "previous_formation": "4-3-3",
     "new_formation": "4-3-3",
-    "previous_projected_points": 49.66,
-    "new_projected_points": 49.49,
+    "previous_projected_points": 49.32,
+    "new_projected_points": 49.15,
     "players_added": [],
     "players_removed": [],
-    "captain_changed": true,
-    "vice_captain_changed": true
+    "captain_changed": false,
+    "vice_captain_changed": false
   }
 }
