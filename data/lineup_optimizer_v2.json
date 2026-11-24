@@ -38,22 +38,6 @@
         "news": ""
       },
       {
-        "id": 31,
-        "name": "Konsa",
-        "club": "Arsenal",
-        "position": 2,
-        "price": 4.9,
-        "opponent": "Newcastle",
-        "home": false,
-        "difficulty": 3,
-        "expected_minutes": 90,
-        "xg90": 0.07,
-        "xa90": 0.005,
-        "projected_points": 4.22,
-        "status": "a",
-        "news": ""
-      },
-      {
         "id": 8,
         "name": "Calafiori",
         "club": "Arsenal",
@@ -65,7 +49,23 @@
         "expected_minutes": 85.7,
         "xg90": 0.132,
         "xa90": 0.109,
-        "projected_points": 4.13,
+        "projected_points": 4.23,
+        "status": "a",
+        "news": ""
+      },
+      {
+        "id": 31,
+        "name": "Konsa",
+        "club": "Arsenal",
+        "position": 2,
+        "price": 4.9,
+        "opponent": "Newcastle",
+        "home": false,
+        "difficulty": 3,
+        "expected_minutes": 90,
+        "xg90": 0.07,
+        "xa90": 0.005,
+        "projected_points": 3.99,
         "status": "a",
         "news": ""
       },
@@ -90,7 +90,7 @@
         "name": "Tavernier",
         "club": "Bournemouth",
         "position": 3,
-        "price": 6.7,
+        "price": 6.8,
         "opponent": "Nott'm Forest",
         "home": true,
         "difficulty": 3,
@@ -129,7 +129,7 @@
         "expected_minutes": 88.2,
         "xg90": 0.302,
         "xa90": 0.143,
-        "projected_points": 4.19,
+        "projected_points": 4.32,
         "status": "a",
         "news": ""
       },
@@ -226,10 +226,10 @@
       "opponent": "Everton",
       "home": true,
       "difficulty": 3,
-      "expected_minutes": 90,
-      "xg90": 0.059,
-      "xa90": 0.07,
-      "projected_points": 2.56,
+      "expected_minutes": 89.1,
+      "xg90": 0.056,
+      "xa90": 0.081,
+      "projected_points": 2.84,
       "status": "a",
       "news": ""
     },
@@ -242,12 +242,12 @@
       "opponent": "Newcastle",
       "home": false,
       "difficulty": 3,
-      "expected_minutes": 66.1,
+      "expected_minutes": 44.0,
       "xg90": 0.0,
       "xa90": 0.001,
-      "projected_points": 2.48,
+      "projected_points": 1.61,
       "status": "d",
-      "news": "Shoulder injury - 75% chance of playing"
+      "news": "Shoulder injury - 50% chance of playing"
     }
   ],
   "captain": {
