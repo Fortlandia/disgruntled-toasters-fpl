@@ -1,7 +1,7 @@
 {
-  "updated_utc": "2026-11-24T13:41:22.212199+00:00",
+  "updated_utc": "2026-11-24T23:53:49.936006+00:00",
   "team": "Disgruntled Toasters",
-  "next_gameweek": 11,
+  "next_gameweek": 12,
   "league_position": 7,
   "total_points": 644,
   "bank_millions": 3.6,
@@ -47,7 +47,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 76,
-      "form": "4.2",
+      "form": "5.3",
       "status": "a",
       "news": ""
     },
@@ -58,7 +58,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 47,
-      "form": "1.5",
+      "form": "1.3",
       "status": "a",
       "news": ""
     },
@@ -69,7 +69,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 74,
-      "form": "4.0",
+      "form": "5.3",
       "status": "a",
       "news": ""
     },
@@ -91,7 +91,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 66,
-      "form": "6.0",
+      "form": "4.7",
       "status": "a",
       "news": ""
     },
@@ -113,7 +113,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 67,
-      "form": "7.5",
+      "form": "8.0",
       "status": "a",
       "news": ""
     },
@@ -135,7 +135,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 36,
-      "form": "5.2",
+      "form": "4.7",
       "status": "a",
       "news": ""
     },
@@ -146,7 +146,7 @@
       "captain": false,
       "vice_captain": false,
       "total_points": 47,
-      "form": "4.2",
+      "form": "5.7",
       "status": "a",
       "news": ""
     },
@@ -174,82 +174,256 @@
     }
   ],
   "opponent": {
-    "name": "AVERAGE",
-    "team_id": null,
-    "squad_gameweek": null,
-    "squad": []
+    "name": "HaCunha Matata",
+    "team_id": 1037053,
+    "squad_gameweek": 11,
+    "squad": [
+      {
+        "name": "Raya",
+        "club": "Arsenal",
+        "position": 1,
+        "captain": false,
+        "vice_captain": false,
+        "total_points": 61,
+        "form": "4.0",
+        "status": "d",
+        "news": "Shoulder injury - 50% chance of playing"
+      },
+      {
+        "name": "Calafiori",
+        "club": "Arsenal",
+        "position": 2,
+        "captain": false,
+        "vice_captain": false,
+        "total_points": 58,
+        "form": "4.3",
+        "status": "a",
+        "news": ""
+      },
+      {
+        "name": "Gvardiol",
+        "club": "Man City",
+        "position": 3,
+        "captain": false,
+        "vice_captain": false,
+        "total_points": 45,
+        "form": "1.0",
+        "status": "a",
+        "news": ""
+      },
+      {
+        "name": "De Cuyper",
+        "club": "Brighton",
+        "position": 4,
+        "captain": false,
+        "vice_captain": false,
+        "total_points": 76,
+        "form": "5.3",
+        "status": "a",
+        "news": ""
+      },
+      {
+        "name": "Van Hecke",
+        "club": "Spurs",
+        "position": 5,
+        "captain": false,
+        "vice_captain": false,
+        "total_points": 63,
+        "form": "8.3",
+        "status": "a",
+        "news": ""
+      },
+      {
+        "name": "Palmer",
+        "club": "Chelsea",
+        "position": 6,
+        "captain": false,
+        "vice_captain": false,
+        "total_points": 49,
+        "form": "4.0",
+        "status": "a",
+        "news": ""
+      },
+      {
+        "name": "Ødegaard",
+        "club": "Arsenal",
+        "position": 7,
+        "captain": false,
+        "vice_captain": false,
+        "total_points": 55,
+        "form": "6.3",
+        "status": "a",
+        "news": ""
+      },
+      {
+        "name": "Rogers",
+        "club": "Chelsea",
+        "position": 8,
+        "captain": false,
+        "vice_captain": false,
+        "total_points": 57,
+        "form": "5.3",
+        "status": "a",
+        "news": ""
+      },
+      {
+        "name": "Groß",
+        "club": "Brighton",
+        "position": 9,
+        "captain": false,
+        "vice_captain": false,
+        "total_points": 74,
+        "form": "5.3",
+        "status": "a",
+        "news": ""
+      },
+      {
+        "name": "Haaland",
+        "club": "Man City",
+        "position": 10,
+        "captain": true,
+        "vice_captain": false,
+        "total_points": 72,
+        "form": "2.0",
+        "status": "a",
+        "news": ""
+      },
+      {
+        "name": "Evanilson",
+        "club": "Bournemouth",
+        "position": 11,
+        "captain": false,
+        "vice_captain": true,
+        "total_points": 67,
+        "form": "8.0",
+        "status": "a",
+        "news": ""
+      },
+      {
+        "name": "Zetterer",
+        "club": "Leeds",
+        "position": 12,
+        "captain": false,
+        "vice_captain": false,
+        "total_points": 0,
+        "form": "0.0",
+        "status": "a",
+        "news": ""
+      },
+      {
+        "name": "Emersonn",
+        "club": "Ipswich Town",
+        "position": 13,
+        "captain": false,
+        "vice_captain": false,
+        "total_points": 35,
+        "form": "1.3",
+        "status": "a",
+        "news": ""
+      },
+      {
+        "name": "Hall",
+        "club": "Newcastle",
+        "position": 14,
+        "captain": false,
+        "vice_captain": false,
+        "total_points": 47,
+        "form": "2.3",
+        "status": "d",
+        "news": "Unspecified injury - 75% chance of playing"
+      },
+      {
+        "name": "Olusesi",
+        "club": "Spurs",
+        "position": 15,
+        "captain": false,
+        "vice_captain": false,
+        "total_points": 0,
+        "form": "0.0",
+        "status": "a",
+        "news": ""
+      }
+    ]
   },
-  "shared_players": [],
+  "shared_players": [
+    "Calafiori",
+    "De Cuyper",
+    "Evanilson",
+    "Groß",
+    "Haaland",
+    "Raya",
+    "Rogers"
+  ],
   "fixtures": [
     {
-      "home": "Man City",
-      "away": "Fulham",
-      "kickoff": "2026-11-21T12:30:00Z",
+      "home": "Nott'm Forest",
+      "away": "Chelsea",
+      "kickoff": "2026-11-27T20:00:00Z",
+      "home_difficulty": 4,
+      "away_difficulty": 2
+    },
+    {
+      "home": "Leeds",
+      "away": "Coventry City",
+      "kickoff": "2026-11-28T15:00:00Z",
       "home_difficulty": 2,
+      "away_difficulty": 3
+    },
+    {
+      "home": "Man Utd",
+      "away": "Brentford",
+      "kickoff": "2026-11-28T15:00:00Z",
+      "home_difficulty": 3,
+      "away_difficulty": 3
+    },
+    {
+      "home": "Ipswich Town",
+      "away": "Aston Villa",
+      "kickoff": "2026-11-28T17:30:00Z",
+      "home_difficulty": 3,
+      "away_difficulty": 2
+    },
+    {
+      "home": "Everton",
+      "away": "Liverpool",
+      "kickoff": "2026-11-29T12:00:00Z",
+      "home_difficulty": 4,
+      "away_difficulty": 3
+    },
+    {
+      "home": "Brighton",
+      "away": "Newcastle",
+      "kickoff": "2026-11-29T14:05:00Z",
+      "home_difficulty": 3,
+      "away_difficulty": 4
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Hull City",
+      "kickoff": "2026-11-29T14:05:00Z",
+      "home_difficulty": 2,
+      "away_difficulty": 2
+    },
+    {
+      "home": "Fulham",
+      "away": "Bournemouth",
+      "kickoff": "2026-11-29T14:05:00Z",
+      "home_difficulty": 3,
+      "away_difficulty": 3
+    },
+    {
+      "home": "Sunderland",
+      "away": "Spurs",
+      "kickoff": "2026-11-29T14:05:00Z",
+      "home_difficulty": 3,
+      "away_difficulty": 3
+    },
+    {
+      "home": "Arsenal",
+      "away": "Man City",
+      "kickoff": "2026-11-29T16:30:00Z",
+      "home_difficulty": 4,
       "away_difficulty": 5
-    },
-    {
-      "home": "Aston Villa",
-      "away": "Sunderland",
-      "kickoff": "2026-11-21T15:00:00Z",
-      "home_difficulty": 2,
-      "away_difficulty": 3
-    },
-    {
-      "home": "Bournemouth",
-      "away": "Nott'm Forest",
-      "kickoff": "2026-11-21T15:00:00Z",
-      "home_difficulty": 3,
-      "away_difficulty": 4
-    },
-    {
-      "home": "Chelsea",
-      "away": "Leeds",
-      "kickoff": "2026-11-21T15:00:00Z",
-      "home_difficulty": 3,
-      "away_difficulty": 4
-    },
-    {
-      "home": "Coventry City",
-      "away": "Crystal Palace",
-      "kickoff": "2026-11-21T15:00:00Z",
-      "home_difficulty": 2,
-      "away_difficulty": 2
-    },
-    {
-      "home": "Spurs",
-      "away": "Ipswich Town",
-      "kickoff": "2026-11-21T15:00:00Z",
-      "home_difficulty": 2,
-      "away_difficulty": 3
-    },
-    {
-      "home": "Newcastle",
-      "away": "Arsenal",
-      "kickoff": "2026-11-21T17:30:00Z",
-      "home_difficulty": 4,
-      "away_difficulty": 3
-    },
-    {
-      "home": "Hull City",
-      "away": "Brighton",
-      "kickoff": "2026-11-22T14:00:00Z",
-      "home_difficulty": 4,
-      "away_difficulty": 2
-    },
-    {
-      "home": "Liverpool",
-      "away": "Man Utd",
-      "kickoff": "2026-11-22T16:30:00Z",
-      "home_difficulty": 3,
-      "away_difficulty": 4
-    },
-    {
-      "home": "Brentford",
-      "away": "Everton",
-      "kickoff": "2026-11-23T20:00:00Z",
-      "home_difficulty": 3,
-      "away_difficulty": 4
     }
   ]
 }
