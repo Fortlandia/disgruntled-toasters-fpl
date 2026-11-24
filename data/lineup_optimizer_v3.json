@@ -19,11 +19,11 @@
         "projected_points": 3.42,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 3.5,
-        "opponent_adjustment": 0.08,
-        "opponent_league_position": 16,
-        "opponent_attack_index": 0.787,
-        "opponent_defensive_vulnerability_index": 0.97
+        "strength_adjusted_points": 3.52,
+        "opponent_adjustment": 0.1,
+        "opponent_league_position": 17,
+        "opponent_attack_index": 0.737,
+        "opponent_defensive_vulnerability_index": 0.994
       },
       {
         "id": 115,
@@ -40,11 +40,11 @@
         "projected_points": 5.54,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 5.54,
-        "opponent_adjustment": 0.0,
-        "opponent_league_position": 13,
-        "opponent_attack_index": 0.879,
-        "opponent_defensive_vulnerability_index": 0.879
+        "strength_adjusted_points": 5.48,
+        "opponent_adjustment": -0.06,
+        "opponent_league_position": 11,
+        "opponent_attack_index": 0.908,
+        "opponent_defensive_vulnerability_index": 0.823
       },
       {
         "id": 8,
@@ -63,9 +63,9 @@
         "news": "",
         "strength_adjusted_points": 4.3,
         "opponent_adjustment": 0.07,
-        "opponent_league_position": 12,
-        "opponent_attack_index": 0.97,
-        "opponent_defensive_vulnerability_index": 1.108
+        "opponent_league_position": 13,
+        "opponent_attack_index": 0.994,
+        "opponent_defensive_vulnerability_index": 1.122
       },
       {
         "id": 173,
@@ -82,11 +82,11 @@
         "projected_points": 3.9,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 4.1,
-        "opponent_adjustment": 0.2,
+        "strength_adjusted_points": 4.09,
+        "opponent_adjustment": 0.19,
         "opponent_league_position": 20,
-        "opponent_attack_index": 0.833,
-        "opponent_defensive_vulnerability_index": 1.474
+        "opponent_attack_index": 0.865,
+        "opponent_defensive_vulnerability_index": 1.506
       },
       {
         "id": 31,
@@ -103,11 +103,11 @@
         "projected_points": 3.99,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 4.06,
-        "opponent_adjustment": 0.07,
-        "opponent_league_position": 12,
-        "opponent_attack_index": 0.97,
-        "opponent_defensive_vulnerability_index": 1.108
+        "strength_adjusted_points": 4.05,
+        "opponent_adjustment": 0.06,
+        "opponent_league_position": 13,
+        "opponent_attack_index": 0.994,
+        "opponent_defensive_vulnerability_index": 1.122
       },
       {
         "id": 68,
@@ -124,11 +124,11 @@
         "projected_points": 4.99,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 4.94,
-        "opponent_adjustment": -0.05,
-        "opponent_league_position": 16,
-        "opponent_attack_index": 0.787,
-        "opponent_defensive_vulnerability_index": 0.97
+        "strength_adjusted_points": 4.98,
+        "opponent_adjustment": -0.01,
+        "opponent_league_position": 17,
+        "opponent_attack_index": 0.737,
+        "opponent_defensive_vulnerability_index": 0.994
       },
       {
         "id": 124,
@@ -145,11 +145,11 @@
         "projected_points": 4.8,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 4.6,
-        "opponent_adjustment": -0.2,
-        "opponent_league_position": 13,
-        "opponent_attack_index": 0.879,
-        "opponent_defensive_vulnerability_index": 0.879
+        "strength_adjusted_points": 4.5,
+        "opponent_adjustment": -0.3,
+        "opponent_league_position": 11,
+        "opponent_attack_index": 0.908,
+        "opponent_defensive_vulnerability_index": 0.823
       },
       {
         "id": 40,
@@ -168,9 +168,9 @@
         "news": "",
         "strength_adjusted_points": 3.94,
         "opponent_adjustment": -0.38,
-        "opponent_league_position": 9,
-        "opponent_attack_index": 0.833,
-        "opponent_defensive_vulnerability_index": 0.741
+        "opponent_league_position": 7,
+        "opponent_attack_index": 0.951,
+        "opponent_defensive_vulnerability_index": 0.737
       },
       {
         "id": 411,
@@ -187,11 +187,11 @@
         "projected_points": 5.41,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 5.27,
-        "opponent_adjustment": -0.14,
+        "strength_adjusted_points": 5.24,
+        "opponent_adjustment": -0.17,
         "opponent_league_position": 15,
-        "opponent_attack_index": 0.833,
-        "opponent_defensive_vulnerability_index": 0.924
+        "opponent_attack_index": 0.823,
+        "opponent_defensive_vulnerability_index": 0.908
       },
       {
         "id": 79,
@@ -208,11 +208,11 @@
         "projected_points": 4.58,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 4.53,
-        "opponent_adjustment": -0.05,
-        "opponent_league_position": 16,
-        "opponent_attack_index": 0.787,
-        "opponent_defensive_vulnerability_index": 0.97
+        "strength_adjusted_points": 4.57,
+        "opponent_adjustment": -0.01,
+        "opponent_league_position": 17,
+        "opponent_attack_index": 0.737,
+        "opponent_defensive_vulnerability_index": 0.994
       },
       {
         "id": 166,
@@ -229,14 +229,14 @@
         "projected_points": 4.14,
         "status": "a",
         "news": "",
-        "strength_adjusted_points": 4.36,
-        "opponent_adjustment": 0.22,
-        "opponent_league_position": 19,
-        "opponent_attack_index": 0.741,
-        "opponent_defensive_vulnerability_index": 1.153
+        "strength_adjusted_points": 4.25,
+        "opponent_adjustment": 0.11,
+        "opponent_league_position": 18,
+        "opponent_attack_index": 0.695,
+        "opponent_defensive_vulnerability_index": 1.079
       }
     ],
-    "projected_points": 49.14
+    "projected_points": 48.92
   },
   "bench": [
     {
@@ -254,11 +254,11 @@
       "projected_points": 3.86,
       "status": "a",
       "news": "",
-      "strength_adjusted_points": 3.63,
-      "opponent_adjustment": -0.23,
+      "strength_adjusted_points": 3.56,
+      "opponent_adjustment": -0.3,
       "opponent_league_position": 4,
-      "opponent_attack_index": 1.016,
-      "opponent_defensive_vulnerability_index": 0.833
+      "opponent_attack_index": 1.122,
+      "opponent_defensive_vulnerability_index": 0.78
     },
     {
       "id": 469,
@@ -275,11 +275,11 @@
       "projected_points": 3.23,
       "status": "a",
       "news": "",
-      "strength_adjusted_points": 3.19,
-      "opponent_adjustment": -0.04,
-      "opponent_league_position": 7,
-      "opponent_attack_index": 1.108,
-      "opponent_defensive_vulnerability_index": 1.016
+      "strength_adjusted_points": 3.16,
+      "opponent_adjustment": -0.07,
+      "opponent_league_position": 5,
+      "opponent_attack_index": 1.122,
+      "opponent_defensive_vulnerability_index": 0.951
     },
     {
       "id": 98,
@@ -296,11 +296,11 @@
       "projected_points": 2.84,
       "status": "a",
       "news": "",
-      "strength_adjusted_points": 2.67,
-      "opponent_adjustment": -0.17,
-      "opponent_league_position": 6,
-      "opponent_attack_index": 0.924,
-      "opponent_defensive_vulnerability_index": 0.833
+      "strength_adjusted_points": 2.79,
+      "opponent_adjustment": -0.05,
+      "opponent_league_position": 9,
+      "opponent_attack_index": 0.865,
+      "opponent_defensive_vulnerability_index": 0.951
     },
     {
       "id": 1,
@@ -319,9 +319,9 @@
       "news": "Shoulder injury - 50% chance of playing",
       "strength_adjusted_points": 1.64,
       "opponent_adjustment": 0.03,
-      "opponent_league_position": 12,
-      "opponent_attack_index": 0.97,
-      "opponent_defensive_vulnerability_index": 1.108
+      "opponent_league_position": 13,
+      "opponent_attack_index": 0.994,
+      "opponent_defensive_vulnerability_index": 1.122
     }
   ],
   "captain": {
@@ -339,11 +339,11 @@
     "projected_points": 5.54,
     "status": "a",
     "news": "",
-    "strength_adjusted_points": 5.54,
-    "opponent_adjustment": 0.0,
-    "opponent_league_position": 13,
-    "opponent_attack_index": 0.879,
-    "opponent_defensive_vulnerability_index": 0.879
+    "strength_adjusted_points": 5.48,
+    "opponent_adjustment": -0.06,
+    "opponent_league_position": 11,
+    "opponent_attack_index": 0.908,
+    "opponent_defensive_vulnerability_index": 0.823
   },
   "vice_captain": {
     "id": 411,
@@ -360,18 +360,18 @@
     "projected_points": 5.41,
     "status": "a",
     "news": "",
-    "strength_adjusted_points": 5.27,
-    "opponent_adjustment": -0.14,
+    "strength_adjusted_points": 5.24,
+    "opponent_adjustment": -0.17,
     "opponent_league_position": 15,
-    "opponent_attack_index": 0.833,
-    "opponent_defensive_vulnerability_index": 0.924
+    "opponent_attack_index": 0.823,
+    "opponent_defensive_vulnerability_index": 0.908
   },
-  "captain_adjusted_total": 54.68,
+  "captain_adjusted_total": 54.4,
   "comparison_to_v2": {
     "previous_formation": "4-3-3",
     "new_formation": "4-3-3",
     "previous_projected_points": 49.32,
-    "new_projected_points": 49.14,
+    "new_projected_points": 48.92,
     "players_added": [],
     "players_removed": [],
     "captain_changed": false,

@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-24T02:12:40.264130+00:00",
+  "generated_utc": "2026-11-24T13:41:28.686469+00:00",
   "source": "Official FPL API via fetch_fpl.py; optional manually maintained football_calendar.json",
   "current_gameweek": 11,
   "squad_source_gameweek": 11,
@@ -23,7 +23,7 @@
               "opponent": "Newcastle",
               "home": false,
               "kickoff": "2026-11-21T17:30:00Z",
-              "finished": false
+              "finished": true
             }
           ],
           "owned_players": [
@@ -43,7 +43,7 @@
               "opponent": "Sunderland",
               "home": true,
               "kickoff": "2026-11-21T15:00:00Z",
-              "finished": false
+              "finished": true
             }
           ],
           "owned_players": [
@@ -61,7 +61,7 @@
               "opponent": "Nott'm Forest",
               "home": true,
               "kickoff": "2026-11-21T15:00:00Z",
-              "finished": false
+              "finished": true
             }
           ],
           "owned_players": [
@@ -81,7 +81,7 @@
               "opponent": "Everton",
               "home": true,
               "kickoff": "2026-11-23T20:00:00Z",
-              "finished": false
+              "finished": true
             }
           ],
           "owned_players": [
@@ -99,7 +99,7 @@
               "opponent": "Hull City",
               "home": false,
               "kickoff": "2026-11-22T14:00:00Z",
-              "finished": false
+              "finished": true
             }
           ],
           "owned_players": [
@@ -118,7 +118,7 @@
               "opponent": "Leeds",
               "home": true,
               "kickoff": "2026-11-21T15:00:00Z",
-              "finished": false
+              "finished": true
             }
           ],
           "owned_players": [
@@ -136,7 +136,7 @@
               "opponent": "Crystal Palace",
               "home": true,
               "kickoff": "2026-11-21T15:00:00Z",
-              "finished": false
+              "finished": true
             }
           ],
           "owned_players": [
@@ -154,7 +154,7 @@
               "opponent": "Coventry City",
               "home": false,
               "kickoff": "2026-11-21T15:00:00Z",
-              "finished": false
+              "finished": true
             }
           ],
           "owned_players": []
@@ -170,7 +170,7 @@
               "opponent": "Brentford",
               "home": false,
               "kickoff": "2026-11-23T20:00:00Z",
-              "finished": false
+              "finished": true
             }
           ],
           "owned_players": []
@@ -186,7 +186,7 @@
               "opponent": "Man City",
               "home": false,
               "kickoff": "2026-11-21T12:30:00Z",
-              "finished": false
+              "finished": true
             }
           ],
           "owned_players": []
@@ -202,7 +202,7 @@
               "opponent": "Brighton",
               "home": true,
               "kickoff": "2026-11-22T14:00:00Z",
-              "finished": false
+              "finished": true
             }
           ],
           "owned_players": []
@@ -218,7 +218,7 @@
               "opponent": "Spurs",
               "home": false,
               "kickoff": "2026-11-21T15:00:00Z",
-              "finished": false
+              "finished": true
             }
           ],
           "owned_players": []
@@ -234,7 +234,7 @@
               "opponent": "Chelsea",
               "home": false,
               "kickoff": "2026-11-21T15:00:00Z",
-              "finished": false
+              "finished": true
             }
           ],
           "owned_players": []
@@ -250,7 +250,7 @@
               "opponent": "Man Utd",
               "home": true,
               "kickoff": "2026-11-22T16:30:00Z",
-              "finished": false
+              "finished": true
             }
           ],
           "owned_players": []
@@ -266,7 +266,7 @@
               "opponent": "Fulham",
               "home": true,
               "kickoff": "2026-11-21T12:30:00Z",
-              "finished": false
+              "finished": true
             }
           ],
           "owned_players": [
@@ -284,7 +284,7 @@
               "opponent": "Liverpool",
               "home": false,
               "kickoff": "2026-11-22T16:30:00Z",
-              "finished": false
+              "finished": true
             }
           ],
           "owned_players": [
@@ -302,7 +302,7 @@
               "opponent": "Arsenal",
               "home": true,
               "kickoff": "2026-11-21T17:30:00Z",
-              "finished": false
+              "finished": true
             }
           ],
           "owned_players": []
@@ -318,7 +318,7 @@
               "opponent": "Bournemouth",
               "home": false,
               "kickoff": "2026-11-21T15:00:00Z",
-              "finished": false
+              "finished": true
             }
           ],
           "owned_players": [
@@ -336,7 +336,7 @@
               "opponent": "Ipswich Town",
               "home": true,
               "kickoff": "2026-11-21T15:00:00Z",
-              "finished": false
+              "finished": true
             }
           ],
           "owned_players": []
@@ -352,7 +352,7 @@
               "opponent": "Aston Villa",
               "home": false,
               "kickoff": "2026-11-21T15:00:00Z",
-              "finished": false
+              "finished": true
             }
           ],
           "owned_players": []

@@ -287,9 +287,9 @@
       "home": true,
       "difficulty": 3,
       "expected_minutes": 12.0,
-      "xg90": 10.875,
+      "xg90": 8.85,
       "xa90": 0.525,
-      "projected_points": 7.73,
+      "projected_points": 6.38,
       "status": "a",
       "news": ""
     },
@@ -966,6 +966,22 @@
       "news": ""
     },
     {
+      "id": 105,
+      "name": "Anthony",
+      "club": "Brentford",
+      "position": 3,
+      "price": 5.9,
+      "opponent": "Everton",
+      "home": true,
+      "difficulty": 3,
+      "expected_minutes": 90,
+      "xg90": 0.28,
+      "xa90": 0.158,
+      "projected_points": 4.17,
+      "status": "a",
+      "news": ""
+    },
+    {
       "id": 647,
       "name": "Osorio",
       "club": "Crystal Palace",
@@ -1009,22 +1025,6 @@
       "expected_minutes": 79.4,
       "xg90": 0.404,
       "xa90": 0.128,
-      "projected_points": 4.14,
-      "status": "a",
-      "news": ""
-    },
-    {
-      "id": 105,
-      "name": "Anthony",
-      "club": "Brentford",
-      "position": 3,
-      "price": 5.9,
-      "opponent": "Everton",
-      "home": true,
-      "difficulty": 3,
-      "expected_minutes": 90,
-      "xg90": 0.28,
-      "xa90": 0.15,
       "projected_points": 4.14,
       "status": "a",
       "news": ""

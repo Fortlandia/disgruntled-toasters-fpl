@@ -131,13 +131,13 @@
       "position": 3,
       "price": 5.0,
       "form": 1.5,
-      "xgi_per90": 11.4,
+      "xgi_per90": 9.38,
       "fixture": "Everton",
       "home": true,
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 66.0
+      "score": 55.88
     },
     {
       "id": 366,
@@ -455,6 +455,21 @@
       "score": 18.75
     },
     {
+      "id": 86,
+      "name": "Lewis-Potter",
+      "club": "Brentford",
+      "position": 3,
+      "price": 5.5,
+      "form": 5.5,
+      "xgi_per90": 0.35,
+      "fixture": "Everton",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 18.74
+    },
+    {
       "id": 129,
       "name": "Ayari",
       "club": "Brighton",
@@ -468,21 +483,6 @@
       "status": "a",
       "news": "",
       "score": 18.73
-    },
-    {
-      "id": 86,
-      "name": "Lewis-Potter",
-      "club": "Brentford",
-      "position": 3,
-      "price": 5.5,
-      "form": 5.5,
-      "xgi_per90": 0.34,
-      "fixture": "Everton",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 18.72
     },
     {
       "id": 26,
@@ -598,13 +598,13 @@
       "position": 3,
       "price": 5.0,
       "form": 1.5,
-      "xgi_per90": 11.4,
+      "xgi_per90": 9.38,
       "fixture": "Everton",
       "home": true,
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 66.0
+      "score": 55.88
     },
     {
       "id": 366,
@@ -1012,6 +1012,21 @@
       "score": 18.75
     },
     {
+      "id": 86,
+      "name": "Lewis-Potter",
+      "club": "Brentford",
+      "position": 3,
+      "price": 5.5,
+      "form": 5.5,
+      "xgi_per90": 0.35,
+      "fixture": "Everton",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 18.74
+    },
+    {
       "id": 129,
       "name": "Ayari",
       "club": "Brighton",
@@ -1025,21 +1040,6 @@
       "status": "a",
       "news": "",
       "score": 18.73
-    },
-    {
-      "id": 86,
-      "name": "Lewis-Potter",
-      "club": "Brentford",
-      "position": 3,
-      "price": 5.5,
-      "form": 5.5,
-      "xgi_per90": 0.34,
-      "fixture": "Everton",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 18.72
     },
     {
       "id": 124,
@@ -1204,7 +1204,7 @@
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 17.81
+      "score": 17.8
     },
     {
       "id": 45,
@@ -1657,6 +1657,21 @@
       "score": 15.81
     },
     {
+      "id": 105,
+      "name": "Anthony",
+      "club": "Brentford",
+      "position": 3,
+      "price": 5.9,
+      "form": 3.8,
+      "xgi_per90": 0.44,
+      "fixture": "Everton",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 15.79
+    },
+    {
       "id": 154,
       "name": "Palmer",
       "club": "Chelsea",
@@ -1685,21 +1700,6 @@
       "status": "a",
       "news": "",
       "score": 15.77
-    },
-    {
-      "id": 105,
-      "name": "Anthony",
-      "club": "Brentford",
-      "position": 3,
-      "price": 5.9,
-      "form": 3.8,
-      "xgi_per90": 0.43,
-      "fixture": "Everton",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 15.75
     },
     {
       "id": 336,
@@ -2014,7 +2014,7 @@
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 14.95
+      "score": 14.96
     },
     {
       "id": 106,
@@ -3572,8 +3572,8 @@
       "fixture": "Sunderland",
       "home": true,
       "difficulty": 2,
-      "status": "d",
-      "news": "Illness - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 10.91
     },
     {
@@ -3847,6 +3847,21 @@
       "score": 10.49
     },
     {
+      "id": 96,
+      "name": "Damsgaard",
+      "club": "Brentford",
+      "position": 3,
+      "price": 5.2,
+      "form": 1.2,
+      "xgi_per90": 0.42,
+      "fixture": "Everton",
+      "home": true,
+      "difficulty": 3,
+      "status": "a",
+      "news": "",
+      "score": 10.48
+    },
+    {
       "id": 42,
       "name": "Guessand",
       "club": "Crystal Palace",
@@ -3943,28 +3958,13 @@
       "position": 4,
       "price": 5.3,
       "form": 1.2,
-      "xgi_per90": 0.39,
+      "xgi_per90": 0.38,
       "fixture": "Everton",
       "home": true,
       "difficulty": 3,
       "status": "a",
       "news": "",
-      "score": 10.36
-    },
-    {
-      "id": 96,
-      "name": "Damsgaard",
-      "club": "Brentford",
-      "position": 3,
-      "price": 5.2,
-      "form": 1.2,
-      "xgi_per90": 0.39,
-      "fixture": "Everton",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 10.33
+      "score": 10.3
     },
     {
       "id": 149,
@@ -7668,7 +7668,7 @@
       "home": true,
       "difficulty": 3,
       "status": "i",
-      "news": "Knee injury - Unknown return date",
+      "news": "Knee injury - Expected back 12 Dec",
       "score": 6.0
     },
     {
@@ -7698,7 +7698,7 @@
       "home": true,
       "difficulty": 3,
       "status": "i",
-      "news": "Knee injury - Unknown return date",
+      "news": "Knee injury - Expected back 12 Dec",
       "score": 6.0
     },
     {
@@ -8192,8 +8192,8 @@
       "fixture": "Liverpool",
       "home": false,
       "difficulty": 4,
-      "status": "i",
-      "news": "Unspecified injury - Unknown return date",
+      "status": "d",
+      "news": "Unspecified injury - 75% chance of playing",
       "score": 4.66
     },
     {

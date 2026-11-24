@@ -704,70 +704,70 @@
     "kickoff_time": "2026-11-21T12:30:00Z",
     "team_h": 15,
     "team_a": 10,
-    "finished": false
+    "finished": true
   },
   "101": {
     "event": 11,
     "kickoff_time": "2026-11-21T15:00:00Z",
     "team_h": 2,
     "team_a": 20,
-    "finished": false
+    "finished": true
   },
   "102": {
     "event": 11,
     "kickoff_time": "2026-11-21T15:00:00Z",
     "team_h": 3,
     "team_a": 18,
-    "finished": false
+    "finished": true
   },
   "104": {
     "event": 11,
     "kickoff_time": "2026-11-21T15:00:00Z",
     "team_h": 6,
     "team_a": 13,
-    "finished": false
+    "finished": true
   },
   "105": {
     "event": 11,
     "kickoff_time": "2026-11-21T15:00:00Z",
     "team_h": 7,
     "team_a": 8,
-    "finished": false
+    "finished": true
   },
   "110": {
     "event": 11,
     "kickoff_time": "2026-11-21T15:00:00Z",
     "team_h": 19,
     "team_a": 12,
-    "finished": false
+    "finished": true
   },
   "109": {
     "event": 11,
     "kickoff_time": "2026-11-21T17:30:00Z",
     "team_h": 17,
     "team_a": 1,
-    "finished": false
+    "finished": true
   },
   "106": {
     "event": 11,
     "kickoff_time": "2026-11-22T14:00:00Z",
     "team_h": 11,
     "team_a": 5,
-    "finished": false
+    "finished": true
   },
   "107": {
     "event": 11,
     "kickoff_time": "2026-11-22T16:30:00Z",
     "team_h": 14,
     "team_a": 16,
-    "finished": false
+    "finished": true
   },
   "103": {
     "event": 11,
     "kickoff_time": "2026-11-23T20:00:00Z",
     "team_h": 4,
     "team_a": 9,
-    "finished": false
+    "finished": true
   },
   "119": {
     "event": 12,

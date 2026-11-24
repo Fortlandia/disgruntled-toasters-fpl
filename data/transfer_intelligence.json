@@ -431,10 +431,10 @@
       "price": 5.5,
       "minutes": 846,
       "form": 5.5,
-      "xgi_per90": 0.34,
+      "xgi_per90": 0.35,
       "average_fixture_difficulty": 3.4,
       "fixtures_evaluated": 5,
-      "score": 17.92,
+      "score": 17.94,
       "already_owned": false,
       "club_full": false
     },
@@ -562,7 +562,7 @@
       "xgi_per90": 0.36,
       "average_fixture_difficulty": 3.4,
       "fixtures_evaluated": 5,
-      "score": 17.01,
+      "score": 17.0,
       "already_owned": false,
       "club_full": false
     },
