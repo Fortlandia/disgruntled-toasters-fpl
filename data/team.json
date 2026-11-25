@@ -144,7 +144,7 @@
         "entry_can_leave": false,
         "entry_last_rank": 2342958,
         "entry_percentile_rank": 30,
-        "entry_rank": 2432585,
+        "entry_rank": 2432584,
         "featured_entry_ids": [],
         "has_cup": false,
         "id": 276,
@@ -192,7 +192,7 @@
         "entry_can_leave": false,
         "entry_last_rank": 2347374,
         "entry_percentile_rank": 25,
-        "entry_rank": 2437768,
+        "entry_rank": 2437767,
         "featured_entry_ids": [],
         "has_cup": true,
         "id": 314,
@@ -384,7 +384,7 @@
         "entry_can_leave": false,
         "entry_last_rank": 519837,
         "entry_percentile_rank": 10,
-        "entry_rank": 640426,
+        "entry_rank": 640425,
         "featured_entry_ids": [],
         "has_cup": false,
         "id": 2430021,
@@ -460,6 +460,6 @@
   "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/2859977/0e815eb9-2afa-4e66-b2e0-0df613deaf5f.png",
   "summary_overall_points": 644,
   "summary_event_points": 34,
-  "summary_event_rank": 5829791,
-  "summary_overall_rank": 2437768
+  "summary_event_rank": 5829784,
+  "summary_overall_rank": 2437767
 }
