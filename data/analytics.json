@@ -500,21 +500,6 @@
       "score": 18.81
     },
     {
-      "id": 114,
-      "name": "Boscagli",
-      "club": "Brighton",
-      "position": 2,
-      "price": 4.5,
-      "form": 6.0,
-      "xgi_per90": 0.16,
-      "fixture": "Newcastle",
-      "home": true,
-      "difficulty": 3,
-      "status": "a",
-      "news": "",
-      "score": 18.79
-    },
-    {
       "id": 426,
       "name": "B.Fernandes",
       "club": "Man Utd",
@@ -573,6 +558,21 @@
       "status": "a",
       "news": "",
       "score": 18.64
+    },
+    {
+      "id": 16,
+      "name": "Madueke",
+      "club": "Arsenal",
+      "position": 3,
+      "price": 6.2,
+      "form": 6.0,
+      "xgi_per90": 0.5,
+      "fixture": "Man City",
+      "home": true,
+      "difficulty": 4,
+      "status": "a",
+      "news": "",
+      "score": 18.52
     }
   ],
   "all_players": [
@@ -1067,8 +1067,8 @@
       "fixture": "Newcastle",
       "home": true,
       "difficulty": 3,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Illness - 75% chance of playing",
       "score": 18.79
     },
     {
@@ -3287,8 +3287,8 @@
       "fixture": "Everton",
       "home": false,
       "difficulty": 3,
-      "status": "d",
-      "news": "Calf injury - 75% chance of playing",
+      "status": "i",
+      "news": "Calf injury - Expected back 2 Dec",
       "score": 11.76
     },
     {
@@ -6842,8 +6842,8 @@
       "fixture": "Everton",
       "home": false,
       "difficulty": 3,
-      "status": "d",
-      "news": "Foot injury - 75% chance of playing",
+      "status": "i",
+      "news": "Foot injury - Unknown return date",
       "score": 6.45
     },
     {
@@ -8252,8 +8252,8 @@
       "fixture": "Chelsea",
       "home": true,
       "difficulty": 4,
-      "status": "i",
-      "news": "Unspecified injury - Unknown return date",
+      "status": "a",
+      "news": "",
       "score": 5.9
     },
     {

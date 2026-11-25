@@ -2043,9 +2043,9 @@
     "expected_goals": "0.14",
     "expected_assists": "1.35",
     "minutes": 848,
-    "status": "a",
-    "news": "",
-    "chance_next_round": null
+    "status": "d",
+    "news": "Illness - 75% chance of playing",
+    "chance_next_round": 75
   },
   {
     "id": 115,
@@ -7227,9 +7227,9 @@
     "expected_goals": "1.24",
     "expected_assists": "1.91",
     "minutes": 601,
-    "status": "d",
-    "news": "Calf injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "i",
+    "news": "Calf injury - Expected back 2 Dec",
+    "chance_next_round": 0
   },
   {
     "id": 368,
@@ -7291,9 +7291,9 @@
     "expected_goals": "0.17",
     "expected_assists": "0.17",
     "minutes": 341,
-    "status": "d",
-    "news": "Foot injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "i",
+    "news": "Foot injury - Unknown return date",
+    "chance_next_round": 0
   },
   {
     "id": 372,
@@ -9403,9 +9403,9 @@
     "expected_goals": "0.11",
     "expected_assists": "0.08",
     "minutes": 45,
-    "status": "i",
-    "news": "Unspecified injury - Unknown return date",
-    "chance_next_round": 0
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 483,
