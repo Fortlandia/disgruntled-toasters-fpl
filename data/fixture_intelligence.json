@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-25T19:15:01.531145+00:00",
+  "generated_utc": "2026-11-26T03:34:24.303856+00:00",
   "source": "Official FPL API via fetch_fpl.py; optional manually maintained football_calendar.json",
   "current_gameweek": 12,
   "squad_source_gameweek": 11,
@@ -2133,28 +2133,6 @@
   "unassigned_fixtures": [],
   "fixture_changes_since_previous_run": [],
   "calendar_events": [
-    {
-      "date": "2026-11-25",
-      "competition": "UEFA Champions League",
-      "description": "Club Brugge KV vs Liverpool FC — 2026-11-25T20:00:00Z (UTC)",
-      "status": "TIMED",
-      "source": "football-data.org v4 (API)",
-      "fixture_id": 575409,
-      "premier_league_clubs": [
-        "Liverpool"
-      ]
-    },
-    {
-      "date": "2026-11-25",
-      "competition": "UEFA Champions League",
-      "description": "Sporting Clube de Portugal vs Manchester United FC — 2026-11-25T20:00:00Z (UTC)",
-      "status": "TIMED",
-      "source": "football-data.org v4 (API)",
-      "fixture_id": 575411,
-      "premier_league_clubs": [
-        "Man Utd"
-      ]
-    },
     {
       "date": "2026-12-08",
       "competition": "UEFA Champions League",
