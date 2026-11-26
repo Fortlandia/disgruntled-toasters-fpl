@@ -977,8 +977,8 @@
       "fixture": "Leeds",
       "home": false,
       "difficulty": 3,
-      "status": "d",
-      "news": "Ankle injury - 75% chance of playing",
+      "status": "i",
+      "news": "Ankle injury - Unknown return date",
       "score": 19.33
     },
     {
@@ -2777,8 +2777,8 @@
       "fixture": "Nott'm Forest",
       "home": false,
       "difficulty": 2,
-      "status": "d",
-      "news": "Back injury - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "score": 12.75
     },
     {

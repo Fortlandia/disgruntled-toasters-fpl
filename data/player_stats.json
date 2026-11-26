@@ -2907,9 +2907,9 @@
     "expected_goals": "0.05",
     "expected_assists": "0.10",
     "minutes": 461,
-    "status": "d",
-    "news": "Back injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "a",
+    "news": "",
+    "chance_next_round": 100
   },
   {
     "id": 161,
@@ -3643,9 +3643,9 @@
     "expected_goals": "2.90",
     "expected_assists": "0.05",
     "minutes": 487,
-    "status": "d",
-    "news": "Ankle injury - 75% chance of playing",
-    "chance_next_round": 75
+    "status": "i",
+    "news": "Ankle injury - Unknown return date",
+    "chance_next_round": 0
   },
   {
     "id": 575,
