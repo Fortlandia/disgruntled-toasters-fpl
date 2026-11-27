@@ -1788,7 +1788,7 @@
     "expected_assists": "0.00",
     "minutes": 0,
     "status": "i",
-    "news": "Knee injury - Unknown return date",
+    "news": "Lack of match fitness - Expected back 5 Dec",
     "chance_next_round": 0
   },
   {
@@ -1836,7 +1836,7 @@
     "expected_assists": "0.00",
     "minutes": 0,
     "status": "i",
-    "news": "Hamstring injury - Unknown return date",
+    "news": "Lack of match fitness - Expected back 5 Dec",
     "chance_next_round": 0
   },
   {
@@ -10395,9 +10395,9 @@
     "expected_goals": "0.02",
     "expected_assists": "0.02",
     "minutes": 209,
-    "status": "a",
-    "news": "",
-    "chance_next_round": 100
+    "status": "d",
+    "news": "Unspecified injury - 75% chance of playing",
+    "chance_next_round": 75
   },
   {
     "id": 536,

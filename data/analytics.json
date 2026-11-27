@@ -7052,8 +7052,8 @@
       "fixture": "Spurs",
       "home": true,
       "difficulty": 3,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Unspecified injury - 75% chance of playing",
       "score": 6.09
     },
     {
@@ -7263,7 +7263,7 @@
       "home": false,
       "difficulty": 3,
       "status": "i",
-      "news": "Knee injury - Unknown return date",
+      "news": "Lack of match fitness - Expected back 5 Dec",
       "score": 6.0
     },
     {
@@ -7278,7 +7278,7 @@
       "home": false,
       "difficulty": 3,
       "status": "i",
-      "news": "Hamstring injury - Unknown return date",
+      "news": "Lack of match fitness - Expected back 5 Dec",
       "score": 6.0
     },
     {
